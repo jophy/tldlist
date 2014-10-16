@@ -1,0 +1,5256 @@
+<?xml version="1.0" ?>
+<!--A tld xml including the whole gTLDs & ccTLDs . -->
+<!--Create time :2014-10-16 16:01:16-->
+<!--Author: Jophy (https://github.com/jophy)-->
+<tldlist>
+	<tld id="1">
+		<domain>.ac</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ac/</nic>
+		<whois>whois.nic.ac</whois>
+	</tld>
+	<tld id="2">
+		<domain>.academy</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="3">
+		<domain>.accountants</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="4">
+		<domain>.active</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.activenetwork.com/</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="5">
+		<domain>.actor</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="6">
+		<domain>.ad</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ad</nic>
+		<whois></whois>
+	</tld>
+	<tld id="7">
+		<domain>.ae</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://aeda.ae/</nic>
+		<whois>whois.aeda.net.ae</whois>
+	</tld>
+	<tld id="8">
+		<domain>.aero</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.information.aero</nic>
+		<whois>whois.aero</whois>
+	</tld>
+	<tld id="9">
+		<domain>.af</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.af</nic>
+		<whois>whois.nic.af</whois>
+	</tld>
+	<tld id="10">
+		<domain>.ag</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ag</nic>
+		<whois>whois.nic.ag</whois>
+	</tld>
+	<tld id="11">
+		<domain>.agency</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="12">
+		<domain>.ai</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://whois.ai</nic>
+		<whois>whois.ai</whois>
+	</tld>
+	<tld id="13">
+		<domain>.airforce</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="14">
+		<domain>.al</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.akep.al/sq/regjistrim-domain</nic>
+		<whois></whois>
+	</tld>
+	<tld id="15">
+		<domain>.allfinanz</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.allfinanz-registry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="16">
+		<domain>.alsace</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.alsace.com</nic>
+		<whois>whois-alsace.nic.fr</whois>
+	</tld>
+	<tld id="17">
+		<domain>.am</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://www.amnic.net/</nic>
+		<whois>whois.amnic.net</whois>
+	</tld>
+	<tld id="18">
+		<domain>.an</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.uoc.cw/an_domreg</nic>
+		<whois></whois>
+	</tld>
+	<tld id="19">
+		<domain>.ao</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.ao/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="20">
+		<domain>.aq</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="21">
+		<domain>.ar</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://nic.ar</nic>
+		<whois></whois>
+	</tld>
+	<tld id="22">
+		<domain>.archi</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://startingdot.com/</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="23">
+		<domain>.army</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="24">
+		<domain>.arpa</domain>
+		<idn></idn>
+		<type>infrastructure</type>
+		<nic>http://www.iana.org/arpa-dom/</nic>
+		<whois>whois.iana.org</whois>
+	</tld>
+	<tld id="25">
+		<domain>.as</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.as</nic>
+		<whois>whois.nic.as</whois>
+	</tld>
+	<tld id="26">
+		<domain>.asia</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.registry.asia</nic>
+		<whois>whois.nic.asia</whois>
+	</tld>
+	<tld id="27">
+		<domain>.associates</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="28">
+		<domain>.at</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.at/</nic>
+		<whois>whois.nic.at</whois>
+	</tld>
+	<tld id="29">
+		<domain>.attorney</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="30">
+		<domain>.au</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.auda.org.au/domains/au-domains/</nic>
+		<whois>whois.audns.net.au</whois>
+	</tld>
+	<tld id="31">
+		<domain>.auction</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="32">
+		<domain>.audio</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="33">
+		<domain>.autos</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dominionenterprises.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="34">
+		<domain>.aw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>whois.nic.aw</whois>
+	</tld>
+	<tld id="35">
+		<domain>.ax</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.whois.ax</nic>
+		<whois>whois.ax</whois>
+	</tld>
+	<tld id="36">
+		<domain>.axa</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.axa.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="37">
+		<domain>.az</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.whois.az/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="38">
+		<domain>.ba</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ba</nic>
+		<whois></whois>
+	</tld>
+	<tld id="39">
+		<domain>.bar</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.bar</nic>
+		<whois>whois.nic.bar</whois>
+	</tld>
+	<tld id="40">
+		<domain>.bargains</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="41">
+		<domain>.bayern</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="42">
+		<domain>.bb</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.whois.telecoms.gov.bb/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="43">
+		<domain>.bd</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://whois.btcl.net.bd/registration.html</nic>
+		<whois></whois>
+	</tld>
+	<tld id="44">
+		<domain>.be</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.be</nic>
+		<whois>whois.dns.be</whois>
+	</tld>
+	<tld id="45">
+		<domain>.beer</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="46">
+		<domain>.berlin</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.berlin/</nic>
+		<whois>whois.nic.berlin</whois>
+	</tld>
+	<tld id="47">
+		<domain>.best</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.peoplebrowsr.com</nic>
+		<whois>whois.nic.best</whois>
+	</tld>
+	<tld id="48">
+		<domain>.bf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.arce.bf/domaine.php</nic>
+		<whois></whois>
+	</tld>
+	<tld id="49">
+		<domain>.bg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.register.bg</nic>
+		<whois>whois.register.bg</whois>
+	</tld>
+	<tld id="50">
+		<domain>.bh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="51">
+		<domain>.bi</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.bi</nic>
+		<whois>whois1.nic.bi</whois>
+	</tld>
+	<tld id="52">
+		<domain>.bid</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.famousfourmedia.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="53">
+		<domain>.bike</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="54">
+		<domain>.bio</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.startingdot.com/</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="55">
+		<domain>.biz</domain>
+		<idn></idn>
+		<type>generic-restricted</type>
+		<nic>http://www.nic.biz</nic>
+		<whois>whois.biz</whois>
+	</tld>
+	<tld id="56">
+		<domain>.bj</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.bj</nic>
+		<whois>whois.nic.bj</whois>
+	</tld>
+	<tld id="57">
+		<domain>.bl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="58">
+		<domain>.black</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="59">
+		<domain>.blackfriday</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="60">
+		<domain>.blue</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="61">
+		<domain>.bm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.bermudanic.bm</nic>
+		<whois></whois>
+	</tld>
+	<tld id="62">
+		<domain>.bmw</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.bmw.com</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="63">
+		<domain>.bn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.telbru.com.bn</nic>
+		<whois>whois.bn</whois>
+	</tld>
+	<tld id="64">
+		<domain>.bnpparibas</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.bnpparibas.com/en/about-us</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="65">
+		<domain>.bo</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.bo</nic>
+		<whois>whois.nic.bo</whois>
+	</tld>
+	<tld id="66">
+		<domain>.boo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="67">
+		<domain>.boutique</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="68">
+		<domain>.bq</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="69">
+		<domain>.br</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://registro.br/</nic>
+		<whois>whois.registro.br</whois>
+	</tld>
+	<tld id="70">
+		<domain>.brussels</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.brussels</nic>
+		<whois>whois.nic.brussels</whois>
+	</tld>
+	<tld id="71">
+		<domain>.bs</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.register.bs</nic>
+		<whois></whois>
+	</tld>
+	<tld id="72">
+		<domain>.bt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.bt</nic>
+		<whois></whois>
+	</tld>
+	<tld id="73">
+		<domain>.budapest</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com/</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="74">
+		<domain>.build</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotbuild.co</nic>
+		<whois>whois.nic.build</whois>
+	</tld>
+	<tld id="75">
+		<domain>.builders</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="76">
+		<domain>.business</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="77">
+		<domain>.buzz</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.buzznames.biz</nic>
+		<whois></whois>
+	</tld>
+	<tld id="78">
+		<domain>.bv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.norid.no/omnorid/toppdomenet-bv.en.html</nic>
+		<whois></whois>
+	</tld>
+	<tld id="79">
+		<domain>.bw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://registry.nic.net.bw</nic>
+		<whois>whois.nic.net.bw</whois>
+	</tld>
+	<tld id="80">
+		<domain>.by</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://cctld.by</nic>
+		<whois>whois.cctld.by</whois>
+	</tld>
+	<tld id="81">
+		<domain>.bz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.belizenic.bz</nic>
+		<whois></whois>
+	</tld>
+	<tld id="82">
+		<domain>.bzh</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.pik.bzh</nic>
+		<whois>whois-bzh.nic.fr</whois>
+	</tld>
+	<tld id="83">
+		<domain>.ca</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cira.ca/</nic>
+		<whois>whois.cira.ca</whois>
+	</tld>
+	<tld id="84">
+		<domain>.cab</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="85">
+		<domain>.cal</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="86">
+		<domain>.camera</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="87">
+		<domain>.camp</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="88">
+		<domain>.cancerresearch</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.acrf.com.au</nic>
+		<whois>whois.nic.cancerresearch</whois>
+	</tld>
+	<tld id="89">
+		<domain>.capetown</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://registry.net.za</nic>
+		<whois>capetown-whois.registry.net.za</whois>
+	</tld>
+	<tld id="90">
+		<domain>.capital</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="91">
+		<domain>.caravan</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.caravan.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="92">
+		<domain>.cards</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="93">
+		<domain>.care</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="94">
+		<domain>.career</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois.nic.career</whois>
+	</tld>
+	<tld id="95">
+		<domain>.careers</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="96">
+		<domain>.casa</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com/</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="97">
+		<domain>.cash</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="98">
+		<domain>.cat</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.domini.cat</nic>
+		<whois>whois.cat</whois>
+	</tld>
+	<tld id="99">
+		<domain>.catering</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="100">
+		<domain>.cc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cc/</nic>
+		<whois>ccwhois.verisign-grs.com</whois>
+	</tld>
+	<tld id="101">
+		<domain>.cd</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cd/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="102">
+		<domain>.center</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="103">
+		<domain>.ceo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.peoplebrowsr.com</nic>
+		<whois>whois.nic.ceo</whois>
+	</tld>
+	<tld id="104">
+		<domain>.cern</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.cern.ch</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="105">
+		<domain>.cf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dot.cf</nic>
+		<whois>whois.dot.cf</whois>
+	</tld>
+	<tld id="106">
+		<domain>.cg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cg</nic>
+		<whois></whois>
+	</tld>
+	<tld id="107">
+		<domain>.ch</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ch/</nic>
+		<whois>whois.nic.ch</whois>
+	</tld>
+	<tld id="108">
+		<domain>.channel</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="109">
+		<domain>.cheap</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="110">
+		<domain>.christmas</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="111">
+		<domain>.chrome</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="112">
+		<domain>.church</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="113">
+		<domain>.ci</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ci</nic>
+		<whois>whois.nic.ci</whois>
+	</tld>
+	<tld id="114">
+		<domain>.citic</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="115">
+		<domain>.city</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="116">
+		<domain>.ck</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.oyster.net.ck</nic>
+		<whois></whois>
+	</tld>
+	<tld id="117">
+		<domain>.cl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cl/</nic>
+		<whois>whois.nic.cl</whois>
+	</tld>
+	<tld id="118">
+		<domain>.claims</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="119">
+		<domain>.cleaning</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="120">
+		<domain>.click</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="121">
+		<domain>.clinic</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="122">
+		<domain>.clothing</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="123">
+		<domain>.club</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://dotclub.com</nic>
+		<whois>whois.nic.club</whois>
+	</tld>
+	<tld id="124">
+		<domain>.cm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.info.camnet.cm</nic>
+		<whois></whois>
+	</tld>
+	<tld id="125">
+		<domain>.cn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cnnic.cn/</nic>
+		<whois>whois.cnnic.cn</whois>
+	</tld>
+	<tld id="126">
+		<domain>.co</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cointernet.com.co</nic>
+		<whois>whois.nic.co</whois>
+	</tld>
+	<tld id="127">
+		<domain>.codes</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="128">
+		<domain>.coffee</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="129">
+		<domain>.college</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://xyz.com/college/</nic>
+		<whois>whois.centralnic.com</whois>
+	</tld>
+	<tld id="130">
+		<domain>.cologne</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotkoeln.de</nic>
+		<whois>whois-fe1.pdt.cologne.tango.knipp.de</whois>
+	</tld>
+	<tld id="131">
+		<domain>.com</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.verisign-grs.com</nic>
+		<whois>whois.verisign-grs.com</whois>
+	</tld>
+	<tld id="132">
+		<domain>.community</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="133">
+		<domain>.company</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="134">
+		<domain>.computer</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="135">
+		<domain>.condos</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="136">
+		<domain>.construction</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="137">
+		<domain>.consulting</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="138">
+		<domain>.contractors</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="139">
+		<domain>.cooking</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="140">
+		<domain>.cool</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="141">
+		<domain>.coop</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.nic.coop</nic>
+		<whois>whois.nic.coop</whois>
+	</tld>
+	<tld id="142">
+		<domain>.country</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="143">
+		<domain>.cr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cr/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="144">
+		<domain>.credit</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="145">
+		<domain>.creditcard</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="146">
+		<domain>.cruises</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="147">
+		<domain>.cu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cu</nic>
+		<whois></whois>
+	</tld>
+	<tld id="148">
+		<domain>.cuisinella</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.cuisinella/</nic>
+		<whois>whois.nic.cuisinella</whois>
+	</tld>
+	<tld id="149">
+		<domain>.cv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.cv/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="150">
+		<domain>.cw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.uoc.cw/cw_registry</nic>
+		<whois></whois>
+	</tld>
+	<tld id="151">
+		<domain>.cx</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cx</nic>
+		<whois>whois.nic.cx</whois>
+	</tld>
+	<tld id="152">
+		<domain>.cy</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cy</nic>
+		<whois></whois>
+	</tld>
+	<tld id="153">
+		<domain>.cymru</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://ourhomeonline.org.uk</nic>
+		<whois>whois.nic.cymru</whois>
+	</tld>
+	<tld id="154">
+		<domain>.cz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.cz/</nic>
+		<whois>whois.nic.cz</whois>
+	</tld>
+	<tld id="155">
+		<domain>.dad</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="156">
+		<domain>.dance</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="157">
+		<domain>.dating</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="158">
+		<domain>.day</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="159">
+		<domain>.de</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.denic.de/</nic>
+		<whois>whois.denic.de</whois>
+	</tld>
+	<tld id="160">
+		<domain>.deals</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="161">
+		<domain>.degree</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="162">
+		<domain>.democrat</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="163">
+		<domain>.dental</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="164">
+		<domain>.dentist</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="165">
+		<domain>.desi</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotdesi.com/</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="166">
+		<domain>.diamonds</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="167">
+		<domain>.diet</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="168">
+		<domain>.digital</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="169">
+		<domain>.direct</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="170">
+		<domain>.directory</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="171">
+		<domain>.discount</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="172">
+		<domain>.dj</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.dj</nic>
+		<whois></whois>
+	</tld>
+	<tld id="173">
+		<domain>.dk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dk-hostmaster.dk/</nic>
+		<whois>whois.dk-hostmaster.dk</whois>
+	</tld>
+	<tld id="174">
+		<domain>.dm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.dm</nic>
+		<whois>whois.nic.dm</whois>
+	</tld>
+	<tld id="175">
+		<domain>.dnp</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmoregistry.com/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="176">
+		<domain>.do</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.do</nic>
+		<whois></whois>
+	</tld>
+	<tld id="177">
+		<domain>.domains</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="178">
+		<domain>.durban</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.registry.net.za</nic>
+		<whois>durban-whois.registry.net.za</whois>
+	</tld>
+	<tld id="179">
+		<domain>.dvag</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dvag-registry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="180">
+		<domain>.dz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.dz</nic>
+		<whois>whois.nic.dz</whois>
+	</tld>
+	<tld id="181">
+		<domain>.eat</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="182">
+		<domain>.ec</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ec</nic>
+		<whois>whois.nic.ec</whois>
+	</tld>
+	<tld id="183">
+		<domain>.edu</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.educause.edu/edudomain</nic>
+		<whois>whois.educause.edu</whois>
+	</tld>
+	<tld id="184">
+		<domain>.education</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="185">
+		<domain>.ee</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.internet.ee</nic>
+		<whois>whois.tld.ee</whois>
+	</tld>
+	<tld id="186">
+		<domain>.eg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.egregistry.eg/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="187">
+		<domain>.eh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="188">
+		<domain>.email</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="189">
+		<domain>.engineer</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="190">
+		<domain>.engineering</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="191">
+		<domain>.enterprises</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="192">
+		<domain>.equipment</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="193">
+		<domain>.er</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="194">
+		<domain>.es</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.es/</nic>
+		<whois>whois.nic.es</whois>
+	</tld>
+	<tld id="195">
+		<domain>.esq</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="196">
+		<domain>.estate</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="197">
+		<domain>.et</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.ethiotelecom.et</nic>
+		<whois></whois>
+	</tld>
+	<tld id="198">
+		<domain>.eu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.eurid.eu</nic>
+		<whois>whois.eu</whois>
+	</tld>
+	<tld id="199">
+		<domain>.eus</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.puntueus.org/</nic>
+		<whois>whois.eus.coreregistry.net</whois>
+	</tld>
+	<tld id="200">
+		<domain>.events</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="201">
+		<domain>.exchange</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="202">
+		<domain>.expert</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="203">
+		<domain>.exposed</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="204">
+		<domain>.fail</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="205">
+		<domain>.farm</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="206">
+		<domain>.feedback</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://centralnic.com</nic>
+		<whois>whois.centralnic.com</whois>
+	</tld>
+	<tld id="207">
+		<domain>.fi</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://domain.fi</nic>
+		<whois>whois.fi</whois>
+	</tld>
+	<tld id="208">
+		<domain>.finance</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="209">
+		<domain>.financial</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="210">
+		<domain>.fish</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="211">
+		<domain>.fishing</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="212">
+		<domain>.fitness</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="213">
+		<domain>.fj</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://domains.fj/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="214">
+		<domain>.fk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.fidc.co.fk/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="215">
+		<domain>.flights</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="216">
+		<domain>.florist</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="217">
+		<domain>.fly</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="218">
+		<domain>.fm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dot.fm/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="219">
+		<domain>.fo</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.fo/</nic>
+		<whois>whois.nic.fo</whois>
+	</tld>
+	<tld id="220">
+		<domain>.foo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com/</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="221">
+		<domain>.forsale</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="222">
+		<domain>.foundation</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="223">
+		<domain>.fr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.fr/</nic>
+		<whois>whois.nic.fr</whois>
+	</tld>
+	<tld id="224">
+		<domain>.frl</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>https://nic.frl</nic>
+		<whois>whois.nic.frl</whois>
+	</tld>
+	<tld id="225">
+		<domain>.frogans</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.frogans.org</nic>
+		<whois>whois-frogans.nic.fr</whois>
+	</tld>
+	<tld id="226">
+		<domain>.fund</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="227">
+		<domain>.furniture</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="228">
+		<domain>.futbol</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="229">
+		<domain>.ga</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="230">
+		<domain>.gal</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.puntogal.org</nic>
+		<whois>whois.gal.coreregistry.net</whois>
+	</tld>
+	<tld id="231">
+		<domain>.gallery</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="232">
+		<domain>.gb</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="233">
+		<domain>.gbiz</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="234">
+		<domain>.gd</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://nic.gd</nic>
+		<whois>whois.nic.gd</whois>
+	</tld>
+	<tld id="235">
+		<domain>.ge</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://georgia.net.ge/domain/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="236">
+		<domain>.gent</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotgent.com</nic>
+		<whois>whois.nic.gent</whois>
+	</tld>
+	<tld id="237">
+		<domain>.gf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nplus.gf/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="238">
+		<domain>.gg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.channelisles.net/</nic>
+		<whois>whois.gg</whois>
+	</tld>
+	<tld id="239">
+		<domain>.gh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.ghana.com.gh/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="240">
+		<domain>.gi</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.gi</nic>
+		<whois>whois2.afilias-grs.net</whois>
+	</tld>
+	<tld id="241">
+		<domain>.gift</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="242">
+		<domain>.gifts</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="243">
+		<domain>.gives</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="244">
+		<domain>.gl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.gl/</nic>
+		<whois>whois.nic.gl</whois>
+	</tld>
+	<tld id="245">
+		<domain>.glass</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="246">
+		<domain>.gle</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="247">
+		<domain>.global</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotglobal.info</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="248">
+		<domain>.globo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois.gtlds.nic.br</whois>
+	</tld>
+	<tld id="249">
+		<domain>.gm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.gm</nic>
+		<whois></whois>
+	</tld>
+	<tld id="250">
+		<domain>.gmail</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="251">
+		<domain>.gmo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmoregistry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="252">
+		<domain>.gmx</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://cp.gmx.tango.knipp.de</nic>
+		<whois>whois-fe1.gmx.tango.knipp.de</whois>
+	</tld>
+	<tld id="253">
+		<domain>.gn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://psg.com/dns/gn</nic>
+		<whois></whois>
+	</tld>
+	<tld id="254">
+		<domain>.google</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="255">
+		<domain>.gop</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-cl01.mm-registry.com</whois>
+	</tld>
+	<tld id="256">
+		<domain>.gov</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.dotgov.gov</nic>
+		<whois>whois.dotgov.gov</whois>
+	</tld>
+	<tld id="257">
+		<domain>.gp</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.gp/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="258">
+		<domain>.gq</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dominio.gq</nic>
+		<whois>whois.dominio.gq</whois>
+	</tld>
+	<tld id="259">
+		<domain>.gr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.gr</nic>
+		<whois></whois>
+	</tld>
+	<tld id="260">
+		<domain>.graphics</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="261">
+		<domain>.gratis</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="262">
+		<domain>.green</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="263">
+		<domain>.gripe</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="264">
+		<domain>.gs</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://secure.nic.gs</nic>
+		<whois>whois.nic.gs</whois>
+	</tld>
+	<tld id="265">
+		<domain>.gt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.gt</nic>
+		<whois></whois>
+	</tld>
+	<tld id="266">
+		<domain>.gu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://gadao.gov.gu</nic>
+		<whois></whois>
+	</tld>
+	<tld id="267">
+		<domain>.guide</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="268">
+		<domain>.guitars</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="269">
+		<domain>.guru</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="270">
+		<domain>.gw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="271">
+		<domain>.gy</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://registry.gy/</nic>
+		<whois>whois.registry.gy</whois>
+	</tld>
+	<tld id="272">
+		<domain>.hamburg</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dothamburg.de</nic>
+		<whois>whois.nic.hamburg</whois>
+	</tld>
+	<tld id="273">
+		<domain>.haus</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="274">
+		<domain>.healthcare</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="275">
+		<domain>.help</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="276">
+		<domain>.here</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="277">
+		<domain>.hiphop</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="278">
+		<domain>.hiv</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dothiv.org</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="279">
+		<domain>.hk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.hkirc.hk</nic>
+		<whois>whois.hkirc.hk</whois>
+	</tld>
+	<tld id="280">
+		<domain>.hm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.hm</nic>
+		<whois></whois>
+	</tld>
+	<tld id="281">
+		<domain>.hn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.hn</nic>
+		<whois>whois.nic.hn</whois>
+	</tld>
+	<tld id="282">
+		<domain>.holdings</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="283">
+		<domain>.holiday</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="284">
+		<domain>.homes</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dominionenterprises.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="285">
+		<domain>.horse</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="286">
+		<domain>.host</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://radixregistry.com/</nic>
+		<whois>whois.nic.host</whois>
+	</tld>
+	<tld id="287">
+		<domain>.hosting</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="288">
+		<domain>.house</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="289">
+		<domain>.how</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="290">
+		<domain>.hr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.hr</nic>
+		<whois>whois.dns.hr</whois>
+	</tld>
+	<tld id="291">
+		<domain>.ht</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ht</nic>
+		<whois>whois.nic.ht</whois>
+	</tld>
+	<tld id="292">
+		<domain>.hu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.hu</nic>
+		<whois>whois.nic.hu</whois>
+	</tld>
+	<tld id="293">
+		<domain>.ibm</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.ibm.com</nic>
+		<whois>whois.nic.ibm</whois>
+	</tld>
+	<tld id="294">
+		<domain>.id</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://register.pandi.or.id</nic>
+		<whois>whois.pandi.or.id</whois>
+	</tld>
+	<tld id="295">
+		<domain>.ie</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domainregistry.ie</nic>
+		<whois>whois.domainregistry.ie</whois>
+	</tld>
+	<tld id="296">
+		<domain>.il</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.isoc.org.il/domains</nic>
+		<whois>whois.isoc.org.il</whois>
+	</tld>
+	<tld id="297">
+		<domain>.im</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.im</nic>
+		<whois>whois.nic.im</whois>
+	</tld>
+	<tld id="298">
+		<domain>.immo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="299">
+		<domain>.immobilien</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="300">
+		<domain>.in</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.in</nic>
+		<whois>whois.inregistry.net</whois>
+	</tld>
+	<tld id="301">
+		<domain>.industries</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="302">
+		<domain>.info</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.info</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="303">
+		<domain>.ing</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="304">
+		<domain>.ink</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotink.info</nic>
+		<whois>whois.centralnic.com</whois>
+	</tld>
+	<tld id="305">
+		<domain>.institute</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="306">
+		<domain>.insure</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="307">
+		<domain>.int</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.iana.org/int-dom/int.htm</nic>
+		<whois>whois.iana.org</whois>
+	</tld>
+	<tld id="308">
+		<domain>.international</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="309">
+		<domain>.investments</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="310">
+		<domain>.io</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.io/</nic>
+		<whois>whois.nic.io</whois>
+	</tld>
+	<tld id="311">
+		<domain>.iq</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://registrar.cmc.iq</nic>
+		<whois>whois.cmc.iq</whois>
+	</tld>
+	<tld id="312">
+		<domain>.ir</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ir</nic>
+		<whois>whois.nic.ir</whois>
+	</tld>
+	<tld id="313">
+		<domain>.is</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.isnic.is/</nic>
+		<whois>whois.isnic.is</whois>
+	</tld>
+	<tld id="314">
+		<domain>.it</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.it/</nic>
+		<whois>whois.nic.it</whois>
+	</tld>
+	<tld id="315">
+		<domain>.je</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.channelisles.net/</nic>
+		<whois>whois.je</whois>
+	</tld>
+	<tld id="316">
+		<domain>.jetzt</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.newtldcompany.com/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="317">
+		<domain>.jm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="318">
+		<domain>.jo</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://www.dns.jo/login.aspx</nic>
+		<whois></whois>
+	</tld>
+	<tld id="319">
+		<domain>.jobs</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.goto.jobs</nic>
+		<whois>jobswhois.verisign-grs.com</whois>
+	</tld>
+	<tld id="320">
+		<domain>.joburg</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.registry.net.za</nic>
+		<whois>joburg-whois.registry.net.za</whois>
+	</tld>
+	<tld id="321">
+		<domain>.jp</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://jprs.jp/</nic>
+		<whois>whois.jprs.jp</whois>
+	</tld>
+	<tld id="322">
+		<domain>.juegos</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="323">
+		<domain>.kaufen</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="324">
+		<domain>.ke</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.kenic.or.ke</nic>
+		<whois>whois.kenic.or.ke</whois>
+	</tld>
+	<tld id="325">
+		<domain>.kg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domain.kg/</nic>
+		<whois>whois.domain.kg</whois>
+	</tld>
+	<tld id="326">
+		<domain>.kh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.camnet.com.kh/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="327">
+		<domain>.ki</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ki</nic>
+		<whois>whois.nic.ki</whois>
+	</tld>
+	<tld id="328">
+		<domain>.kim</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="329">
+		<domain>.kitchen</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="330">
+		<domain>.kiwi</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://hello.kiwi</nic>
+		<whois>whois.nic.kiwi</whois>
+	</tld>
+	<tld id="331">
+		<domain>.km</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domaine.km/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="332">
+		<domain>.kn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="333">
+		<domain>.koeln</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotkoeln.de</nic>
+		<whois>whois-fe1.pdt.koeln.tango.knipp.de</whois>
+	</tld>
+	<tld id="334">
+		<domain>.kp</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.star.co.kp</nic>
+		<whois></whois>
+	</tld>
+	<tld id="335">
+		<domain>.kr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.or.kr/</nic>
+		<whois>whois.kr</whois>
+	</tld>
+	<tld id="336">
+		<domain>.krd</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dit.krg.org/</nic>
+		<whois>whois.aridnrs.net.au</whois>
+	</tld>
+	<tld id="337">
+		<domain>.kred</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.peoplebrowsr.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="338">
+		<domain>.kw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.kw/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="339">
+		<domain>.ky</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ky</nic>
+		<whois></whois>
+	</tld>
+	<tld id="340">
+		<domain>.kz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.kz</nic>
+		<whois>whois.nic.kz</whois>
+	</tld>
+	<tld id="341">
+		<domain>.la</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.la</nic>
+		<whois>whois.nic.la</whois>
+	</tld>
+	<tld id="342">
+		<domain>.lacaixa</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.lacaixa.com</nic>
+		<whois>whois.nic.lacaixa</whois>
+	</tld>
+	<tld id="343">
+		<domain>.land</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="344">
+		<domain>.lawyer</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="345">
+		<domain>.lb</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.aub.edu.lb/lbdr</nic>
+		<whois></whois>
+	</tld>
+	<tld id="346">
+		<domain>.lc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.lc</nic>
+		<whois></whois>
+	</tld>
+	<tld id="347">
+		<domain>.lease</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="348">
+		<domain>.lgbt</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="349">
+		<domain>.li</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.li</nic>
+		<whois>whois.nic.li</whois>
+	</tld>
+	<tld id="350">
+		<domain>.life</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="351">
+		<domain>.lighting</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="352">
+		<domain>.limited</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="353">
+		<domain>.limo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="354">
+		<domain>.link</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="355">
+		<domain>.lk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.lk/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="356">
+		<domain>.loans</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="357">
+		<domain>.london</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mydotlondon.com/</nic>
+		<whois>whois-lon.mm-registry.com</whois>
+	</tld>
+	<tld id="358">
+		<domain>.lotto</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="359">
+		<domain>.lr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://psg.com/dns/lr</nic>
+		<whois></whois>
+	</tld>
+	<tld id="360">
+		<domain>.ls</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="361">
+		<domain>.lt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domreg.lt</nic>
+		<whois>whois.domreg.lt</whois>
+	</tld>
+	<tld id="362">
+		<domain>.ltda</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.myltda.com.br</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="363">
+		<domain>.lu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.lu</nic>
+		<whois>whois.dns.lu</whois>
+	</tld>
+	<tld id="364">
+		<domain>.luxe</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="365">
+		<domain>.luxury</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotluxury.com</nic>
+		<whois>whois.nic.luxury</whois>
+	</tld>
+	<tld id="366">
+		<domain>.lv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.lv/</nic>
+		<whois>whois.nic.lv</whois>
+	</tld>
+	<tld id="367">
+		<domain>.ly</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ly/</nic>
+		<whois>whois.nic.ly</whois>
+	</tld>
+	<tld id="368">
+		<domain>.ma</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ma/</nic>
+		<whois>whois.iam.net.ma</whois>
+	</tld>
+	<tld id="369">
+		<domain>.maison</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="370">
+		<domain>.management</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="371">
+		<domain>.mango</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.mango.com</nic>
+		<whois>whois.mango.coreregistry.net</whois>
+	</tld>
+	<tld id="372">
+		<domain>.market</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="373">
+		<domain>.marketing</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="374">
+		<domain>.mc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mc/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="375">
+		<domain>.md</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.register.md</nic>
+		<whois>whois.nic.md</whois>
+	</tld>
+	<tld id="376">
+		<domain>.me</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domain.me</nic>
+		<whois>whois.nic.me</whois>
+	</tld>
+	<tld id="377">
+		<domain>.media</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="378">
+		<domain>.meet</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="379">
+		<domain>.melbourne</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.melbourne/</nic>
+		<whois>whois.aridnrs.net.au</whois>
+	</tld>
+	<tld id="380">
+		<domain>.meme</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="381">
+		<domain>.menu</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dot-menu.com</nic>
+		<whois>whois.nic.menu</whois>
+	</tld>
+	<tld id="382">
+		<domain>.mf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="383">
+		<domain>.mg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mg</nic>
+		<whois>whois.nic.mg</whois>
+	</tld>
+	<tld id="384">
+		<domain>.mh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.net.mh/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="385">
+		<domain>.miami</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="386">
+		<domain>.mil</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="387">
+		<domain>.mini</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.mini.com</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="388">
+		<domain>.mk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.marnet.mk</nic>
+		<whois>whois.marnet.mk</whois>
+	</tld>
+	<tld id="389">
+		<domain>.ml</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dot.ml</nic>
+		<whois>whois.dot.ml</whois>
+	</tld>
+	<tld id="390">
+		<domain>.mm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mm/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="391">
+		<domain>.mn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mn</nic>
+		<whois>whois.nic.mn</whois>
+	</tld>
+	<tld id="392">
+		<domain>.mo</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://www.monic.mo</nic>
+		<whois>whois.monic.mo</whois>
+	</tld>
+	<tld id="393">
+		<domain>.mobi</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.mtld.mobi</nic>
+		<whois>whois.dotmobiregistry.net</whois>
+	</tld>
+	<tld id="394">
+		<domain>.moda</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="395">
+		<domain>.moe</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.interlink.or.jp/gtld/info.html</nic>
+		<whois></whois>
+	</tld>
+	<tld id="396">
+		<domain>.monash</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.monash</nic>
+		<whois>whois.nic.monash</whois>
+	</tld>
+	<tld id="397">
+		<domain>.mortgage</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="398">
+		<domain>.moscow</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.faitid.org</nic>
+		<whois>whois.nic.moscow</whois>
+	</tld>
+	<tld id="399">
+		<domain>.motorcycles</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dominionenterprises.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="400">
+		<domain>.mov</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="401">
+		<domain>.mp</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://get.mp/</nic>
+		<whois>whois.nic.mp</whois>
+	</tld>
+	<tld id="402">
+		<domain>.mq</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mq/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="403">
+		<domain>.mr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mr</nic>
+		<whois></whois>
+	</tld>
+	<tld id="404">
+		<domain>.ms</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ms</nic>
+		<whois>whois.nic.ms</whois>
+	</tld>
+	<tld id="405">
+		<domain>.mt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://www.nic.org.mt/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="406">
+		<domain>.mu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.mu/</nic>
+		<whois>whois.nic.mu</whois>
+	</tld>
+	<tld id="407">
+		<domain>.museum</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://about.museum</nic>
+		<whois>whois.museum</whois>
+	</tld>
+	<tld id="408">
+		<domain>.mv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="409">
+		<domain>.mw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registrar.mw</nic>
+		<whois></whois>
+	</tld>
+	<tld id="410">
+		<domain>.mx</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.mx/</nic>
+		<whois>whois.mx</whois>
+	</tld>
+	<tld id="411">
+		<domain>.my</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.mynic.my</nic>
+		<whois>whois.mynic.my</whois>
+	</tld>
+	<tld id="412">
+		<domain>.mz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>whois.nic.mz</whois>
+	</tld>
+	<tld id="413">
+		<domain>.na</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.na-nic.com.na/</nic>
+		<whois>whois.na-nic.com.na</whois>
+	</tld>
+	<tld id="414">
+		<domain>.nagoya</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="415">
+		<domain>.name</domain>
+		<idn></idn>
+		<type>generic-restricted</type>
+		<nic>http://www.name</nic>
+		<whois>whois.nic.name</whois>
+	</tld>
+	<tld id="416">
+		<domain>.navy</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="417">
+		<domain>.nc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.domaine.nc</nic>
+		<whois>whois.nc</whois>
+	</tld>
+	<tld id="418">
+		<domain>.ne</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.intnet.ne</nic>
+		<whois></whois>
+	</tld>
+	<tld id="419">
+		<domain>.net</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.verisign-grs.com</nic>
+		<whois>whois.verisign-grs.com</whois>
+	</tld>
+	<tld id="420">
+		<domain>.network</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="421">
+		<domain>.neustar</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.neustar.biz</nic>
+		<whois></whois>
+	</tld>
+	<tld id="422">
+		<domain>.new</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="423">
+		<domain>.nexus</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="424">
+		<domain>.nf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://nic.nf</nic>
+		<whois>whois.nic.nf</whois>
+	</tld>
+	<tld id="425">
+		<domain>.ng</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nira.org.ng/</nic>
+		<whois>whois.nic.net.ng</whois>
+	</tld>
+	<tld id="426">
+		<domain>.ngo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="427">
+		<domain>.nhk</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="428">
+		<domain>.ni</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ni</nic>
+		<whois></whois>
+	</tld>
+	<tld id="429">
+		<domain>.ninja</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotninja.co</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="430">
+		<domain>.nl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://www.sidn.nl/</nic>
+		<whois>whois.domain-registry.nl</whois>
+	</tld>
+	<tld id="431">
+		<domain>.no</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.norid.no</nic>
+		<whois>whois.norid.no</whois>
+	</tld>
+	<tld id="432">
+		<domain>.np</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.mos.com.np</nic>
+		<whois></whois>
+	</tld>
+	<tld id="433">
+		<domain>.nr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cenpac.net.nr</nic>
+		<whois></whois>
+	</tld>
+	<tld id="434">
+		<domain>.nra</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://contact.nra.org/contact-us.aspx</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="435">
+		<domain>.nrw</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mindsandmachines.com</nic>
+		<whois>whois.nic.nrw</whois>
+	</tld>
+	<tld id="436">
+		<domain>.nu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.iis.se</nic>
+		<whois>whois.iis.nu</whois>
+	</tld>
+	<tld id="437">
+		<domain>.nyc</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.mydotnyc.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="438">
+		<domain>.nz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dnc.org.nz/</nic>
+		<whois>whois.srs.net.nz</whois>
+	</tld>
+	<tld id="439">
+		<domain>.okinawa</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="440">
+		<domain>.om</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.om/om/en/?page_id=197</nic>
+		<whois>whois.registry.om</whois>
+	</tld>
+	<tld id="441">
+		<domain>.ong</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.pir.org </nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="442">
+		<domain>.onl</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.i-registry.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="443">
+		<domain>.ooo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.infibeam.com</nic>
+		<whois>whois.nic.ooo</whois>
+	</tld>
+	<tld id="444">
+		<domain>.org</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.pir.org</whois>
+	</tld>
+	<tld id="445">
+		<domain>.organic</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="446">
+		<domain>.otsuka</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmoregistry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="447">
+		<domain>.ovh</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.ovh.com</nic>
+		<whois>whois-ovh.nic.fr</whois>
+	</tld>
+	<tld id="448">
+		<domain>.pa</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.pa/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="449">
+		<domain>.paris</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mondomaine.paris.fr/</nic>
+		<whois>whois-paris.nic.fr</whois>
+	</tld>
+	<tld id="450">
+		<domain>.partners</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="451">
+		<domain>.parts</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="452">
+		<domain>.pe</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.pe</nic>
+		<whois>kero.yachay.pe</whois>
+	</tld>
+	<tld id="453">
+		<domain>.pf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>whois.registry.pf</whois>
+	</tld>
+	<tld id="454">
+		<domain>.pg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="455">
+		<domain>.ph</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://dot.ph</nic>
+		<whois></whois>
+	</tld>
+	<tld id="456">
+		<domain>.pharmacy</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotpharmacy.net</nic>
+		<whois></whois>
+	</tld>
+	<tld id="457">
+		<domain>.photo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="458">
+		<domain>.photography</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="459">
+		<domain>.photos</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="460">
+		<domain>.physio</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.registrydotphysio.com/</nic>
+		<whois>whois.nic.physio</whois>
+	</tld>
+	<tld id="461">
+		<domain>.pics</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="462">
+		<domain>.pictures</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="463">
+		<domain>.pink</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="464">
+		<domain>.pizza</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="465">
+		<domain>.pk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.pknic.net.pk/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="466">
+		<domain>.pl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.pl/english/</nic>
+		<whois>whois.dns.pl</whois>
+	</tld>
+	<tld id="467">
+		<domain>.place</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="468">
+		<domain>.plumbing</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="469">
+		<domain>.pm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.pm/</nic>
+		<whois>whois.nic.pm</whois>
+	</tld>
+	<tld id="470">
+		<domain>.pn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.government.pn/PnRegistry/PnRegistry.htm</nic>
+		<whois></whois>
+	</tld>
+	<tld id="471">
+		<domain>.pohl</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dvag-registry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="472">
+		<domain>.post</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.upu.int</nic>
+		<whois>whois.dotpostregistry.net</whois>
+	</tld>
+	<tld id="473">
+		<domain>.pr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.pr</nic>
+		<whois>whois.nic.pr</whois>
+	</tld>
+	<tld id="474">
+		<domain>.praxi</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.praxi.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="475">
+		<domain>.press</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://radixregistry.com/</nic>
+		<whois>whois.nic.press</whois>
+	</tld>
+	<tld id="476">
+		<domain>.pro</domain>
+		<idn></idn>
+		<type>generic-restricted</type>
+		<nic>http://www.registry.pro/</nic>
+		<whois>whois.dotproregistry.net</whois>
+	</tld>
+	<tld id="477">
+		<domain>.prod</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="478">
+		<domain>.productions</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="479">
+		<domain>.prof</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="480">
+		<domain>.properties</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="481">
+		<domain>.property</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="482">
+		<domain>.ps</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ps</nic>
+		<whois></whois>
+	</tld>
+	<tld id="483">
+		<domain>.pt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dns.pt/</nic>
+		<whois>whois.dns.pt</whois>
+	</tld>
+	<tld id="484">
+		<domain>.pub</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="485">
+		<domain>.pw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.pw</nic>
+		<whois>whois.nic.pw</whois>
+	</tld>
+	<tld id="486">
+		<domain>.py</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.py</nic>
+		<whois></whois>
+	</tld>
+	<tld id="487">
+		<domain>.qa</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://domains.qa</nic>
+		<whois>whois.registry.qa</whois>
+	</tld>
+	<tld id="488">
+		<domain>.qpon</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotqpon.com/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="489">
+		<domain>.quebec</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.registre.quebec</nic>
+		<whois>whois.quebec.rs.corenic.net</whois>
+	</tld>
+	<tld id="490">
+		<domain>.re</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.re/</nic>
+		<whois>whois.nic.re</whois>
+	</tld>
+	<tld id="491">
+		<domain>.realtor</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="492">
+		<domain>.recipes</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="493">
+		<domain>.red</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="494">
+		<domain>.rehab</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="495">
+		<domain>.reise</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.reise</nic>
+		<whois>whois.nic.reise</whois>
+	</tld>
+	<tld id="496">
+		<domain>.reisen</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="497">
+		<domain>.ren</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="498">
+		<domain>.rentals</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="499">
+		<domain>.repair</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="500">
+		<domain>.report</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="501">
+		<domain>.republican</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="502">
+		<domain>.rest</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.punto2012.com/</nic>
+		<whois>whois.centralnic.com</whois>
+	</tld>
+	<tld id="503">
+		<domain>.restaurant</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="504">
+		<domain>.reviews</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="505">
+		<domain>.rich</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.i-registry.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="506">
+		<domain>.rio</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois.gtlds.nic.br</whois>
+	</tld>
+	<tld id="507">
+		<domain>.ro</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.rotld.ro/</nic>
+		<whois>whois.rotld.ro</whois>
+	</tld>
+	<tld id="508">
+		<domain>.rocks</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="509">
+		<domain>.rodeo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="510">
+		<domain>.rs</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.rnids.rs</nic>
+		<whois>whois.rnids.rs</whois>
+	</tld>
+	<tld id="511">
+		<domain>.rsvp</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="512">
+		<domain>.ru</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cctld.ru/en</nic>
+		<whois>whois.tcinet.ru</whois>
+	</tld>
+	<tld id="513">
+		<domain>.ruhr</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://regiodot.de</nic>
+		<whois>whois.nic.ruhr</whois>
+	</tld>
+	<tld id="514">
+		<domain>.rw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.ricta.org.rw</nic>
+		<whois></whois>
+	</tld>
+	<tld id="515">
+		<domain>.ryukyu</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="516">
+		<domain>.sa</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.net.sa/</nic>
+		<whois>whois.nic.net.sa</whois>
+	</tld>
+	<tld id="517">
+		<domain>.saarland</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic-saarland.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="518">
+		<domain>.sarl</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="519">
+		<domain>.sb</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.net.sb/</nic>
+		<whois>whois.nic.net.sb</whois>
+	</tld>
+	<tld id="520">
+		<domain>.sc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.sc</nic>
+		<whois>whois2.afilias-grs.net</whois>
+	</tld>
+	<tld id="521">
+		<domain>.sca</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://sca.com</nic>
+		<whois>whois.nic.sca</whois>
+	</tld>
+	<tld id="522">
+		<domain>.scb</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.scb.co.th/top-level-domain/index.html</nic>
+		<whois>whois.nic.scb</whois>
+	</tld>
+	<tld id="523">
+		<domain>.schmidt</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.schmidt/</nic>
+		<whois>whois.nic.schmidt</whois>
+	</tld>
+	<tld id="524">
+		<domain>.schule</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="525">
+		<domain>.scot</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotscot.net</nic>
+		<whois>whois.scot.coreregistry.net</whois>
+	</tld>
+	<tld id="526">
+		<domain>.sd</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.isoc.sd</nic>
+		<whois></whois>
+	</tld>
+	<tld id="527">
+		<domain>.se</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.iis.se</nic>
+		<whois>whois.iis.se</whois>
+	</tld>
+	<tld id="528">
+		<domain>.services</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="529">
+		<domain>.sexy</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="530">
+		<domain>.sg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.sgnic.sg</nic>
+		<whois>whois.sgnic.sg</whois>
+	</tld>
+	<tld id="531">
+		<domain>.sh</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.sh/</nic>
+		<whois>whois.nic.sh</whois>
+	</tld>
+	<tld id="532">
+		<domain>.shiksha</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="533">
+		<domain>.shoes</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="534">
+		<domain>.si</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.si/</nic>
+		<whois>whois.arnes.si</whois>
+	</tld>
+	<tld id="535">
+		<domain>.singles</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="536">
+		<domain>.sj</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.norid.no/omnorid/toppdomenet-sj.en.html</nic>
+		<whois></whois>
+	</tld>
+	<tld id="537">
+		<domain>.sk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.sk-nic.sk</nic>
+		<whois>whois.sk-nic.sk</whois>
+	</tld>
+	<tld id="538">
+		<domain>.sl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.sl</nic>
+		<whois></whois>
+	</tld>
+	<tld id="539">
+		<domain>.sm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.sm</nic>
+		<whois>whois.nic.sm</whois>
+	</tld>
+	<tld id="540">
+		<domain>.sn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.sn</nic>
+		<whois>whois.nic.sn</whois>
+	</tld>
+	<tld id="541">
+		<domain>.so</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.so/</nic>
+		<whois>whois.nic.so</whois>
+	</tld>
+	<tld id="542">
+		<domain>.social</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unitedtld.com</nic>
+		<whois>whois.unitedtld.com</whois>
+	</tld>
+	<tld id="543">
+		<domain>.software</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="544">
+		<domain>.sohu</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="545">
+		<domain>.solar</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="546">
+		<domain>.solutions</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="547">
+		<domain>.soy</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com/</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="548">
+		<domain>.space</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://radixregistry.com/</nic>
+		<whois>whois.nic.space</whois>
+	</tld>
+	<tld id="549">
+		<domain>.spiegel</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.spiegelregistry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="550">
+		<domain>.sr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.register.sr/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="551">
+		<domain>.ss</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="552">
+		<domain>.st</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.st</nic>
+		<whois>whois.nic.st</whois>
+	</tld>
+	<tld id="553">
+		<domain>.su</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>whois.tcinet.ru</whois>
+	</tld>
+	<tld id="554">
+		<domain>.supplies</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="555">
+		<domain>.supply</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="556">
+		<domain>.support</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="557">
+		<domain>.surf</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="558">
+		<domain>.surgery</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="559">
+		<domain>.suzuki</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="560">
+		<domain>.sv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.svnet.sv</nic>
+		<whois></whois>
+	</tld>
+	<tld id="561">
+		<domain>.sx</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://registry.sx</nic>
+		<whois>whois.sx</whois>
+	</tld>
+	<tld id="562">
+		<domain>.sy</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://tld.sy</nic>
+		<whois>whois.tld.sy</whois>
+	</tld>
+	<tld id="563">
+		<domain>.systems</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="564">
+		<domain>.sz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.sispa.org.sz/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="565">
+		<domain>.tatar</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dottatar.ru</nic>
+		<whois>whois.nic.tatar</whois>
+	</tld>
+	<tld id="566">
+		<domain>.tattoo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.uniregistry.com</nic>
+		<whois>whois.uniregistry.net</whois>
+	</tld>
+	<tld id="567">
+		<domain>.tax</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="568">
+		<domain>.tc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://meridiantld.net</nic>
+		<whois>whois.meridiantld.net</whois>
+	</tld>
+	<tld id="569">
+		<domain>.td</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.sotel.td</nic>
+		<whois></whois>
+	</tld>
+	<tld id="570">
+		<domain>.technology</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="571">
+		<domain>.tel</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.nic.tel</nic>
+		<whois>whois.nic.tel</whois>
+	</tld>
+	<tld id="572">
+		<domain>.tf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tf/</nic>
+		<whois>whois.nic.tf</whois>
+	</tld>
+	<tld id="573">
+		<domain>.tg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tg</nic>
+		<whois></whois>
+	</tld>
+	<tld id="574">
+		<domain>.th</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.thnic.co.th</nic>
+		<whois>whois.thnic.co.th</whois>
+	</tld>
+	<tld id="575">
+		<domain>.tienda</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="576">
+		<domain>.tips</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="577">
+		<domain>.tirol</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.tirol</nic>
+		<whois>whois.nic.tirol</whois>
+	</tld>
+	<tld id="578">
+		<domain>.tj</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tj</nic>
+		<whois></whois>
+	</tld>
+	<tld id="579">
+		<domain>.tk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.dot.tk</nic>
+		<whois>whois.dot.tk</whois>
+	</tld>
+	<tld id="580">
+		<domain>.tl</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tl</nic>
+		<whois>whois.nic.tl</whois>
+	</tld>
+	<tld id="581">
+		<domain>.tm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tm/</nic>
+		<whois>whois.nic.tm</whois>
+	</tld>
+	<tld id="582">
+		<domain>.tn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://whois.ati.tn</nic>
+		<whois>whois.ati.tn</whois>
+	</tld>
+	<tld id="583">
+		<domain>.to</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.tonic.to/</nic>
+		<whois>whois.tonic.to</whois>
+	</tld>
+	<tld id="584">
+		<domain>.today</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="585">
+		<domain>.tokyo</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="586">
+		<domain>.tools</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="587">
+		<domain>.top</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.55hl.com</nic>
+		<whois>whois.nic.top</whois>
+	</tld>
+	<tld id="588">
+		<domain>.town</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="589">
+		<domain>.toys</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="590">
+		<domain>.tp</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tp</nic>
+		<whois></whois>
+	</tld>
+	<tld id="591">
+		<domain>.tr</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tr</nic>
+		<whois>whois.nic.tr</whois>
+	</tld>
+	<tld id="592">
+		<domain>.trade</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.famousfourmedia.com/trade</nic>
+		<whois></whois>
+	</tld>
+	<tld id="593">
+		<domain>.training</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="594">
+		<domain>.travel</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.travel.travel/</nic>
+		<whois>whois.nic.travel</whois>
+	</tld>
+	<tld id="595">
+		<domain>.tt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.tt</nic>
+		<whois></whois>
+	</tld>
+	<tld id="596">
+		<domain>.tui</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.tuiregistry.com</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="597">
+		<domain>.tv</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.tv</nic>
+		<whois>tvwhois.verisign-grs.com</whois>
+	</tld>
+	<tld id="598">
+		<domain>.tw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://rs.twnic.net.tw</nic>
+		<whois>whois.twnic.net.tw</whois>
+	</tld>
+	<tld id="599">
+		<domain>.tz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.tznic.or.tz/</nic>
+		<whois>whois.tznic.or.tz</whois>
+	</tld>
+	<tld id="600">
+		<domain>.ua</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://hostmaster.ua/</nic>
+		<whois>whois.ua</whois>
+	</tld>
+	<tld id="601">
+		<domain>.ug</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.registry.co.ug</nic>
+		<whois>whois.co.ug</whois>
+	</tld>
+	<tld id="602">
+		<domain>.uk</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.uk/</nic>
+		<whois>whois.nic.uk</whois>
+	</tld>
+	<tld id="603">
+		<domain>.um</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="604">
+		<domain>.university</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="605">
+		<domain>.uno</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.unodominio.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="606">
+		<domain>.uol</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois.gtlds.nic.br</whois>
+	</tld>
+	<tld id="607">
+		<domain>.us</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.us</nic>
+		<whois>whois.nic.us</whois>
+	</tld>
+	<tld id="608">
+		<domain>.uy</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.org.uy/</nic>
+		<whois>whois.nic.org.uy</whois>
+	</tld>
+	<tld id="609">
+		<domain>.uz</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.cctld.uz/</nic>
+		<whois>whois.cctld.uz</whois>
+	</tld>
+	<tld id="610">
+		<domain>.va</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="611">
+		<domain>.vacations</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="612">
+		<domain>.vc</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>whois2.afilias-grs.net</whois>
+	</tld>
+	<tld id="613">
+		<domain>.ve</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ve/</nic>
+		<whois>whois.nic.ve</whois>
+	</tld>
+	<tld id="614">
+		<domain>.vegas</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dotvegasinc.com/</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="615">
+		<domain>.ventures</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="616">
+		<domain>.versicherung</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.versicherung</nic>
+		<whois>whois.nic.versicherung</whois>
+	</tld>
+	<tld id="617">
+		<domain>.vet</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://rightside.co/rightside-registry/</nic>
+		<whois>whois.rightside.co</whois>
+	</tld>
+	<tld id="618">
+		<domain>.vg</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois>ccwhois.ksregistry.net</whois>
+	</tld>
+	<tld id="619">
+		<domain>.vi</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.vi</nic>
+		<whois></whois>
+	</tld>
+	<tld id="620">
+		<domain>.viajes</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="621">
+		<domain>.villas</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="622">
+		<domain>.vision</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="623">
+		<domain>.vlaanderen</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.vlaanderen</nic>
+		<whois>whois.nic.vlaanderen</whois>
+	</tld>
+	<tld id="624">
+		<domain>.vn</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.vnnic.net.vn</nic>
+		<whois></whois>
+	</tld>
+	<tld id="625">
+		<domain>.vodka</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="626">
+		<domain>.vote</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="627">
+		<domain>.voting</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.voting</nic>
+		<whois>whois.voting.tld-box.at</whois>
+	</tld>
+	<tld id="628">
+		<domain>.voto</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="629">
+		<domain>.voyage</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="630">
+		<domain>.vu</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.vunic.vu</nic>
+		<whois>vunic.vu</whois>
+	</tld>
+	<tld id="631">
+		<domain>.wales</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://ourhomeonline.org.uk</nic>
+		<whois>whois.nic.wales</whois>
+	</tld>
+	<tld id="632">
+		<domain>.wang</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.zodiacregistry.com</nic>
+		<whois>whois.gtld.knet.cn</whois>
+	</tld>
+	<tld id="633">
+		<domain>.watch</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="634">
+		<domain>.webcam</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.famousfourmedia.com/webcam</nic>
+		<whois></whois>
+	</tld>
+	<tld id="635">
+		<domain>.website</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://radixregistry.com/</nic>
+		<whois>whois.nic.website</whois>
+	</tld>
+	<tld id="636">
+		<domain>.wed</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://atgron.com</nic>
+		<whois>whois.nic.wed</whois>
+	</tld>
+	<tld id="637">
+		<domain>.wf</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.wf/</nic>
+		<whois>whois.nic.wf</whois>
+	</tld>
+	<tld id="638">
+		<domain>.whoswho</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://domains.whoswho.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="639">
+		<domain>.wien</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.nic.wien</nic>
+		<whois>whois.nic.wien</whois>
+	</tld>
+	<tld id="640">
+		<domain>.wiki</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.wiki</nic>
+		<whois>whois.nic.wiki</whois>
+	</tld>
+	<tld id="641">
+		<domain>.williamhill</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.williamhill.com/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="642">
+		<domain>.wme</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.wmeentertainment.com</nic>
+		<whois>whois.centralnic.com</whois>
+	</tld>
+	<tld id="643">
+		<domain>.work</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://mm-registry.com/</nic>
+		<whois>whois-dub.mm-registry.com</whois>
+	</tld>
+	<tld id="644">
+		<domain>.works</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="645">
+		<domain>.world</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="646">
+		<domain>.ws</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.website.ws</nic>
+		<whois>whois.website.ws</whois>
+	</tld>
+	<tld id="647">
+		<domain>.wtc</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.wtc/</nic>
+		<whois>whois.nic.wtc</whois>
+	</tld>
+	<tld id="648">
+		<domain>.wtf</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="649">
+		<domain>.测试</domain>
+		<idn>xn--0zwm56d</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="650">
+		<domain>.परीक्षा</domain>
+		<idn>xn--11b5bs3a9aj6g</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="651">
+		<domain>.佛山</domain>
+		<idn>xn--1qqw23a</idn>
+		<type>generic</type>
+		<nic>http://www.yu-wei.cn/</nic>
+		<whois>whois.ngtld.cn</whois>
+	</tld>
+	<tld id="652">
+		<domain>.集团</domain>
+		<idn>xn--3bst00</idn>
+		<type>generic</type>
+		<nic>http://www.zodiacregistry.com</nic>
+		<whois>whois.gtld.knet.cn</whois>
+	</tld>
+	<tld id="653">
+		<domain>.在线</domain>
+		<idn>xn--3ds443g</idn>
+		<type>generic</type>
+		<nic>http://internetregistry.info/</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="654">
+		<domain>.한국</domain>
+		<idn>xn--3e0b707e</idn>
+		<type>country-code</type>
+		<nic>http://domain.kisa.or.kr</nic>
+		<whois>whois.kr</whois>
+	</tld>
+	<tld id="655">
+		<domain>.ভারত</domain>
+		<idn>xn--45brj9c</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="656">
+		<domain>.موقع</domain>
+		<idn>xn--4gbri</idn>
+		<type>generic</type>
+		<nic>http://www.dotmawqe.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="657">
+		<domain>.বাংলা</domain>
+		<idn>xn--54b7fta0cc</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="658">
+		<domain>.公益</domain>
+		<idn>xn--55qw42g</idn>
+		<type>generic</type>
+		<nic>http://www.conac.cn</nic>
+		<whois>whois.conac.cn</whois>
+	</tld>
+	<tld id="659">
+		<domain>.公司</domain>
+		<idn>xn--55qx5d</idn>
+		<type>generic</type>
+		<nic>http://www.cnnic.cn </nic>
+		<whois>whois.ngtld.cn</whois>
+	</tld>
+	<tld id="660">
+		<domain>.移动</domain>
+		<idn>xn--6frz82g</idn>
+		<type>generic</type>
+		<nic>http://www.afilias.info/contact-us</nic>
+		<whois>whois.afilias.net</whois>
+	</tld>
+	<tld id="661">
+		<domain>.我爱你</domain>
+		<idn>xn--6qq986b3x</idn>
+		<type>generic</type>
+		<nic>http://www.zodiacregistry.com</nic>
+		<whois>whois.gtld.knet.cn</whois>
+	</tld>
+	<tld id="662">
+		<domain>.москва</domain>
+		<idn>xn--80adxhks</idn>
+		<type>generic</type>
+		<nic>http://www.faitid.org</nic>
+		<whois>whois.nic.xn--80adxhks</whois>
+	</tld>
+	<tld id="663">
+		<domain>.испытание</domain>
+		<idn>xn--80akhbyknj4f</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="664">
+		<domain>.қаз</domain>
+		<idn>xn--80ao21a</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.kz/</nic>
+		<whois>whois.nic.kz</whois>
+	</tld>
+	<tld id="665">
+		<domain>.онлайн</domain>
+		<idn>xn--80asehdb</idn>
+		<type>generic</type>
+		<nic>http://corenic.org</nic>
+		<whois>whois.online.rs.corenic.net</whois>
+	</tld>
+	<tld id="666">
+		<domain>.сайт</domain>
+		<idn>xn--80aswg</idn>
+		<type>generic</type>
+		<nic>http://corenic.org</nic>
+		<whois>whois.site.rs.corenic.net</whois>
+	</tld>
+	<tld id="667">
+		<domain>.срб</domain>
+		<idn>xn--90a3ac</idn>
+		<type>country-code</type>
+		<nic>http://www.rnids.rs/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="668">
+		<domain>.бел</domain>
+		<idn>xn--90ais</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="669">
+		<domain>.테스트</domain>
+		<idn>xn--9t4b11yi5a</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="670">
+		<domain>.орг</domain>
+		<idn>xn--c1avg</idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="671">
+		<domain>.삼성</domain>
+		<idn>xn--cg4bki</idn>
+		<type>generic</type>
+		<nic>http://samsungregistry.com</nic>
+		<whois>whois.kr</whois>
+	</tld>
+	<tld id="672">
+		<domain>.சிங்கப்பூர்</domain>
+		<idn>xn--clchc0ea0b2g2a9gcd</idn>
+		<type>country-code</type>
+		<nic>http://www.sgnic.sg/</nic>
+		<whois>whois.sgnic.sg</whois>
+	</tld>
+	<tld id="673">
+		<domain>.商标</domain>
+		<idn>xn--czr694b</idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="674">
+		<domain>.商城</domain>
+		<idn>xn--czru2d</idn>
+		<type>generic</type>
+		<nic>http://www.zodiacregistry.com</nic>
+		<whois>whois.gtld.knet.cn</whois>
+	</tld>
+	<tld id="675">
+		<domain>.дети</domain>
+		<idn>xn--d1acj3b</idn>
+		<type>generic</type>
+		<nic>http://www.dotdeti.ru</nic>
+		<whois>whois.nic.xn--d1acj3b</whois>
+	</tld>
+	<tld id="676">
+		<domain>.мкд</domain>
+		<idn>xn--d1alf</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="677">
+		<domain>.טעסט</domain>
+		<idn>xn--deba0ad</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="678">
+		<domain>.中文网</domain>
+		<idn>xn--fiq228c5hs</idn>
+		<type>generic</type>
+		<nic>http://internetregistry.info/</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="679">
+		<domain>.中信</domain>
+		<idn>xn--fiq64b</idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois>whois.gtld.knet.cn</whois>
+	</tld>
+	<tld id="680">
+		<domain>.中国</domain>
+		<idn>xn--fiqs8s</idn>
+		<type>country-code</type>
+		<nic>http://www.cnnic.cn</nic>
+		<whois>cwhois.cnnic.cn</whois>
+	</tld>
+	<tld id="681">
+		<domain>.中國</domain>
+		<idn>xn--fiqz9s</idn>
+		<type>country-code</type>
+		<nic>http://www.cnnic.cn</nic>
+		<whois>cwhois.cnnic.cn</whois>
+	</tld>
+	<tld id="682">
+		<domain>.భారత్</domain>
+		<idn>xn--fpcrj9c3d</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="683">
+		<domain>.ලංකා</domain>
+		<idn>xn--fzc2c9e2c</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.lk</nic>
+		<whois></whois>
+	</tld>
+	<tld id="684">
+		<domain>.測試</domain>
+		<idn>xn--g6w251d</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="685">
+		<domain>.ભારત</domain>
+		<idn>xn--gecrj9c</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="686">
+		<domain>.भारत</domain>
+		<idn>xn--h2brj9c</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="687">
+		<domain>.آزمایشی</domain>
+		<idn>xn--hgbk6aj7f53bba</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="688">
+		<domain>.பரிட்சை</domain>
+		<idn>xn--hlcj6aya9esc7a</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="689">
+		<domain>.संगठन</domain>
+		<idn>xn--i1b6b1a6a2e</idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="690">
+		<domain>.网络</domain>
+		<idn>xn--io0a7i</idn>
+		<type>generic</type>
+		<nic>http://www.cnnic.cn</nic>
+		<whois>whois.ngtld.cn</whois>
+	</tld>
+	<tld id="691">
+		<domain>.укр</domain>
+		<idn>xn--j1a</idn>
+		<type>country-code</type>
+		<nic>https://namestore.u-registry.com</nic>
+		<whois>whois.dotukr.com</whois>
+	</tld>
+	<tld id="692">
+		<domain>.香港</domain>
+		<idn>xn--j6w193g</idn>
+		<type>country-code</type>
+		<nic>http://www.hkirc.hk</nic>
+		<whois>whois.hkirc.hk</whois>
+	</tld>
+	<tld id="693">
+		<domain>.δοκιμή</domain>
+		<idn>xn--jxalpdlp</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="694">
+		<domain>.إختبار</domain>
+		<idn>xn--kgbechtv</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="695">
+		<domain>.台湾</domain>
+		<idn>xn--kprw13d</idn>
+		<type>country-code</type>
+		<nic>http://rs.twnic.net.tw</nic>
+		<whois>whois.twnic.net.tw</whois>
+	</tld>
+	<tld id="696">
+		<domain>.台灣</domain>
+		<idn>xn--kpry57d</idn>
+		<type>country-code</type>
+		<nic>http://rs.twnic.net.tw</nic>
+		<whois>whois.twnic.net.tw</whois>
+	</tld>
+	<tld id="697">
+		<domain>.手机</domain>
+		<idn>xn--kput3i</idn>
+		<type>generic</type>
+		<nic>http://www.rntd.cn</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="698">
+		<domain>.мон</domain>
+		<idn>xn--l1acc</idn>
+		<type>country-code</type>
+		<nic>http://www.mon.mn/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="699">
+		<domain>.الجزائر</domain>
+		<idn>xn--lgbbat1ad8j</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.dz</nic>
+		<whois>whois.nic.dz</whois>
+	</tld>
+	<tld id="700">
+		<domain>.عمان</domain>
+		<idn>xn--mgb9awbf</idn>
+		<type>country-code</type>
+		<nic>http://www.omantel.net.om</nic>
+		<whois>whois.registry.om</whois>
+	</tld>
+	<tld id="701">
+		<domain>.ایران</domain>
+		<idn>xn--mgba3a4f16a</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.ir</nic>
+		<whois>whois.nic.ir</whois>
+	</tld>
+	<tld id="702">
+		<domain>.امارات</domain>
+		<idn>xn--mgbaam7a8</idn>
+		<type>country-code</type>
+		<nic>http://aeda.ae/</nic>
+		<whois>whois.aeda.net.ae</whois>
+	</tld>
+	<tld id="703">
+		<domain>.بازار</domain>
+		<idn>xn--mgbab2bd</idn>
+		<type>generic</type>
+		<nic>http://corenic.org</nic>
+		<whois>whois.bazaar.coreregistry.net</whois>
+	</tld>
+	<tld id="704">
+		<domain>.پاکستان</domain>
+		<idn>xn--mgbai9azgqp6j</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="705">
+		<domain>.الاردن</domain>
+		<idn>xn--mgbayh7gpa</idn>
+		<type>country-code</type>
+		<nic>http://www.idn.jo/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="706">
+		<domain>.بھارت</domain>
+		<idn>xn--mgbbh1a71e</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="707">
+		<domain>.المغرب</domain>
+		<idn>xn--mgbc0a9azcg</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="708">
+		<domain>.السعودية</domain>
+		<idn>xn--mgberp4a5d4ar</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.net.sa/</nic>
+		<whois>whois.nic.net.sa</whois>
+	</tld>
+	<tld id="709">
+		<domain>.سودان</domain>
+		<idn>xn--mgbpl2f</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="710">
+		<domain>.عراق</domain>
+		<idn>xn--mgbtx2b</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="711">
+		<domain>.مليسيا</domain>
+		<idn>xn--mgbx4cd0ab</idn>
+		<type>country-code</type>
+		<nic>http://www.mynic.my</nic>
+		<whois>whois.mynic.my</whois>
+	</tld>
+	<tld id="712">
+		<domain>.شبكة</domain>
+		<idn>xn--ngbc5azd</idn>
+		<type>generic</type>
+		<nic>http://www.dotshabaka.com</nic>
+		<whois>whois.nic.xn--ngbc5azd</whois>
+	</tld>
+	<tld id="713">
+		<domain>.გე</domain>
+		<idn>xn--node</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="714">
+		<domain>.机构</domain>
+		<idn>xn--nqv7f</idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="715">
+		<domain>.组织机构</domain>
+		<idn>xn--nqv7fs00ema</idn>
+		<type>generic</type>
+		<nic>http://www.pir.org</nic>
+		<whois>whois.publicinterestregistry.net</whois>
+	</tld>
+	<tld id="716">
+		<domain>.ไทย</domain>
+		<idn>xn--o3cw4</idn>
+		<type>country-code</type>
+		<nic>http://www.thnic.co.th</nic>
+		<whois>whois.thnic.co.th</whois>
+	</tld>
+	<tld id="717">
+		<domain>.سورية</domain>
+		<idn>xn--ogbpf8f</idn>
+		<type>country-code</type>
+		<nic>http://tld.sy</nic>
+		<whois>whois.tld.sy</whois>
+	</tld>
+	<tld id="718">
+		<domain>.рус</domain>
+		<idn>xn--p1acf</idn>
+		<type>generic</type>
+		<nic>http://rusnames.ru/</nic>
+		<whois>whois.nic.xn--p1acf</whois>
+	</tld>
+	<tld id="719">
+		<domain>.рф</domain>
+		<idn>xn--p1ai</idn>
+		<type>country-code</type>
+		<nic>http://cctld.ru/</nic>
+		<whois>whois.tcinet.ru</whois>
+	</tld>
+	<tld id="720">
+		<domain>.تونس</domain>
+		<idn>xn--pgbs0d</idn>
+		<type>country-code</type>
+		<nic>http://www.ati.tn</nic>
+		<whois></whois>
+	</tld>
+	<tld id="721">
+		<domain>.みんな</domain>
+		<idn>xn--q9jyb4c</idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com/</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="722">
+		<domain>.世界</domain>
+		<idn>xn--rhqv96g</idn>
+		<type>generic</type>
+		<nic>http://www.stabletone.com</nic>
+		<whois></whois>
+	</tld>
+	<tld id="723">
+		<domain>.ਭਾਰਤ</domain>
+		<idn>xn--s9brj9c</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="724">
+		<domain>.网址</domain>
+		<idn>xn--ses554g</idn>
+		<type>generic</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="725">
+		<domain>.游戏</domain>
+		<idn>xn--unup4y</idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="726">
+		<domain>.vermögensberater</domain>
+		<idn>xn--vermgensberater-ctb</idn>
+		<type>generic</type>
+		<nic>http://www.dvag-registry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="727">
+		<domain>.vermögensberatung</domain>
+		<idn>xn--vermgensberatung-pwb</idn>
+		<type>generic</type>
+		<nic>http://www.dvag-registry.de</nic>
+		<whois>whois.ksregistry.net</whois>
+	</tld>
+	<tld id="728">
+		<domain>.企业</domain>
+		<idn>xn--vhquv</idn>
+		<type>generic</type>
+		<nic>http://donuts.co/</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="729">
+		<domain>.مصر</domain>
+		<idn>xn--wgbh1c</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="730">
+		<domain>.قطر</domain>
+		<idn>xn--wgbl6a</idn>
+		<type>country-code</type>
+		<nic>http://domains.qa</nic>
+		<whois>whois.registry.qa</whois>
+	</tld>
+	<tld id="731">
+		<domain>.广东</domain>
+		<idn>xn--xhq521b</idn>
+		<type>generic</type>
+		<nic>http://www.yu-wei.cn/</nic>
+		<whois>whois.ngtld.cn</whois>
+	</tld>
+	<tld id="732">
+		<domain>.இலங்கை</domain>
+		<idn>xn--xkc2al3hye2a</idn>
+		<type>country-code</type>
+		<nic>http://www.nic.lk</nic>
+		<whois></whois>
+	</tld>
+	<tld id="733">
+		<domain>.இந்தியா</domain>
+		<idn>xn--xkc2dl3a5ee0</idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="734">
+		<domain>.新加坡</domain>
+		<idn>xn--yfro4i67o</idn>
+		<type>country-code</type>
+		<nic>http://www.sgnic.sg/</nic>
+		<whois>whois.sgnic.sg</whois>
+	</tld>
+	<tld id="735">
+		<domain>.فلسطين</domain>
+		<idn>xn--ygbi2ammx</idn>
+		<type>country-code</type>
+		<nic>http://www.pnina.ps</nic>
+		<whois>whois.pnina.ps</whois>
+	</tld>
+	<tld id="736">
+		<domain>.テスト</domain>
+		<idn>xn--zckza</idn>
+		<type>test</type>
+		<nic>http://www.iana.org/domains/idn-test/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="737">
+		<domain>.政务</domain>
+		<idn>xn--zfr164b</idn>
+		<type>generic</type>
+		<nic>http://www.conac.cn</nic>
+		<whois>whois.conac.cn</whois>
+	</tld>
+	<tld id="738">
+		<domain>.xxx</domain>
+		<idn></idn>
+		<type>sponsored</type>
+		<nic>http://www.icmregistry.com/</nic>
+		<whois>whois.nic.xxx</whois>
+	</tld>
+	<tld id="739">
+		<domain>.xyz</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://nic.xyz</nic>
+		<whois>whois.nic.xyz</whois>
+	</tld>
+	<tld id="740">
+		<domain>.yachts</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.dominionenterprises.com</nic>
+		<whois>whois.afilias-srs.net</whois>
+	</tld>
+	<tld id="741">
+		<domain>.yandex</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.yandex.ru/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="742">
+		<domain>.ye</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+	<tld id="743">
+		<domain>.yokohama</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.gmo-registry.com/en/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="744">
+		<domain>.youtube</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="745">
+		<domain>.yt</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.nic.yt/</nic>
+		<whois>whois.nic.yt</whois>
+	</tld>
+	<tld id="746">
+		<domain>.za</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>http://www.zadna.org.za/</nic>
+		<whois></whois>
+	</tld>
+	<tld id="747">
+		<domain>.zip</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://www.charlestonroadregistry.com</nic>
+		<whois>domain-registry-whois.l.google.com</whois>
+	</tld>
+	<tld id="748">
+		<domain>.zm</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic>https://registry.zicta.zm</nic>
+		<whois>whois.nic.zm</whois>
+	</tld>
+	<tld id="749">
+		<domain>.zone</domain>
+		<idn></idn>
+		<type>generic</type>
+		<nic>http://donuts.co</nic>
+		<whois>whois.donuts.co</whois>
+	</tld>
+	<tld id="750">
+		<domain>.zw</domain>
+		<idn></idn>
+		<type>country-code</type>
+		<nic></nic>
+		<whois></whois>
+	</tld>
+</tldlist>

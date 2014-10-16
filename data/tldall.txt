@@ -1,0 +1,750 @@
+.ac --  -- country-code -- http://www.iana.org/domains/root/db/ac.html -- http://www.nic.ac/ -- whois.nic.ac
+.academy --  -- generic -- http://www.iana.org/domains/root/db/academy.html -- http://donuts.co -- whois.donuts.co
+.accountants --  -- generic -- http://www.iana.org/domains/root/db/accountants.html -- http://donuts.co/ -- whois.donuts.co
+.active --  -- generic -- http://www.iana.org/domains/root/db/active.html -- http://www.activenetwork.com/ -- whois.afilias-srs.net
+.actor --  -- generic -- http://www.iana.org/domains/root/db/actor.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.ad --  -- country-code -- http://www.iana.org/domains/root/db/ad.html -- http://www.nic.ad -- 
+.ae --  -- country-code -- http://www.iana.org/domains/root/db/ae.html -- http://aeda.ae/ -- whois.aeda.net.ae
+.aero --  -- sponsored -- http://www.iana.org/domains/root/db/aero.html -- http://www.information.aero -- whois.aero
+.af --  -- country-code -- http://www.iana.org/domains/root/db/af.html -- http://www.nic.af -- whois.nic.af
+.ag --  -- country-code -- http://www.iana.org/domains/root/db/ag.html -- http://www.nic.ag -- whois.nic.ag
+.agency --  -- generic -- http://www.iana.org/domains/root/db/agency.html -- http://donuts.co -- whois.donuts.co
+.ai --  -- country-code -- http://www.iana.org/domains/root/db/ai.html -- http://whois.ai -- whois.ai
+.airforce --  -- generic -- http://www.iana.org/domains/root/db/airforce.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.al --  -- country-code -- http://www.iana.org/domains/root/db/al.html -- http://www.akep.al/sq/regjistrim-domain -- 
+.allfinanz --  -- generic -- http://www.iana.org/domains/root/db/allfinanz.html -- http://www.allfinanz-registry.de -- whois.ksregistry.net
+.alsace --  -- generic -- http://www.iana.org/domains/root/db/alsace.html -- http://www.alsace.com -- whois-alsace.nic.fr
+.am --  -- country-code -- http://www.iana.org/domains/root/db/am.html -- https://www.amnic.net/ -- whois.amnic.net
+.an --  -- country-code -- http://www.iana.org/domains/root/db/an.html -- http://www.uoc.cw/an_domreg -- 
+.ao --  -- country-code -- http://www.iana.org/domains/root/db/ao.html -- http://www.dns.ao/ -- 
+.aq --  -- country-code -- http://www.iana.org/domains/root/db/aq.html --  -- 
+.ar --  -- country-code -- http://www.iana.org/domains/root/db/ar.html -- https://nic.ar -- 
+.archi --  -- generic -- http://www.iana.org/domains/root/db/archi.html -- http://startingdot.com/ -- whois.ksregistry.net
+.army --  -- generic -- http://www.iana.org/domains/root/db/army.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.arpa --  -- infrastructure -- http://www.iana.org/domains/root/db/arpa.html -- http://www.iana.org/arpa-dom/ -- whois.iana.org
+.as --  -- country-code -- http://www.iana.org/domains/root/db/as.html -- http://www.nic.as -- whois.nic.as
+.asia --  -- sponsored -- http://www.iana.org/domains/root/db/asia.html -- http://www.registry.asia -- whois.nic.asia
+.associates --  -- generic -- http://www.iana.org/domains/root/db/associates.html -- http://donuts.co -- whois.donuts.co
+.at --  -- country-code -- http://www.iana.org/domains/root/db/at.html -- http://www.nic.at/ -- whois.nic.at
+.attorney --  -- generic -- http://www.iana.org/domains/root/db/attorney.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.au --  -- country-code -- http://www.iana.org/domains/root/db/au.html -- http://www.auda.org.au/domains/au-domains/ -- whois.audns.net.au
+.auction --  -- generic -- http://www.iana.org/domains/root/db/auction.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.audio --  -- generic -- http://www.iana.org/domains/root/db/audio.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.autos --  -- generic -- http://www.iana.org/domains/root/db/autos.html -- http://www.dominionenterprises.com -- whois.afilias-srs.net
+.aw --  -- country-code -- http://www.iana.org/domains/root/db/aw.html --  -- whois.nic.aw
+.ax --  -- country-code -- http://www.iana.org/domains/root/db/ax.html -- http://www.whois.ax -- whois.ax
+.axa --  -- generic -- http://www.iana.org/domains/root/db/axa.html -- http://www.axa.com -- 
+.az --  -- country-code -- http://www.iana.org/domains/root/db/az.html -- http://www.whois.az/ -- 
+.ba --  -- country-code -- http://www.iana.org/domains/root/db/ba.html -- http://www.nic.ba -- 
+.bar --  -- generic -- http://www.iana.org/domains/root/db/bar.html -- http://nic.bar -- whois.nic.bar
+.bargains --  -- generic -- http://www.iana.org/domains/root/db/bargains.html -- http://donuts.co -- whois.donuts.co
+.bayern --  -- generic -- http://www.iana.org/domains/root/db/bayern.html -- http://mm-registry.com -- whois-dub.mm-registry.com
+.bb --  -- country-code -- http://www.iana.org/domains/root/db/bb.html -- http://www.whois.telecoms.gov.bb/ -- 
+.bd --  -- country-code -- http://www.iana.org/domains/root/db/bd.html -- http://whois.btcl.net.bd/registration.html -- 
+.be --  -- country-code -- http://www.iana.org/domains/root/db/be.html -- http://www.dns.be -- whois.dns.be
+.beer --  -- generic -- http://www.iana.org/domains/root/db/beer.html -- http://mm-registry.com -- whois-dub.mm-registry.com
+.berlin --  -- generic -- http://www.iana.org/domains/root/db/berlin.html -- http://nic.berlin/ -- whois.nic.berlin
+.best --  -- generic -- http://www.iana.org/domains/root/db/best.html -- http://www.peoplebrowsr.com -- whois.nic.best
+.bf --  -- country-code -- http://www.iana.org/domains/root/db/bf.html -- http://www.arce.bf/domaine.php -- 
+.bg --  -- country-code -- http://www.iana.org/domains/root/db/bg.html -- http://www.register.bg -- whois.register.bg
+.bh --  -- country-code -- http://www.iana.org/domains/root/db/bh.html --  -- 
+.bi --  -- country-code -- http://www.iana.org/domains/root/db/bi.html -- http://www.nic.bi -- whois1.nic.bi
+.bid --  -- generic -- http://www.iana.org/domains/root/db/bid.html -- http://www.famousfourmedia.com -- 
+.bike --  -- generic -- http://www.iana.org/domains/root/db/bike.html -- http://donuts.co -- whois.donuts.co
+.bio --  -- generic -- http://www.iana.org/domains/root/db/bio.html -- http://www.startingdot.com/ -- whois.ksregistry.net
+.biz --  -- generic-restricted -- http://www.iana.org/domains/root/db/biz.html -- http://www.nic.biz -- whois.biz
+.bj --  -- country-code -- http://www.iana.org/domains/root/db/bj.html -- http://www.nic.bj -- whois.nic.bj
+.bl --  -- country-code -- http://www.iana.org/domains/root/db/bl.html --  -- 
+.black --  -- generic -- http://www.iana.org/domains/root/db/black.html -- http://afilias.info/contact-us -- whois.afilias.net
+.blackfriday --  -- generic -- http://www.iana.org/domains/root/db/blackfriday.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.blue --  -- generic -- http://www.iana.org/domains/root/db/blue.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.bm --  -- country-code -- http://www.iana.org/domains/root/db/bm.html -- http://www.bermudanic.bm -- 
+.bmw --  -- generic -- http://www.iana.org/domains/root/db/bmw.html -- http://nic.bmw.com -- whois.ksregistry.net
+.bn --  -- country-code -- http://www.iana.org/domains/root/db/bn.html -- http://www.telbru.com.bn -- whois.bn
+.bnpparibas --  -- generic -- http://www.iana.org/domains/root/db/bnpparibas.html -- http://www.bnpparibas.com/en/about-us -- whois.afilias-srs.net
+.bo --  -- country-code -- http://www.iana.org/domains/root/db/bo.html -- http://www.nic.bo -- whois.nic.bo
+.boo --  -- generic -- http://www.iana.org/domains/root/db/boo.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.boutique --  -- generic -- http://www.iana.org/domains/root/db/boutique.html -- http://donuts.co -- whois.donuts.co
+.bq --  -- country-code -- http://www.iana.org/domains/root/db/bq.html --  -- 
+.br --  -- country-code -- http://www.iana.org/domains/root/db/br.html -- http://registro.br/ -- whois.registro.br
+.brussels --  -- generic -- http://www.iana.org/domains/root/db/brussels.html -- http://www.nic.brussels -- whois.nic.brussels
+.bs --  -- country-code -- http://www.iana.org/domains/root/db/bs.html -- http://www.register.bs -- 
+.bt --  -- country-code -- http://www.iana.org/domains/root/db/bt.html -- http://www.nic.bt -- 
+.budapest --  -- generic -- http://www.iana.org/domains/root/db/budapest.html -- http://mm-registry.com/ -- whois-dub.mm-registry.com
+.build --  -- generic -- http://www.iana.org/domains/root/db/build.html -- http://www.dotbuild.co -- whois.nic.build
+.builders --  -- generic -- http://www.iana.org/domains/root/db/builders.html -- http://donuts.co/ -- whois.donuts.co
+.business --  -- generic -- http://www.iana.org/domains/root/db/business.html -- http://donuts.co -- whois.donuts.co
+.buzz --  -- generic -- http://www.iana.org/domains/root/db/buzz.html -- http://www.buzznames.biz -- 
+.bv --  -- country-code -- http://www.iana.org/domains/root/db/bv.html -- http://www.norid.no/omnorid/toppdomenet-bv.en.html -- 
+.bw --  -- country-code -- http://www.iana.org/domains/root/db/bw.html -- https://registry.nic.net.bw -- whois.nic.net.bw
+.by --  -- country-code -- http://www.iana.org/domains/root/db/by.html -- http://cctld.by -- whois.cctld.by
+.bz --  -- country-code -- http://www.iana.org/domains/root/db/bz.html -- http://www.belizenic.bz -- 
+.bzh --  -- generic -- http://www.iana.org/domains/root/db/bzh.html -- http://www.pik.bzh -- whois-bzh.nic.fr
+.ca --  -- country-code -- http://www.iana.org/domains/root/db/ca.html -- http://www.cira.ca/ -- whois.cira.ca
+.cab --  -- generic -- http://www.iana.org/domains/root/db/cab.html -- http://donuts.co -- whois.donuts.co
+.cal --  -- generic -- http://www.iana.org/domains/root/db/cal.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.camera --  -- generic -- http://www.iana.org/domains/root/db/camera.html -- http://donuts.co -- whois.donuts.co
+.camp --  -- generic -- http://www.iana.org/domains/root/db/camp.html -- http://donuts.co -- whois.donuts.co
+.cancerresearch --  -- generic -- http://www.iana.org/domains/root/db/cancerresearch.html -- http://www.acrf.com.au -- whois.nic.cancerresearch
+.capetown --  -- generic -- http://www.iana.org/domains/root/db/capetown.html -- http://registry.net.za -- capetown-whois.registry.net.za
+.capital --  -- generic -- http://www.iana.org/domains/root/db/capital.html -- http://donuts.co -- whois.donuts.co
+.caravan --  -- generic -- http://www.iana.org/domains/root/db/caravan.html -- http://www.caravan.com -- 
+.cards --  -- generic -- http://www.iana.org/domains/root/db/cards.html -- http://donuts.co/ -- whois.donuts.co
+.care --  -- generic -- http://www.iana.org/domains/root/db/care.html -- http://donuts.co -- whois.donuts.co
+.career --  -- generic -- http://www.iana.org/domains/root/db/career.html --  -- whois.nic.career
+.careers --  -- generic -- http://www.iana.org/domains/root/db/careers.html -- http://donuts.co/ -- whois.donuts.co
+.casa --  -- generic -- http://www.iana.org/domains/root/db/casa.html -- http://mm-registry.com/ -- whois-dub.mm-registry.com
+.cash --  -- generic -- http://www.iana.org/domains/root/db/cash.html -- http://donuts.co/ -- whois.donuts.co
+.cat --  -- sponsored -- http://www.iana.org/domains/root/db/cat.html -- http://www.domini.cat -- whois.cat
+.catering --  -- generic -- http://www.iana.org/domains/root/db/catering.html -- http://donuts.co -- whois.donuts.co
+.cc --  -- country-code -- http://www.iana.org/domains/root/db/cc.html -- http://www.nic.cc/ -- ccwhois.verisign-grs.com
+.cd --  -- country-code -- http://www.iana.org/domains/root/db/cd.html -- http://www.nic.cd/ -- 
+.center --  -- generic -- http://www.iana.org/domains/root/db/center.html -- http://donuts.co/ -- whois.donuts.co
+.ceo --  -- generic -- http://www.iana.org/domains/root/db/ceo.html -- http://www.peoplebrowsr.com -- whois.nic.ceo
+.cern --  -- generic -- http://www.iana.org/domains/root/db/cern.html -- http://www.cern.ch -- whois.afilias-srs.net
+.cf --  -- country-code -- http://www.iana.org/domains/root/db/cf.html -- http://www.dot.cf -- whois.dot.cf
+.cg --  -- country-code -- http://www.iana.org/domains/root/db/cg.html -- http://www.nic.cg -- 
+.ch --  -- country-code -- http://www.iana.org/domains/root/db/ch.html -- http://www.nic.ch/ -- whois.nic.ch
+.channel --  -- generic -- http://www.iana.org/domains/root/db/channel.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.cheap --  -- generic -- http://www.iana.org/domains/root/db/cheap.html -- http://donuts.co/ -- whois.donuts.co
+.christmas --  -- generic -- http://www.iana.org/domains/root/db/christmas.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.chrome --  -- generic -- http://www.iana.org/domains/root/db/chrome.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.church --  -- generic -- http://www.iana.org/domains/root/db/church.html -- http://donuts.co/ -- whois.donuts.co
+.ci --  -- country-code -- http://www.iana.org/domains/root/db/ci.html -- http://www.nic.ci -- whois.nic.ci
+.citic --  -- generic -- http://www.iana.org/domains/root/db/citic.html --  -- 
+.city --  -- generic -- http://www.iana.org/domains/root/db/city.html -- http://donuts.co/ -- whois.donuts.co
+.ck --  -- country-code -- http://www.iana.org/domains/root/db/ck.html -- http://www.oyster.net.ck -- 
+.cl --  -- country-code -- http://www.iana.org/domains/root/db/cl.html -- http://www.nic.cl/ -- whois.nic.cl
+.claims --  -- generic -- http://www.iana.org/domains/root/db/claims.html -- http://donuts.co/ -- whois.donuts.co
+.cleaning --  -- generic -- http://www.iana.org/domains/root/db/cleaning.html -- http://donuts.co/ -- whois.donuts.co
+.click --  -- generic -- http://www.iana.org/domains/root/db/click.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.clinic --  -- generic -- http://www.iana.org/domains/root/db/clinic.html -- http://donuts.co -- whois.donuts.co
+.clothing --  -- generic -- http://www.iana.org/domains/root/db/clothing.html -- http://donuts.co -- whois.donuts.co
+.club --  -- generic -- http://www.iana.org/domains/root/db/club.html -- http://dotclub.com -- whois.nic.club
+.cm --  -- country-code -- http://www.iana.org/domains/root/db/cm.html -- http://www.info.camnet.cm -- 
+.cn --  -- country-code -- http://www.iana.org/domains/root/db/cn.html -- http://www.cnnic.cn/ -- whois.cnnic.cn
+.co --  -- country-code -- http://www.iana.org/domains/root/db/co.html -- http://www.cointernet.com.co -- whois.nic.co
+.codes --  -- generic -- http://www.iana.org/domains/root/db/codes.html -- http://donuts.co -- whois.donuts.co
+.coffee --  -- generic -- http://www.iana.org/domains/root/db/coffee.html -- http://donuts.co -- whois.donuts.co
+.college --  -- generic -- http://www.iana.org/domains/root/db/college.html -- http://xyz.com/college/ -- whois.centralnic.com
+.cologne --  -- generic -- http://www.iana.org/domains/root/db/cologne.html -- http://www.dotkoeln.de -- whois-fe1.pdt.cologne.tango.knipp.de
+.com --  -- generic -- http://www.iana.org/domains/root/db/com.html -- http://www.verisign-grs.com -- whois.verisign-grs.com
+.community --  -- generic -- http://www.iana.org/domains/root/db/community.html -- http://donuts.co -- whois.donuts.co
+.company --  -- generic -- http://www.iana.org/domains/root/db/company.html -- http://donuts.co -- whois.donuts.co
+.computer --  -- generic -- http://www.iana.org/domains/root/db/computer.html -- http://donuts.co -- whois.donuts.co
+.condos --  -- generic -- http://www.iana.org/domains/root/db/condos.html -- http://donuts.co -- whois.donuts.co
+.construction --  -- generic -- http://www.iana.org/domains/root/db/construction.html -- http://donuts.co -- whois.donuts.co
+.consulting --  -- generic -- http://www.iana.org/domains/root/db/consulting.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.contractors --  -- generic -- http://www.iana.org/domains/root/db/contractors.html -- http://donuts.co -- whois.donuts.co
+.cooking --  -- generic -- http://www.iana.org/domains/root/db/cooking.html --  -- whois-dub.mm-registry.com
+.cool --  -- generic -- http://www.iana.org/domains/root/db/cool.html -- http://donuts.co/ -- whois.donuts.co
+.coop --  -- sponsored -- http://www.iana.org/domains/root/db/coop.html -- http://www.nic.coop -- whois.nic.coop
+.country --  -- generic -- http://www.iana.org/domains/root/db/country.html --  -- whois-dub.mm-registry.com
+.cr --  -- country-code -- http://www.iana.org/domains/root/db/cr.html -- http://www.nic.cr/ -- 
+.credit --  -- generic -- http://www.iana.org/domains/root/db/credit.html -- http://donuts.co/ -- whois.donuts.co
+.creditcard --  -- generic -- http://www.iana.org/domains/root/db/creditcard.html -- http://donuts.co/ -- whois.donuts.co
+.cruises --  -- generic -- http://www.iana.org/domains/root/db/cruises.html -- http://donuts.co -- whois.donuts.co
+.cu --  -- country-code -- http://www.iana.org/domains/root/db/cu.html -- http://www.nic.cu -- 
+.cuisinella --  -- generic -- http://www.iana.org/domains/root/db/cuisinella.html -- http://nic.cuisinella/ -- whois.nic.cuisinella
+.cv --  -- country-code -- http://www.iana.org/domains/root/db/cv.html -- http://www.dns.cv/ -- 
+.cw --  -- country-code -- http://www.iana.org/domains/root/db/cw.html -- http://www.uoc.cw/cw_registry -- 
+.cx --  -- country-code -- http://www.iana.org/domains/root/db/cx.html -- http://www.nic.cx -- whois.nic.cx
+.cy --  -- country-code -- http://www.iana.org/domains/root/db/cy.html -- http://www.nic.cy -- 
+.cymru --  -- generic -- http://www.iana.org/domains/root/db/cymru.html -- http://ourhomeonline.org.uk -- whois.nic.cymru
+.cz --  -- country-code -- http://www.iana.org/domains/root/db/cz.html -- http://www.nic.cz/ -- whois.nic.cz
+.dad --  -- generic -- http://www.iana.org/domains/root/db/dad.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.dance --  -- generic -- http://www.iana.org/domains/root/db/dance.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.dating --  -- generic -- http://www.iana.org/domains/root/db/dating.html -- http://donuts.co -- whois.donuts.co
+.day --  -- generic -- http://www.iana.org/domains/root/db/day.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.de --  -- country-code -- http://www.iana.org/domains/root/db/de.html -- http://www.denic.de/ -- whois.denic.de
+.deals --  -- generic -- http://www.iana.org/domains/root/db/deals.html -- http://donuts.co/ -- whois.donuts.co
+.degree --  -- generic -- http://www.iana.org/domains/root/db/degree.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.democrat --  -- generic -- http://www.iana.org/domains/root/db/democrat.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.dental --  -- generic -- http://www.iana.org/domains/root/db/dental.html -- http://donuts.co -- whois.donuts.co
+.dentist --  -- generic -- http://www.iana.org/domains/root/db/dentist.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.desi --  -- generic -- http://www.iana.org/domains/root/db/desi.html -- http://www.dotdesi.com/ -- whois.ksregistry.net
+.diamonds --  -- generic -- http://www.iana.org/domains/root/db/diamonds.html -- http://donuts.co -- whois.donuts.co
+.diet --  -- generic -- http://www.iana.org/domains/root/db/diet.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.digital --  -- generic -- http://www.iana.org/domains/root/db/digital.html -- http://donuts.co -- whois.donuts.co
+.direct --  -- generic -- http://www.iana.org/domains/root/db/direct.html -- http://donuts.co/ -- whois.donuts.co
+.directory --  -- generic -- http://www.iana.org/domains/root/db/directory.html -- http://donuts.co -- whois.donuts.co
+.discount --  -- generic -- http://www.iana.org/domains/root/db/discount.html -- http://donuts.co -- whois.donuts.co
+.dj --  -- country-code -- http://www.iana.org/domains/root/db/dj.html -- http://www.nic.dj -- 
+.dk --  -- country-code -- http://www.iana.org/domains/root/db/dk.html -- http://www.dk-hostmaster.dk/ -- whois.dk-hostmaster.dk
+.dm --  -- country-code -- http://www.iana.org/domains/root/db/dm.html -- http://www.nic.dm -- whois.nic.dm
+.dnp --  -- generic -- http://www.iana.org/domains/root/db/dnp.html -- http://www.gmoregistry.com/ -- 
+.do --  -- country-code -- http://www.iana.org/domains/root/db/do.html -- http://www.nic.do -- 
+.domains --  -- generic -- http://www.iana.org/domains/root/db/domains.html -- http://donuts.co -- whois.donuts.co
+.durban --  -- generic -- http://www.iana.org/domains/root/db/durban.html -- http://www.registry.net.za -- durban-whois.registry.net.za
+.dvag --  -- generic -- http://www.iana.org/domains/root/db/dvag.html -- http://www.dvag-registry.de -- whois.ksregistry.net
+.dz --  -- country-code -- http://www.iana.org/domains/root/db/dz.html -- http://www.nic.dz -- whois.nic.dz
+.eat --  -- generic -- http://www.iana.org/domains/root/db/eat.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.ec --  -- country-code -- http://www.iana.org/domains/root/db/ec.html -- http://www.nic.ec -- whois.nic.ec
+.edu --  -- sponsored -- http://www.iana.org/domains/root/db/edu.html -- http://www.educause.edu/edudomain -- whois.educause.edu
+.education --  -- generic -- http://www.iana.org/domains/root/db/education.html -- http://donuts.co/ -- whois.donuts.co
+.ee --  -- country-code -- http://www.iana.org/domains/root/db/ee.html -- http://www.internet.ee -- whois.tld.ee
+.eg --  -- country-code -- http://www.iana.org/domains/root/db/eg.html -- http://www.egregistry.eg/ -- 
+.eh --  -- country-code -- http://www.iana.org/domains/root/db/eh.html --  -- 
+.email --  -- generic -- http://www.iana.org/domains/root/db/email.html -- http://donuts.co -- whois.donuts.co
+.engineer --  -- generic -- http://www.iana.org/domains/root/db/engineer.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.engineering --  -- generic -- http://www.iana.org/domains/root/db/engineering.html -- http://donuts.co -- whois.donuts.co
+.enterprises --  -- generic -- http://www.iana.org/domains/root/db/enterprises.html -- http://donuts.co -- whois.donuts.co
+.equipment --  -- generic -- http://www.iana.org/domains/root/db/equipment.html -- http://donuts.co -- whois.donuts.co
+.er --  -- country-code -- http://www.iana.org/domains/root/db/er.html --  -- 
+.es --  -- country-code -- http://www.iana.org/domains/root/db/es.html -- http://www.nic.es/ -- whois.nic.es
+.esq --  -- generic -- http://www.iana.org/domains/root/db/esq.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.estate --  -- generic -- http://www.iana.org/domains/root/db/estate.html -- http://donuts.co -- whois.donuts.co
+.et --  -- country-code -- http://www.iana.org/domains/root/db/et.html -- http://www.ethiotelecom.et -- 
+.eu --  -- country-code -- http://www.iana.org/domains/root/db/eu.html -- http://www.eurid.eu -- whois.eu
+.eus --  -- generic -- http://www.iana.org/domains/root/db/eus.html -- http://www.puntueus.org/ -- whois.eus.coreregistry.net
+.events --  -- generic -- http://www.iana.org/domains/root/db/events.html -- http://donuts.co/ -- whois.donuts.co
+.exchange --  -- generic -- http://www.iana.org/domains/root/db/exchange.html -- http://donuts.co -- whois.donuts.co
+.expert --  -- generic -- http://www.iana.org/domains/root/db/expert.html -- http://donuts.co/ -- whois.donuts.co
+.exposed --  -- generic -- http://www.iana.org/domains/root/db/exposed.html -- http://donuts.co/ -- whois.donuts.co
+.fail --  -- generic -- http://www.iana.org/domains/root/db/fail.html -- http://donuts.co -- whois.donuts.co
+.farm --  -- generic -- http://www.iana.org/domains/root/db/farm.html -- http://donuts.co -- whois.donuts.co
+.feedback --  -- generic -- http://www.iana.org/domains/root/db/feedback.html -- http://centralnic.com -- whois.centralnic.com
+.fi --  -- country-code -- http://www.iana.org/domains/root/db/fi.html -- https://domain.fi -- whois.fi
+.finance --  -- generic -- http://www.iana.org/domains/root/db/finance.html -- http://donuts.co/ -- whois.donuts.co
+.financial --  -- generic -- http://www.iana.org/domains/root/db/financial.html -- http://donuts.co -- whois.donuts.co
+.fish --  -- generic -- http://www.iana.org/domains/root/db/fish.html -- http://donuts.co -- whois.donuts.co
+.fishing --  -- generic -- http://www.iana.org/domains/root/db/fishing.html --  -- whois-dub.mm-registry.com
+.fitness --  -- generic -- http://www.iana.org/domains/root/db/fitness.html -- http://donuts.co -- whois.donuts.co
+.fj --  -- country-code -- http://www.iana.org/domains/root/db/fj.html -- http://domains.fj/ -- 
+.fk --  -- country-code -- http://www.iana.org/domains/root/db/fk.html -- http://www.fidc.co.fk/ -- 
+.flights --  -- generic -- http://www.iana.org/domains/root/db/flights.html -- http://donuts.co/ -- whois.donuts.co
+.florist --  -- generic -- http://www.iana.org/domains/root/db/florist.html -- http://donuts.co -- whois.donuts.co
+.fly --  -- generic -- http://www.iana.org/domains/root/db/fly.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.fm --  -- country-code -- http://www.iana.org/domains/root/db/fm.html -- http://www.dot.fm/ -- 
+.fo --  -- country-code -- http://www.iana.org/domains/root/db/fo.html -- http://www.nic.fo/ -- whois.nic.fo
+.foo --  -- generic -- http://www.iana.org/domains/root/db/foo.html -- http://www.charlestonroadregistry.com/ -- domain-registry-whois.l.google.com
+.forsale --  -- generic -- http://www.iana.org/domains/root/db/forsale.html -- http://rightside.co/registry/ -- whois.unitedtld.com
+.foundation --  -- generic -- http://www.iana.org/domains/root/db/foundation.html -- http://donuts.co/ -- whois.donuts.co
+.fr --  -- country-code -- http://www.iana.org/domains/root/db/fr.html -- http://www.nic.fr/ -- whois.nic.fr
+.frl --  -- generic -- http://www.iana.org/domains/root/db/frl.html -- https://nic.frl -- whois.nic.frl
+.frogans --  -- generic -- http://www.iana.org/domains/root/db/frogans.html -- http://www.frogans.org -- whois-frogans.nic.fr
+.fund --  -- generic -- http://www.iana.org/domains/root/db/fund.html -- http://donuts.co -- whois.donuts.co
+.furniture --  -- generic -- http://www.iana.org/domains/root/db/furniture.html -- http://donuts.co -- whois.donuts.co
+.futbol --  -- generic -- http://www.iana.org/domains/root/db/futbol.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.ga --  -- country-code -- http://www.iana.org/domains/root/db/ga.html --  -- 
+.gal --  -- generic -- http://www.iana.org/domains/root/db/gal.html -- http://www.puntogal.org -- whois.gal.coreregistry.net
+.gallery --  -- generic -- http://www.iana.org/domains/root/db/gallery.html -- http://donuts.co -- whois.donuts.co
+.gb --  -- country-code -- http://www.iana.org/domains/root/db/gb.html --  -- 
+.gbiz --  -- generic -- http://www.iana.org/domains/root/db/gbiz.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.gd --  -- country-code -- http://www.iana.org/domains/root/db/gd.html -- http://nic.gd -- whois.nic.gd
+.ge --  -- country-code -- http://www.iana.org/domains/root/db/ge.html -- http://georgia.net.ge/domain/ -- 
+.gent --  -- generic -- http://www.iana.org/domains/root/db/gent.html -- http://www.dotgent.com -- whois.nic.gent
+.gf --  -- country-code -- http://www.iana.org/domains/root/db/gf.html -- http://www.nplus.gf/ -- 
+.gg --  -- country-code -- http://www.iana.org/domains/root/db/gg.html -- http://www.channelisles.net/ -- whois.gg
+.gh --  -- country-code -- http://www.iana.org/domains/root/db/gh.html -- http://www.ghana.com.gh/ -- 
+.gi --  -- country-code -- http://www.iana.org/domains/root/db/gi.html -- http://www.nic.gi -- whois2.afilias-grs.net
+.gift --  -- generic -- http://www.iana.org/domains/root/db/gift.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.gifts --  -- generic -- http://www.iana.org/domains/root/db/gifts.html -- http://donuts.co -- whois.donuts.co
+.gives --  -- generic -- http://www.iana.org/domains/root/db/gives.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.gl --  -- country-code -- http://www.iana.org/domains/root/db/gl.html -- http://www.nic.gl/ -- whois.nic.gl
+.glass --  -- generic -- http://www.iana.org/domains/root/db/glass.html -- http://donuts.co/ -- whois.donuts.co
+.gle --  -- generic -- http://www.iana.org/domains/root/db/gle.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.global --  -- generic -- http://www.iana.org/domains/root/db/global.html -- http://www.dotglobal.info -- whois.afilias-srs.net
+.globo --  -- generic -- http://www.iana.org/domains/root/db/globo.html --  -- whois.gtlds.nic.br
+.gm --  -- country-code -- http://www.iana.org/domains/root/db/gm.html -- http://www.nic.gm -- 
+.gmail --  -- generic -- http://www.iana.org/domains/root/db/gmail.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.gmo --  -- generic -- http://www.iana.org/domains/root/db/gmo.html -- http://www.gmoregistry.com/en/ -- 
+.gmx --  -- generic -- http://www.iana.org/domains/root/db/gmx.html -- http://cp.gmx.tango.knipp.de -- whois-fe1.gmx.tango.knipp.de
+.gn --  -- country-code -- http://www.iana.org/domains/root/db/gn.html -- http://psg.com/dns/gn -- 
+.google --  -- generic -- http://www.iana.org/domains/root/db/google.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.gop --  -- generic -- http://www.iana.org/domains/root/db/gop.html --  -- whois-cl01.mm-registry.com
+.gov --  -- sponsored -- http://www.iana.org/domains/root/db/gov.html -- http://www.dotgov.gov -- whois.dotgov.gov
+.gp --  -- country-code -- http://www.iana.org/domains/root/db/gp.html -- http://www.nic.gp/ -- 
+.gq --  -- country-code -- http://www.iana.org/domains/root/db/gq.html -- http://www.dominio.gq -- whois.dominio.gq
+.gr --  -- country-code -- http://www.iana.org/domains/root/db/gr.html -- http://www.gr -- 
+.graphics --  -- generic -- http://www.iana.org/domains/root/db/graphics.html -- http://donuts.co -- whois.donuts.co
+.gratis --  -- generic -- http://www.iana.org/domains/root/db/gratis.html -- http://donuts.co -- whois.donuts.co
+.green --  -- generic -- http://www.iana.org/domains/root/db/green.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.gripe --  -- generic -- http://www.iana.org/domains/root/db/gripe.html -- http://donuts.co -- whois.donuts.co
+.gs --  -- country-code -- http://www.iana.org/domains/root/db/gs.html -- http://secure.nic.gs -- whois.nic.gs
+.gt --  -- country-code -- http://www.iana.org/domains/root/db/gt.html -- http://www.gt -- 
+.gu --  -- country-code -- http://www.iana.org/domains/root/db/gu.html -- http://gadao.gov.gu -- 
+.guide --  -- generic -- http://www.iana.org/domains/root/db/guide.html -- http://donuts.co/ -- whois.donuts.co
+.guitars --  -- generic -- http://www.iana.org/domains/root/db/guitars.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.guru --  -- generic -- http://www.iana.org/domains/root/db/guru.html -- http://donuts.co -- whois.donuts.co
+.gw --  -- country-code -- http://www.iana.org/domains/root/db/gw.html --  -- 
+.gy --  -- country-code -- http://www.iana.org/domains/root/db/gy.html -- http://registry.gy/ -- whois.registry.gy
+.hamburg --  -- generic -- http://www.iana.org/domains/root/db/hamburg.html -- http://www.dothamburg.de -- whois.nic.hamburg
+.haus --  -- generic -- http://www.iana.org/domains/root/db/haus.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.healthcare --  -- generic -- http://www.iana.org/domains/root/db/healthcare.html -- http://donuts.co -- whois.donuts.co
+.help --  -- generic -- http://www.iana.org/domains/root/db/help.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.here --  -- generic -- http://www.iana.org/domains/root/db/here.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.hiphop --  -- generic -- http://www.iana.org/domains/root/db/hiphop.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.hiv --  -- generic -- http://www.iana.org/domains/root/db/hiv.html -- http://www.dothiv.org -- whois.afilias-srs.net
+.hk --  -- country-code -- http://www.iana.org/domains/root/db/hk.html -- http://www.hkirc.hk -- whois.hkirc.hk
+.hm --  -- country-code -- http://www.iana.org/domains/root/db/hm.html -- http://www.registry.hm -- 
+.hn --  -- country-code -- http://www.iana.org/domains/root/db/hn.html -- http://www.nic.hn -- whois.nic.hn
+.holdings --  -- generic -- http://www.iana.org/domains/root/db/holdings.html -- http://donuts.co -- whois.donuts.co
+.holiday --  -- generic -- http://www.iana.org/domains/root/db/holiday.html -- http://donuts.co -- whois.donuts.co
+.homes --  -- generic -- http://www.iana.org/domains/root/db/homes.html -- http://www.dominionenterprises.com -- whois.afilias-srs.net
+.horse --  -- generic -- http://www.iana.org/domains/root/db/horse.html --  -- whois-dub.mm-registry.com
+.host --  -- generic -- http://www.iana.org/domains/root/db/host.html -- http://radixregistry.com/ -- whois.nic.host
+.hosting --  -- generic -- http://www.iana.org/domains/root/db/hosting.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.house --  -- generic -- http://www.iana.org/domains/root/db/house.html -- http://donuts.co -- whois.donuts.co
+.how --  -- generic -- http://www.iana.org/domains/root/db/how.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.hr --  -- country-code -- http://www.iana.org/domains/root/db/hr.html -- http://www.dns.hr -- whois.dns.hr
+.ht --  -- country-code -- http://www.iana.org/domains/root/db/ht.html -- http://www.nic.ht -- whois.nic.ht
+.hu --  -- country-code -- http://www.iana.org/domains/root/db/hu.html -- http://www.nic.hu -- whois.nic.hu
+.ibm --  -- generic -- http://www.iana.org/domains/root/db/ibm.html -- http://www.ibm.com -- whois.nic.ibm
+.id --  -- country-code -- http://www.iana.org/domains/root/db/id.html -- https://register.pandi.or.id -- whois.pandi.or.id
+.ie --  -- country-code -- http://www.iana.org/domains/root/db/ie.html -- http://www.domainregistry.ie -- whois.domainregistry.ie
+.il --  -- country-code -- http://www.iana.org/domains/root/db/il.html -- http://www.isoc.org.il/domains -- whois.isoc.org.il
+.im --  -- country-code -- http://www.iana.org/domains/root/db/im.html -- http://www.nic.im -- whois.nic.im
+.immo --  -- generic -- http://www.iana.org/domains/root/db/immo.html -- http://donuts.co/ -- whois.donuts.co
+.immobilien --  -- generic -- http://www.iana.org/domains/root/db/immobilien.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.in --  -- country-code -- http://www.iana.org/domains/root/db/in.html -- http://www.registry.in -- whois.inregistry.net
+.industries --  -- generic -- http://www.iana.org/domains/root/db/industries.html -- http://donuts.co -- whois.donuts.co
+.info --  -- generic -- http://www.iana.org/domains/root/db/info.html -- http://www.nic.info -- whois.afilias.net
+.ing --  -- generic -- http://www.iana.org/domains/root/db/ing.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.ink --  -- generic -- http://www.iana.org/domains/root/db/ink.html -- http://www.dotink.info -- whois.centralnic.com
+.institute --  -- generic -- http://www.iana.org/domains/root/db/institute.html -- http://donuts.co/ -- whois.donuts.co
+.insure --  -- generic -- http://www.iana.org/domains/root/db/insure.html -- http://donuts.co/ -- whois.donuts.co
+.int --  -- sponsored -- http://www.iana.org/domains/root/db/int.html -- http://www.iana.org/int-dom/int.htm -- whois.iana.org
+.international --  -- generic -- http://www.iana.org/domains/root/db/international.html -- http://donuts.co -- whois.donuts.co
+.investments --  -- generic -- http://www.iana.org/domains/root/db/investments.html -- http://donuts.co -- whois.donuts.co
+.io --  -- country-code -- http://www.iana.org/domains/root/db/io.html -- http://www.nic.io/ -- whois.nic.io
+.iq --  -- country-code -- http://www.iana.org/domains/root/db/iq.html -- https://registrar.cmc.iq -- whois.cmc.iq
+.ir --  -- country-code -- http://www.iana.org/domains/root/db/ir.html -- http://www.nic.ir -- whois.nic.ir
+.is --  -- country-code -- http://www.iana.org/domains/root/db/is.html -- http://www.isnic.is/ -- whois.isnic.is
+.it --  -- country-code -- http://www.iana.org/domains/root/db/it.html -- http://www.nic.it/ -- whois.nic.it
+.je --  -- country-code -- http://www.iana.org/domains/root/db/je.html -- http://www.channelisles.net/ -- whois.je
+.jetzt --  -- generic -- http://www.iana.org/domains/root/db/jetzt.html -- http://www.newtldcompany.com/ -- 
+.jm --  -- country-code -- http://www.iana.org/domains/root/db/jm.html --  -- 
+.jo --  -- country-code -- http://www.iana.org/domains/root/db/jo.html -- https://www.dns.jo/login.aspx -- 
+.jobs --  -- sponsored -- http://www.iana.org/domains/root/db/jobs.html -- http://www.goto.jobs -- jobswhois.verisign-grs.com
+.joburg --  -- generic -- http://www.iana.org/domains/root/db/joburg.html -- http://www.registry.net.za -- joburg-whois.registry.net.za
+.jp --  -- country-code -- http://www.iana.org/domains/root/db/jp.html -- http://jprs.jp/ -- whois.jprs.jp
+.juegos --  -- generic -- http://www.iana.org/domains/root/db/juegos.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.kaufen --  -- generic -- http://www.iana.org/domains/root/db/kaufen.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.ke --  -- country-code -- http://www.iana.org/domains/root/db/ke.html -- http://www.kenic.or.ke -- whois.kenic.or.ke
+.kg --  -- country-code -- http://www.iana.org/domains/root/db/kg.html -- http://www.domain.kg/ -- whois.domain.kg
+.kh --  -- country-code -- http://www.iana.org/domains/root/db/kh.html -- http://www.camnet.com.kh/ -- 
+.ki --  -- country-code -- http://www.iana.org/domains/root/db/ki.html -- http://www.nic.ki -- whois.nic.ki
+.kim --  -- generic -- http://www.iana.org/domains/root/db/kim.html -- http://afilias.info -- whois.afilias.net
+.kitchen --  -- generic -- http://www.iana.org/domains/root/db/kitchen.html -- http://donuts.co -- whois.donuts.co
+.kiwi --  -- generic -- http://www.iana.org/domains/root/db/kiwi.html -- http://hello.kiwi -- whois.nic.kiwi
+.km --  -- country-code -- http://www.iana.org/domains/root/db/km.html -- http://www.domaine.km/ -- 
+.kn --  -- country-code -- http://www.iana.org/domains/root/db/kn.html --  -- 
+.koeln --  -- generic -- http://www.iana.org/domains/root/db/koeln.html -- http://www.dotkoeln.de -- whois-fe1.pdt.koeln.tango.knipp.de
+.kp --  -- country-code -- http://www.iana.org/domains/root/db/kp.html -- http://www.star.co.kp -- 
+.kr --  -- country-code -- http://www.iana.org/domains/root/db/kr.html -- http://www.nic.or.kr/ -- whois.kr
+.krd --  -- generic -- http://www.iana.org/domains/root/db/krd.html -- http://www.dit.krg.org/ -- whois.aridnrs.net.au
+.kred --  -- generic -- http://www.iana.org/domains/root/db/kred.html -- http://www.peoplebrowsr.com -- 
+.kw --  -- country-code -- http://www.iana.org/domains/root/db/kw.html -- http://www.kw/ -- 
+.ky --  -- country-code -- http://www.iana.org/domains/root/db/ky.html -- http://www.nic.ky -- 
+.kz --  -- country-code -- http://www.iana.org/domains/root/db/kz.html -- http://www.nic.kz -- whois.nic.kz
+.la --  -- country-code -- http://www.iana.org/domains/root/db/la.html -- http://www.la -- whois.nic.la
+.lacaixa --  -- generic -- http://www.iana.org/domains/root/db/lacaixa.html -- http://www.lacaixa.com -- whois.nic.lacaixa
+.land --  -- generic -- http://www.iana.org/domains/root/db/land.html -- http://donuts.co -- whois.donuts.co
+.lawyer --  -- generic -- http://www.iana.org/domains/root/db/lawyer.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.lb --  -- country-code -- http://www.iana.org/domains/root/db/lb.html -- http://www.aub.edu.lb/lbdr -- 
+.lc --  -- country-code -- http://www.iana.org/domains/root/db/lc.html -- http://www.nic.lc -- 
+.lease --  -- generic -- http://www.iana.org/domains/root/db/lease.html -- http://donuts.co -- whois.donuts.co
+.lgbt --  -- generic -- http://www.iana.org/domains/root/db/lgbt.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.li --  -- country-code -- http://www.iana.org/domains/root/db/li.html -- http://www.nic.li -- whois.nic.li
+.life --  -- generic -- http://www.iana.org/domains/root/db/life.html -- http://donuts.co/ -- whois.donuts.co
+.lighting --  -- generic -- http://www.iana.org/domains/root/db/lighting.html -- http://donuts.co -- whois.donuts.co
+.limited --  -- generic -- http://www.iana.org/domains/root/db/limited.html -- http://donuts.co -- whois.donuts.co
+.limo --  -- generic -- http://www.iana.org/domains/root/db/limo.html -- http://donuts.co -- whois.donuts.co
+.link --  -- generic -- http://www.iana.org/domains/root/db/link.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.lk --  -- country-code -- http://www.iana.org/domains/root/db/lk.html -- http://www.nic.lk/ -- 
+.loans --  -- generic -- http://www.iana.org/domains/root/db/loans.html -- http://donuts.co/ -- whois.donuts.co
+.london --  -- generic -- http://www.iana.org/domains/root/db/london.html -- http://mydotlondon.com/ -- whois-lon.mm-registry.com
+.lotto --  -- generic -- http://www.iana.org/domains/root/db/lotto.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.lr --  -- country-code -- http://www.iana.org/domains/root/db/lr.html -- http://psg.com/dns/lr -- 
+.ls --  -- country-code -- http://www.iana.org/domains/root/db/ls.html --  -- 
+.lt --  -- country-code -- http://www.iana.org/domains/root/db/lt.html -- http://www.domreg.lt -- whois.domreg.lt
+.ltda --  -- generic -- http://www.iana.org/domains/root/db/ltda.html -- http://www.myltda.com.br -- whois.afilias-srs.net
+.lu --  -- country-code -- http://www.iana.org/domains/root/db/lu.html -- http://www.dns.lu -- whois.dns.lu
+.luxe --  -- generic -- http://www.iana.org/domains/root/db/luxe.html -- http://mm-registry.com -- whois-dub.mm-registry.com
+.luxury --  -- generic -- http://www.iana.org/domains/root/db/luxury.html -- http://www.dotluxury.com -- whois.nic.luxury
+.lv --  -- country-code -- http://www.iana.org/domains/root/db/lv.html -- http://www.nic.lv/ -- whois.nic.lv
+.ly --  -- country-code -- http://www.iana.org/domains/root/db/ly.html -- http://www.nic.ly/ -- whois.nic.ly
+.ma --  -- country-code -- http://www.iana.org/domains/root/db/ma.html -- http://www.nic.ma/ -- whois.iam.net.ma
+.maison --  -- generic -- http://www.iana.org/domains/root/db/maison.html -- http://donuts.co -- whois.donuts.co
+.management --  -- generic -- http://www.iana.org/domains/root/db/management.html -- http://donuts.co -- whois.donuts.co
+.mango --  -- generic -- http://www.iana.org/domains/root/db/mango.html -- http://www.mango.com -- whois.mango.coreregistry.net
+.market --  -- generic -- http://www.iana.org/domains/root/db/market.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.marketing --  -- generic -- http://www.iana.org/domains/root/db/marketing.html -- http://donuts.co -- whois.donuts.co
+.mc --  -- country-code -- http://www.iana.org/domains/root/db/mc.html -- http://www.nic.mc/ -- 
+.md --  -- country-code -- http://www.iana.org/domains/root/db/md.html -- http://www.register.md -- whois.nic.md
+.me --  -- country-code -- http://www.iana.org/domains/root/db/me.html -- http://www.domain.me -- whois.nic.me
+.media --  -- generic -- http://www.iana.org/domains/root/db/media.html -- http://donuts.co/ -- whois.donuts.co
+.meet --  -- generic -- http://www.iana.org/domains/root/db/meet.html -- http://afilias.info/contact-us -- whois.afilias.net
+.melbourne --  -- generic -- http://www.iana.org/domains/root/db/melbourne.html -- http://nic.melbourne/ -- whois.aridnrs.net.au
+.meme --  -- generic -- http://www.iana.org/domains/root/db/meme.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.menu --  -- generic -- http://www.iana.org/domains/root/db/menu.html -- http://www.dot-menu.com -- whois.nic.menu
+.mf --  -- country-code -- http://www.iana.org/domains/root/db/mf.html --  -- 
+.mg --  -- country-code -- http://www.iana.org/domains/root/db/mg.html -- http://www.nic.mg -- whois.nic.mg
+.mh --  -- country-code -- http://www.iana.org/domains/root/db/mh.html -- http://www.nic.net.mh/ -- 
+.miami --  -- generic -- http://www.iana.org/domains/root/db/miami.html --  -- whois-dub.mm-registry.com
+.mil --  -- sponsored -- http://www.iana.org/domains/root/db/mil.html --  -- 
+.mini --  -- generic -- http://www.iana.org/domains/root/db/mini.html -- http://nic.mini.com -- whois.ksregistry.net
+.mk --  -- country-code -- http://www.iana.org/domains/root/db/mk.html -- http://www.marnet.mk -- whois.marnet.mk
+.ml --  -- country-code -- http://www.iana.org/domains/root/db/ml.html -- http://www.dot.ml -- whois.dot.ml
+.mm --  -- country-code -- http://www.iana.org/domains/root/db/mm.html -- http://www.nic.mm/ -- 
+.mn --  -- country-code -- http://www.iana.org/domains/root/db/mn.html -- http://www.nic.mn -- whois.nic.mn
+.mo --  -- country-code -- http://www.iana.org/domains/root/db/mo.html -- https://www.monic.mo -- whois.monic.mo
+.mobi --  -- sponsored -- http://www.iana.org/domains/root/db/mobi.html -- http://www.mtld.mobi -- whois.dotmobiregistry.net
+.moda --  -- generic -- http://www.iana.org/domains/root/db/moda.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.moe --  -- generic -- http://www.iana.org/domains/root/db/moe.html -- http://www.interlink.or.jp/gtld/info.html -- 
+.monash --  -- generic -- http://www.iana.org/domains/root/db/monash.html -- http://nic.monash -- whois.nic.monash
+.mortgage --  -- generic -- http://www.iana.org/domains/root/db/mortgage.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.moscow --  -- generic -- http://www.iana.org/domains/root/db/moscow.html -- http://www.faitid.org -- whois.nic.moscow
+.motorcycles --  -- generic -- http://www.iana.org/domains/root/db/motorcycles.html -- http://www.dominionenterprises.com -- whois.afilias-srs.net
+.mov --  -- generic -- http://www.iana.org/domains/root/db/mov.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.mp --  -- country-code -- http://www.iana.org/domains/root/db/mp.html -- https://get.mp/ -- whois.nic.mp
+.mq --  -- country-code -- http://www.iana.org/domains/root/db/mq.html -- http://www.nic.mq/ -- 
+.mr --  -- country-code -- http://www.iana.org/domains/root/db/mr.html -- http://www.nic.mr -- 
+.ms --  -- country-code -- http://www.iana.org/domains/root/db/ms.html -- http://www.nic.ms -- whois.nic.ms
+.mt --  -- country-code -- http://www.iana.org/domains/root/db/mt.html -- https://www.nic.org.mt/ -- 
+.mu --  -- country-code -- http://www.iana.org/domains/root/db/mu.html -- http://www.nic.mu/ -- whois.nic.mu
+.museum --  -- sponsored -- http://www.iana.org/domains/root/db/museum.html -- http://about.museum -- whois.museum
+.mv --  -- country-code -- http://www.iana.org/domains/root/db/mv.html --  -- 
+.mw --  -- country-code -- http://www.iana.org/domains/root/db/mw.html -- http://www.registrar.mw -- 
+.mx --  -- country-code -- http://www.iana.org/domains/root/db/mx.html -- http://www.registry.mx/ -- whois.mx
+.my --  -- country-code -- http://www.iana.org/domains/root/db/my.html -- http://www.mynic.my -- whois.mynic.my
+.mz --  -- country-code -- http://www.iana.org/domains/root/db/mz.html --  -- whois.nic.mz
+.na --  -- country-code -- http://www.iana.org/domains/root/db/na.html -- http://www.na-nic.com.na/ -- whois.na-nic.com.na
+.nagoya --  -- generic -- http://www.iana.org/domains/root/db/nagoya.html -- http://www.gmo-registry.com/en/ -- 
+.name --  -- generic-restricted -- http://www.iana.org/domains/root/db/name.html -- http://www.name -- whois.nic.name
+.navy --  -- generic -- http://www.iana.org/domains/root/db/navy.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.nc --  -- country-code -- http://www.iana.org/domains/root/db/nc.html -- http://www.domaine.nc -- whois.nc
+.ne --  -- country-code -- http://www.iana.org/domains/root/db/ne.html -- http://www.intnet.ne -- 
+.net --  -- generic -- http://www.iana.org/domains/root/db/net.html -- http://www.verisign-grs.com -- whois.verisign-grs.com
+.network --  -- generic -- http://www.iana.org/domains/root/db/network.html -- http://donuts.co -- whois.donuts.co
+.neustar --  -- generic -- http://www.iana.org/domains/root/db/neustar.html -- http://www.neustar.biz -- 
+.new --  -- generic -- http://www.iana.org/domains/root/db/new.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.nexus --  -- generic -- http://www.iana.org/domains/root/db/nexus.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.nf --  -- country-code -- http://www.iana.org/domains/root/db/nf.html -- http://nic.nf -- whois.nic.nf
+.ng --  -- country-code -- http://www.iana.org/domains/root/db/ng.html -- http://www.nira.org.ng/ -- whois.nic.net.ng
+.ngo --  -- generic -- http://www.iana.org/domains/root/db/ngo.html -- http://www.pir.org -- whois.publicinterestregistry.net
+.nhk --  -- generic -- http://www.iana.org/domains/root/db/nhk.html -- http://www.gmo-registry.com/en/ -- 
+.ni --  -- country-code -- http://www.iana.org/domains/root/db/ni.html -- http://www.nic.ni -- 
+.ninja --  -- generic -- http://www.iana.org/domains/root/db/ninja.html -- http://www.dotninja.co -- whois.unitedtld.com
+.nl --  -- country-code -- http://www.iana.org/domains/root/db/nl.html -- https://www.sidn.nl/ -- whois.domain-registry.nl
+.no --  -- country-code -- http://www.iana.org/domains/root/db/no.html -- http://www.norid.no -- whois.norid.no
+.np --  -- country-code -- http://www.iana.org/domains/root/db/np.html -- http://www.mos.com.np -- 
+.nr --  -- country-code -- http://www.iana.org/domains/root/db/nr.html -- http://www.cenpac.net.nr -- 
+.nra --  -- generic -- http://www.iana.org/domains/root/db/nra.html -- http://contact.nra.org/contact-us.aspx -- whois.afilias-srs.net
+.nrw --  -- generic -- http://www.iana.org/domains/root/db/nrw.html -- http://mindsandmachines.com -- whois.nic.nrw
+.nu --  -- country-code -- http://www.iana.org/domains/root/db/nu.html -- http://www.iis.se -- whois.iis.nu
+.nyc --  -- generic -- http://www.iana.org/domains/root/db/nyc.html -- http://www.mydotnyc.com -- 
+.nz --  -- country-code -- http://www.iana.org/domains/root/db/nz.html -- http://www.dnc.org.nz/ -- whois.srs.net.nz
+.okinawa --  -- generic -- http://www.iana.org/domains/root/db/okinawa.html -- http://www.gmo-registry.com/en/ -- 
+.om --  -- country-code -- http://www.iana.org/domains/root/db/om.html -- http://www.registry.om/om/en/?page_id=197 -- whois.registry.om
+.ong --  -- generic -- http://www.iana.org/domains/root/db/ong.html -- http://www.pir.org  -- whois.publicinterestregistry.net
+.onl --  -- generic -- http://www.iana.org/domains/root/db/onl.html -- http://www.i-registry.com -- whois.afilias-srs.net
+.ooo --  -- generic -- http://www.iana.org/domains/root/db/ooo.html -- http://www.infibeam.com -- whois.nic.ooo
+.org --  -- generic -- http://www.iana.org/domains/root/db/org.html -- http://www.pir.org -- whois.pir.org
+.organic --  -- generic -- http://www.iana.org/domains/root/db/organic.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.otsuka --  -- generic -- http://www.iana.org/domains/root/db/otsuka.html -- http://www.gmoregistry.com/en/ -- 
+.ovh --  -- generic -- http://www.iana.org/domains/root/db/ovh.html -- http://www.ovh.com -- whois-ovh.nic.fr
+.pa --  -- country-code -- http://www.iana.org/domains/root/db/pa.html -- http://www.nic.pa/ -- 
+.paris --  -- generic -- http://www.iana.org/domains/root/db/paris.html -- http://mondomaine.paris.fr/ -- whois-paris.nic.fr
+.partners --  -- generic -- http://www.iana.org/domains/root/db/partners.html -- http://donuts.co -- whois.donuts.co
+.parts --  -- generic -- http://www.iana.org/domains/root/db/parts.html -- http://donuts.co/ -- whois.donuts.co
+.pe --  -- country-code -- http://www.iana.org/domains/root/db/pe.html -- http://www.nic.pe -- kero.yachay.pe
+.pf --  -- country-code -- http://www.iana.org/domains/root/db/pf.html --  -- whois.registry.pf
+.pg --  -- country-code -- http://www.iana.org/domains/root/db/pg.html --  -- 
+.ph --  -- country-code -- http://www.iana.org/domains/root/db/ph.html -- http://dot.ph -- 
+.pharmacy --  -- generic -- http://www.iana.org/domains/root/db/pharmacy.html -- http://www.dotpharmacy.net -- 
+.photo --  -- generic -- http://www.iana.org/domains/root/db/photo.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.photography --  -- generic -- http://www.iana.org/domains/root/db/photography.html -- http://donuts.co -- whois.donuts.co
+.photos --  -- generic -- http://www.iana.org/domains/root/db/photos.html -- http://donuts.co/ -- whois.donuts.co
+.physio --  -- generic -- http://www.iana.org/domains/root/db/physio.html -- http://www.registrydotphysio.com/ -- whois.nic.physio
+.pics --  -- generic -- http://www.iana.org/domains/root/db/pics.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.pictures --  -- generic -- http://www.iana.org/domains/root/db/pictures.html -- http://donuts.co/ -- whois.donuts.co
+.pink --  -- generic -- http://www.iana.org/domains/root/db/pink.html -- http://afilias.info/contact-us -- whois.afilias.net
+.pizza --  -- generic -- http://www.iana.org/domains/root/db/pizza.html -- http://donuts.co/ -- whois.donuts.co
+.pk --  -- country-code -- http://www.iana.org/domains/root/db/pk.html -- http://www.pknic.net.pk/ -- 
+.pl --  -- country-code -- http://www.iana.org/domains/root/db/pl.html -- http://www.dns.pl/english/ -- whois.dns.pl
+.place --  -- generic -- http://www.iana.org/domains/root/db/place.html -- http://donuts.co/ -- whois.donuts.co
+.plumbing --  -- generic -- http://www.iana.org/domains/root/db/plumbing.html -- http://donuts.co -- whois.donuts.co
+.pm --  -- country-code -- http://www.iana.org/domains/root/db/pm.html -- http://www.nic.pm/ -- whois.nic.pm
+.pn --  -- country-code -- http://www.iana.org/domains/root/db/pn.html -- http://www.government.pn/PnRegistry/PnRegistry.htm -- 
+.pohl --  -- generic -- http://www.iana.org/domains/root/db/pohl.html -- http://www.dvag-registry.de -- whois.ksregistry.net
+.post --  -- sponsored -- http://www.iana.org/domains/root/db/post.html -- http://www.upu.int -- whois.dotpostregistry.net
+.pr --  -- country-code -- http://www.iana.org/domains/root/db/pr.html -- http://www.nic.pr -- whois.nic.pr
+.praxi --  -- generic -- http://www.iana.org/domains/root/db/praxi.html -- http://www.praxi.com -- 
+.press --  -- generic -- http://www.iana.org/domains/root/db/press.html -- http://radixregistry.com/ -- whois.nic.press
+.pro --  -- generic-restricted -- http://www.iana.org/domains/root/db/pro.html -- http://www.registry.pro/ -- whois.dotproregistry.net
+.prod --  -- generic -- http://www.iana.org/domains/root/db/prod.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.productions --  -- generic -- http://www.iana.org/domains/root/db/productions.html -- http://donuts.co/ -- whois.donuts.co
+.prof --  -- generic -- http://www.iana.org/domains/root/db/prof.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.properties --  -- generic -- http://www.iana.org/domains/root/db/properties.html -- http://donuts.co -- whois.donuts.co
+.property --  -- generic -- http://www.iana.org/domains/root/db/property.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.ps --  -- country-code -- http://www.iana.org/domains/root/db/ps.html -- http://www.nic.ps -- 
+.pt --  -- country-code -- http://www.iana.org/domains/root/db/pt.html -- http://www.dns.pt/ -- whois.dns.pt
+.pub --  -- generic -- http://www.iana.org/domains/root/db/pub.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.pw --  -- country-code -- http://www.iana.org/domains/root/db/pw.html -- http://www.registry.pw -- whois.nic.pw
+.py --  -- country-code -- http://www.iana.org/domains/root/db/py.html -- http://www.nic.py -- 
+.qa --  -- country-code -- http://www.iana.org/domains/root/db/qa.html -- http://domains.qa -- whois.registry.qa
+.qpon --  -- generic -- http://www.iana.org/domains/root/db/qpon.html -- http://www.dotqpon.com/ -- 
+.quebec --  -- generic -- http://www.iana.org/domains/root/db/quebec.html -- http://www.registre.quebec -- whois.quebec.rs.corenic.net
+.re --  -- country-code -- http://www.iana.org/domains/root/db/re.html -- http://www.nic.re/ -- whois.nic.re
+.realtor --  -- generic -- http://www.iana.org/domains/root/db/realtor.html --  -- 
+.recipes --  -- generic -- http://www.iana.org/domains/root/db/recipes.html -- http://donuts.co/ -- whois.donuts.co
+.red --  -- generic -- http://www.iana.org/domains/root/db/red.html -- http://afilias.info/contact-us -- whois.afilias.net
+.rehab --  -- generic -- http://www.iana.org/domains/root/db/rehab.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.reise --  -- generic -- http://www.iana.org/domains/root/db/reise.html -- http://nic.reise -- whois.nic.reise
+.reisen --  -- generic -- http://www.iana.org/domains/root/db/reisen.html -- http://donuts.co/ -- whois.donuts.co
+.ren --  -- generic -- http://www.iana.org/domains/root/db/ren.html --  -- 
+.rentals --  -- generic -- http://www.iana.org/domains/root/db/rentals.html -- http://donuts.co -- whois.donuts.co
+.repair --  -- generic -- http://www.iana.org/domains/root/db/repair.html -- http://donuts.co -- whois.donuts.co
+.report --  -- generic -- http://www.iana.org/domains/root/db/report.html -- http://donuts.co -- whois.donuts.co
+.republican --  -- generic -- http://www.iana.org/domains/root/db/republican.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.rest --  -- generic -- http://www.iana.org/domains/root/db/rest.html -- http://www.punto2012.com/ -- whois.centralnic.com
+.restaurant --  -- generic -- http://www.iana.org/domains/root/db/restaurant.html -- http://donuts.co -- whois.donuts.co
+.reviews --  -- generic -- http://www.iana.org/domains/root/db/reviews.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.rich --  -- generic -- http://www.iana.org/domains/root/db/rich.html -- http://www.i-registry.com -- whois.afilias-srs.net
+.rio --  -- generic -- http://www.iana.org/domains/root/db/rio.html --  -- whois.gtlds.nic.br
+.ro --  -- country-code -- http://www.iana.org/domains/root/db/ro.html -- http://www.rotld.ro/ -- whois.rotld.ro
+.rocks --  -- generic -- http://www.iana.org/domains/root/db/rocks.html -- http://rightside.co/rightside-registry/ -- whois.unitedtld.com
+.rodeo --  -- generic -- http://www.iana.org/domains/root/db/rodeo.html --  -- whois-dub.mm-registry.com
+.rs --  -- country-code -- http://www.iana.org/domains/root/db/rs.html -- http://www.rnids.rs -- whois.rnids.rs
+.rsvp --  -- generic -- http://www.iana.org/domains/root/db/rsvp.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.ru --  -- country-code -- http://www.iana.org/domains/root/db/ru.html -- http://www.cctld.ru/en -- whois.tcinet.ru
+.ruhr --  -- generic -- http://www.iana.org/domains/root/db/ruhr.html -- http://regiodot.de -- whois.nic.ruhr
+.rw --  -- country-code -- http://www.iana.org/domains/root/db/rw.html -- http://www.ricta.org.rw -- 
+.ryukyu --  -- generic -- http://www.iana.org/domains/root/db/ryukyu.html -- http://www.gmo-registry.com/en/ -- 
+.sa --  -- country-code -- http://www.iana.org/domains/root/db/sa.html -- http://www.nic.net.sa/ -- whois.nic.net.sa
+.saarland --  -- generic -- http://www.iana.org/domains/root/db/saarland.html -- http://www.nic-saarland.de -- whois.ksregistry.net
+.sarl --  -- generic -- http://www.iana.org/domains/root/db/sarl.html -- http://donuts.co -- whois.donuts.co
+.sb --  -- country-code -- http://www.iana.org/domains/root/db/sb.html -- http://www.nic.net.sb/ -- whois.nic.net.sb
+.sc --  -- country-code -- http://www.iana.org/domains/root/db/sc.html -- http://www.nic.sc -- whois2.afilias-grs.net
+.sca --  -- generic -- http://www.iana.org/domains/root/db/sca.html -- http://sca.com -- whois.nic.sca
+.scb --  -- generic -- http://www.iana.org/domains/root/db/scb.html -- http://www.scb.co.th/top-level-domain/index.html -- whois.nic.scb
+.schmidt --  -- generic -- http://www.iana.org/domains/root/db/schmidt.html -- http://nic.schmidt/ -- whois.nic.schmidt
+.schule --  -- generic -- http://www.iana.org/domains/root/db/schule.html -- http://donuts.co -- whois.donuts.co
+.scot --  -- generic -- http://www.iana.org/domains/root/db/scot.html -- http://www.dotscot.net -- whois.scot.coreregistry.net
+.sd --  -- country-code -- http://www.iana.org/domains/root/db/sd.html -- http://www.isoc.sd -- 
+.se --  -- country-code -- http://www.iana.org/domains/root/db/se.html -- http://www.iis.se -- whois.iis.se
+.services --  -- generic -- http://www.iana.org/domains/root/db/services.html -- http://donuts.co -- whois.donuts.co
+.sexy --  -- generic -- http://www.iana.org/domains/root/db/sexy.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.sg --  -- country-code -- http://www.iana.org/domains/root/db/sg.html -- http://www.sgnic.sg -- whois.sgnic.sg
+.sh --  -- country-code -- http://www.iana.org/domains/root/db/sh.html -- http://www.nic.sh/ -- whois.nic.sh
+.shiksha --  -- generic -- http://www.iana.org/domains/root/db/shiksha.html -- http://afilias.info/contact-us -- whois.afilias.net
+.shoes --  -- generic -- http://www.iana.org/domains/root/db/shoes.html -- http://donuts.co/ -- whois.donuts.co
+.si --  -- country-code -- http://www.iana.org/domains/root/db/si.html -- http://www.registry.si/ -- whois.arnes.si
+.singles --  -- generic -- http://www.iana.org/domains/root/db/singles.html -- http://donuts.co -- whois.donuts.co
+.sj --  -- country-code -- http://www.iana.org/domains/root/db/sj.html -- http://www.norid.no/omnorid/toppdomenet-sj.en.html -- 
+.sk --  -- country-code -- http://www.iana.org/domains/root/db/sk.html -- http://www.sk-nic.sk -- whois.sk-nic.sk
+.sl --  -- country-code -- http://www.iana.org/domains/root/db/sl.html -- http://www.nic.sl -- 
+.sm --  -- country-code -- http://www.iana.org/domains/root/db/sm.html -- http://www.nic.sm -- whois.nic.sm
+.sn --  -- country-code -- http://www.iana.org/domains/root/db/sn.html -- http://www.nic.sn -- whois.nic.sn
+.so --  -- country-code -- http://www.iana.org/domains/root/db/so.html -- http://www.nic.so/ -- whois.nic.so
+.social --  -- generic -- http://www.iana.org/domains/root/db/social.html -- http://www.unitedtld.com -- whois.unitedtld.com
+.software --  -- generic -- http://www.iana.org/domains/root/db/software.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.sohu --  -- generic -- http://www.iana.org/domains/root/db/sohu.html --  -- 
+.solar --  -- generic -- http://www.iana.org/domains/root/db/solar.html -- http://donuts.co -- whois.donuts.co
+.solutions --  -- generic -- http://www.iana.org/domains/root/db/solutions.html -- http://donuts.co -- whois.donuts.co
+.soy --  -- generic -- http://www.iana.org/domains/root/db/soy.html -- http://www.charlestonroadregistry.com/ -- domain-registry-whois.l.google.com
+.space --  -- generic -- http://www.iana.org/domains/root/db/space.html -- http://radixregistry.com/ -- whois.nic.space
+.spiegel --  -- generic -- http://www.iana.org/domains/root/db/spiegel.html -- http://www.spiegelregistry.de -- whois.ksregistry.net
+.sr --  -- country-code -- http://www.iana.org/domains/root/db/sr.html -- http://www.register.sr/ -- 
+.ss --  -- country-code -- http://www.iana.org/domains/root/db/ss.html --  -- 
+.st --  -- country-code -- http://www.iana.org/domains/root/db/st.html -- http://www.nic.st -- whois.nic.st
+.su --  -- country-code -- http://www.iana.org/domains/root/db/su.html --  -- whois.tcinet.ru
+.supplies --  -- generic -- http://www.iana.org/domains/root/db/supplies.html -- http://donuts.co -- whois.donuts.co
+.supply --  -- generic -- http://www.iana.org/domains/root/db/supply.html -- http://donuts.co -- whois.donuts.co
+.support --  -- generic -- http://www.iana.org/domains/root/db/support.html -- http://donuts.co -- whois.donuts.co
+.surf --  -- generic -- http://www.iana.org/domains/root/db/surf.html -- http://mm-registry.com -- whois-dub.mm-registry.com
+.surgery --  -- generic -- http://www.iana.org/domains/root/db/surgery.html -- http://donuts.co -- whois.donuts.co
+.suzuki --  -- generic -- http://www.iana.org/domains/root/db/suzuki.html -- http://www.gmo-registry.com/en/ -- 
+.sv --  -- country-code -- http://www.iana.org/domains/root/db/sv.html -- http://www.svnet.sv -- 
+.sx --  -- country-code -- http://www.iana.org/domains/root/db/sx.html -- http://registry.sx -- whois.sx
+.sy --  -- country-code -- http://www.iana.org/domains/root/db/sy.html -- http://tld.sy -- whois.tld.sy
+.systems --  -- generic -- http://www.iana.org/domains/root/db/systems.html -- http://donuts.co -- whois.donuts.co
+.sz --  -- country-code -- http://www.iana.org/domains/root/db/sz.html -- http://www.sispa.org.sz/ -- 
+.tatar --  -- generic -- http://www.iana.org/domains/root/db/tatar.html -- http://www.dottatar.ru -- whois.nic.tatar
+.tattoo --  -- generic -- http://www.iana.org/domains/root/db/tattoo.html -- http://www.uniregistry.com -- whois.uniregistry.net
+.tax --  -- generic -- http://www.iana.org/domains/root/db/tax.html -- http://donuts.co -- whois.donuts.co
+.tc --  -- country-code -- http://www.iana.org/domains/root/db/tc.html -- http://meridiantld.net -- whois.meridiantld.net
+.td --  -- country-code -- http://www.iana.org/domains/root/db/td.html -- http://www.sotel.td -- 
+.technology --  -- generic -- http://www.iana.org/domains/root/db/technology.html -- http://donuts.co -- whois.donuts.co
+.tel --  -- sponsored -- http://www.iana.org/domains/root/db/tel.html -- http://www.nic.tel -- whois.nic.tel
+.tf --  -- country-code -- http://www.iana.org/domains/root/db/tf.html -- http://www.nic.tf/ -- whois.nic.tf
+.tg --  -- country-code -- http://www.iana.org/domains/root/db/tg.html -- http://www.nic.tg -- 
+.th --  -- country-code -- http://www.iana.org/domains/root/db/th.html -- http://www.thnic.co.th -- whois.thnic.co.th
+.tienda --  -- generic -- http://www.iana.org/domains/root/db/tienda.html -- http://donuts.co -- whois.donuts.co
+.tips --  -- generic -- http://www.iana.org/domains/root/db/tips.html -- http://donuts.co -- whois.donuts.co
+.tirol --  -- generic -- http://www.iana.org/domains/root/db/tirol.html -- http://www.nic.tirol -- whois.nic.tirol
+.tj --  -- country-code -- http://www.iana.org/domains/root/db/tj.html -- http://www.nic.tj -- 
+.tk --  -- country-code -- http://www.iana.org/domains/root/db/tk.html -- http://www.dot.tk -- whois.dot.tk
+.tl --  -- country-code -- http://www.iana.org/domains/root/db/tl.html -- http://www.nic.tl -- whois.nic.tl
+.tm --  -- country-code -- http://www.iana.org/domains/root/db/tm.html -- http://www.nic.tm/ -- whois.nic.tm
+.tn --  -- country-code -- http://www.iana.org/domains/root/db/tn.html -- http://whois.ati.tn -- whois.ati.tn
+.to --  -- country-code -- http://www.iana.org/domains/root/db/to.html -- http://www.tonic.to/ -- whois.tonic.to
+.today --  -- generic -- http://www.iana.org/domains/root/db/today.html -- http://donuts.co -- whois.donuts.co
+.tokyo --  -- generic -- http://www.iana.org/domains/root/db/tokyo.html -- http://www.gmo-registry.com/en/ -- 
+.tools --  -- generic -- http://www.iana.org/domains/root/db/tools.html -- http://donuts.co/ -- whois.donuts.co
+.top --  -- generic -- http://www.iana.org/domains/root/db/top.html -- http://www.55hl.com -- whois.nic.top
+.town --  -- generic -- http://www.iana.org/domains/root/db/town.html -- http://donuts.co/ -- whois.donuts.co
+.toys --  -- generic -- http://www.iana.org/domains/root/db/toys.html -- http://donuts.co/ -- whois.donuts.co
+.tp --  -- country-code -- http://www.iana.org/domains/root/db/tp.html -- http://www.nic.tp -- 
+.tr --  -- country-code -- http://www.iana.org/domains/root/db/tr.html -- http://www.nic.tr -- whois.nic.tr
+.trade --  -- generic -- http://www.iana.org/domains/root/db/trade.html -- http://www.famousfourmedia.com/trade -- 
+.training --  -- generic -- http://www.iana.org/domains/root/db/training.html -- http://donuts.co/ -- whois.donuts.co
+.travel --  -- sponsored -- http://www.iana.org/domains/root/db/travel.html -- http://www.travel.travel/ -- whois.nic.travel
+.tt --  -- country-code -- http://www.iana.org/domains/root/db/tt.html -- http://www.nic.tt -- 
+.tui --  -- generic -- http://www.iana.org/domains/root/db/tui.html -- http://www.tuiregistry.com -- whois.ksregistry.net
+.tv --  -- country-code -- http://www.iana.org/domains/root/db/tv.html -- http://www.tv -- tvwhois.verisign-grs.com
+.tw --  -- country-code -- http://www.iana.org/domains/root/db/tw.html -- http://rs.twnic.net.tw -- whois.twnic.net.tw
+.tz --  -- country-code -- http://www.iana.org/domains/root/db/tz.html -- http://www.tznic.or.tz/ -- whois.tznic.or.tz
+.ua --  -- country-code -- http://www.iana.org/domains/root/db/ua.html -- http://hostmaster.ua/ -- whois.ua
+.ug --  -- country-code -- http://www.iana.org/domains/root/db/ug.html -- http://www.registry.co.ug -- whois.co.ug
+.uk --  -- country-code -- http://www.iana.org/domains/root/db/uk.html -- http://www.nic.uk/ -- whois.nic.uk
+.um --  -- country-code -- http://www.iana.org/domains/root/db/um.html --  -- 
+.university --  -- generic -- http://www.iana.org/domains/root/db/university.html -- http://donuts.co/ -- whois.donuts.co
+.uno --  -- generic -- http://www.iana.org/domains/root/db/uno.html -- http://www.unodominio.com -- 
+.uol --  -- generic -- http://www.iana.org/domains/root/db/uol.html --  -- whois.gtlds.nic.br
+.us --  -- country-code -- http://www.iana.org/domains/root/db/us.html -- http://www.nic.us -- whois.nic.us
+.uy --  -- country-code -- http://www.iana.org/domains/root/db/uy.html -- http://www.nic.org.uy/ -- whois.nic.org.uy
+.uz --  -- country-code -- http://www.iana.org/domains/root/db/uz.html -- http://www.cctld.uz/ -- whois.cctld.uz
+.va --  -- country-code -- http://www.iana.org/domains/root/db/va.html --  -- 
+.vacations --  -- generic -- http://www.iana.org/domains/root/db/vacations.html -- http://donuts.co -- whois.donuts.co
+.vc --  -- country-code -- http://www.iana.org/domains/root/db/vc.html --  -- whois2.afilias-grs.net
+.ve --  -- country-code -- http://www.iana.org/domains/root/db/ve.html -- http://www.nic.ve/ -- whois.nic.ve
+.vegas --  -- generic -- http://www.iana.org/domains/root/db/vegas.html -- http://www.dotvegasinc.com/ -- whois.afilias-srs.net
+.ventures --  -- generic -- http://www.iana.org/domains/root/db/ventures.html -- http://donuts.co -- whois.donuts.co
+.versicherung --  -- generic -- http://www.iana.org/domains/root/db/versicherung.html -- http://nic.versicherung -- whois.nic.versicherung
+.vet --  -- generic -- http://www.iana.org/domains/root/db/vet.html -- http://rightside.co/rightside-registry/ -- whois.rightside.co
+.vg --  -- country-code -- http://www.iana.org/domains/root/db/vg.html --  -- ccwhois.ksregistry.net
+.vi --  -- country-code -- http://www.iana.org/domains/root/db/vi.html -- http://www.nic.vi -- 
+.viajes --  -- generic -- http://www.iana.org/domains/root/db/viajes.html -- http://donuts.co -- whois.donuts.co
+.villas --  -- generic -- http://www.iana.org/domains/root/db/villas.html -- http://donuts.co/ -- whois.donuts.co
+.vision --  -- generic -- http://www.iana.org/domains/root/db/vision.html -- http://donuts.co -- whois.donuts.co
+.vlaanderen --  -- generic -- http://www.iana.org/domains/root/db/vlaanderen.html -- http://www.nic.vlaanderen -- whois.nic.vlaanderen
+.vn --  -- country-code -- http://www.iana.org/domains/root/db/vn.html -- http://www.vnnic.net.vn -- 
+.vodka --  -- generic -- http://www.iana.org/domains/root/db/vodka.html --  -- whois-dub.mm-registry.com
+.vote --  -- generic -- http://www.iana.org/domains/root/db/vote.html -- http://afilias.info/contact-us -- whois.afilias.net
+.voting --  -- generic -- http://www.iana.org/domains/root/db/voting.html -- http://www.nic.voting -- whois.voting.tld-box.at
+.voto --  -- generic -- http://www.iana.org/domains/root/db/voto.html -- http://afilias.info/contact-us -- whois.afilias.net
+.voyage --  -- generic -- http://www.iana.org/domains/root/db/voyage.html -- http://donuts.co -- whois.donuts.co
+.vu --  -- country-code -- http://www.iana.org/domains/root/db/vu.html -- http://www.vunic.vu -- vunic.vu
+.wales --  -- generic -- http://www.iana.org/domains/root/db/wales.html -- http://ourhomeonline.org.uk -- whois.nic.wales
+.wang --  -- generic -- http://www.iana.org/domains/root/db/wang.html -- http://www.zodiacregistry.com -- whois.gtld.knet.cn
+.watch --  -- generic -- http://www.iana.org/domains/root/db/watch.html -- http://donuts.co/ -- whois.donuts.co
+.webcam --  -- generic -- http://www.iana.org/domains/root/db/webcam.html -- http://www.famousfourmedia.com/webcam -- 
+.website --  -- generic -- http://www.iana.org/domains/root/db/website.html -- http://radixregistry.com/ -- whois.nic.website
+.wed --  -- generic -- http://www.iana.org/domains/root/db/wed.html -- http://atgron.com -- whois.nic.wed
+.wf --  -- country-code -- http://www.iana.org/domains/root/db/wf.html -- http://www.nic.wf/ -- whois.nic.wf
+.whoswho --  -- generic -- http://www.iana.org/domains/root/db/whoswho.html -- http://domains.whoswho.com -- 
+.wien --  -- generic -- http://www.iana.org/domains/root/db/wien.html -- http://www.nic.wien -- whois.nic.wien
+.wiki --  -- generic -- http://www.iana.org/domains/root/db/wiki.html -- http://nic.wiki -- whois.nic.wiki
+.williamhill --  -- generic -- http://www.iana.org/domains/root/db/williamhill.html -- http://www.williamhill.com/ -- 
+.wme --  -- generic -- http://www.iana.org/domains/root/db/wme.html -- http://www.wmeentertainment.com -- whois.centralnic.com
+.work --  -- generic -- http://www.iana.org/domains/root/db/work.html -- http://mm-registry.com/ -- whois-dub.mm-registry.com
+.works --  -- generic -- http://www.iana.org/domains/root/db/works.html -- http://donuts.co -- whois.donuts.co
+.world --  -- generic -- http://www.iana.org/domains/root/db/world.html -- http://donuts.co/ -- whois.donuts.co
+.ws --  -- country-code -- http://www.iana.org/domains/root/db/ws.html -- http://www.website.ws -- whois.website.ws
+.wtc --  -- generic -- http://www.iana.org/domains/root/db/wtc.html -- http://nic.wtc/ -- whois.nic.wtc
+.wtf --  -- generic -- http://www.iana.org/domains/root/db/wtf.html -- http://donuts.co -- whois.donuts.co
+.测试 -- xn--0zwm56d -- test -- http://www.iana.org/domains/root/db/xn--0zwm56d.html -- http://www.iana.org/domains/idn-test/ -- 
+.परीक्षा -- xn--11b5bs3a9aj6g -- test -- http://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html -- http://www.iana.org/domains/idn-test/ -- 
+.佛山 -- xn--1qqw23a -- generic -- http://www.iana.org/domains/root/db/xn--1qqw23a.html -- http://www.yu-wei.cn/ -- whois.ngtld.cn
+.集团 -- xn--3bst00 -- generic -- http://www.iana.org/domains/root/db/xn--3bst00m.html -- http://www.zodiacregistry.com -- whois.gtld.knet.cn
+.在线 -- xn--3ds443g -- generic -- http://www.iana.org/domains/root/db/xn--3ds443g.html -- http://internetregistry.info/ -- whois.afilias-srs.net
+.한국 -- xn--3e0b707e -- country-code -- http://www.iana.org/domains/root/db/xn--3e0b707e.html -- http://domain.kisa.or.kr -- whois.kr
+.ভারত -- xn--45brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--45brj9c.html --  -- 
+.موقع -- xn--4gbri -- generic -- http://www.iana.org/domains/root/db/xn--4gbrim.html -- http://www.dotmawqe.com -- whois.afilias-srs.net
+.বাংলা -- xn--54b7fta0cc -- country-code -- http://www.iana.org/domains/root/db/xn--54b7fta0cc.html --  -- 
+.公益 -- xn--55qw42g -- generic -- http://www.iana.org/domains/root/db/xn--55qw42g.html -- http://www.conac.cn -- whois.conac.cn
+.公司 -- xn--55qx5d -- generic -- http://www.iana.org/domains/root/db/xn--55qx5d.html -- http://www.cnnic.cn  -- whois.ngtld.cn
+.移动 -- xn--6frz82g -- generic -- http://www.iana.org/domains/root/db/xn--6frz82g.html -- http://www.afilias.info/contact-us -- whois.afilias.net
+.我爱你 -- xn--6qq986b3x -- generic -- http://www.iana.org/domains/root/db/xn--6qq986b3xl.html -- http://www.zodiacregistry.com -- whois.gtld.knet.cn
+.москва -- xn--80adxhks -- generic -- http://www.iana.org/domains/root/db/xn--80adxhks.html -- http://www.faitid.org -- whois.nic.xn--80adxhks
+.испытание -- xn--80akhbyknj4f -- test -- http://www.iana.org/domains/root/db/xn--80akhbyknj4f.html -- http://www.iana.org/domains/idn-test/ -- 
+.қаз -- xn--80ao21a -- country-code -- http://www.iana.org/domains/root/db/xn--80ao21a.html -- http://www.nic.kz/ -- whois.nic.kz
+.онлайн -- xn--80asehdb -- generic -- http://www.iana.org/domains/root/db/xn--80asehdb.html -- http://corenic.org -- whois.online.rs.corenic.net
+.сайт -- xn--80aswg -- generic -- http://www.iana.org/domains/root/db/xn--80aswg.html -- http://corenic.org -- whois.site.rs.corenic.net
+.срб -- xn--90a3ac -- country-code -- http://www.iana.org/domains/root/db/xn--90a3ac.html -- http://www.rnids.rs/ -- 
+.бел -- xn--90ais -- country-code -- http://www.iana.org/domains/root/db/xn--90ais.html --  -- 
+.테스트 -- xn--9t4b11yi5a -- test -- http://www.iana.org/domains/root/db/xn--9t4b11yi5a.html -- http://www.iana.org/domains/idn-test/ -- 
+.орг -- xn--c1avg -- generic -- http://www.iana.org/domains/root/db/xn--c1avg.html -- http://www.pir.org -- whois.publicinterestregistry.net
+.삼성 -- xn--cg4bki -- generic -- http://www.iana.org/domains/root/db/xn--cg4bki.html -- http://samsungregistry.com -- whois.kr
+.சிங்கப்பூர் -- xn--clchc0ea0b2g2a9gcd -- country-code -- http://www.iana.org/domains/root/db/xn--clchc0ea0b2g2a9gcd.html -- http://www.sgnic.sg/ -- whois.sgnic.sg
+.商标 -- xn--czr694b -- generic -- http://www.iana.org/domains/root/db/xn--czr694b.html --  -- 
+.商城 -- xn--czru2d -- generic -- http://www.iana.org/domains/root/db/xn--czru2d.html -- http://www.zodiacregistry.com -- whois.gtld.knet.cn
+.дети -- xn--d1acj3b -- generic -- http://www.iana.org/domains/root/db/xn--d1acj3b.html -- http://www.dotdeti.ru -- whois.nic.xn--d1acj3b
+.мкд -- xn--d1alf -- country-code -- http://www.iana.org/domains/root/db/xn--d1alf.html --  -- 
+.טעסט -- xn--deba0ad -- test -- http://www.iana.org/domains/root/db/xn--deba0ad.html -- http://www.iana.org/domains/idn-test/ -- 
+.中文网 -- xn--fiq228c5hs -- generic -- http://www.iana.org/domains/root/db/xn--fiq228c5hs.html -- http://internetregistry.info/ -- whois.afilias-srs.net
+.中信 -- xn--fiq64b -- generic -- http://www.iana.org/domains/root/db/xn--fiq64b.html --  -- whois.gtld.knet.cn
+.中国 -- xn--fiqs8s -- country-code -- http://www.iana.org/domains/root/db/xn--fiqs8s.html -- http://www.cnnic.cn -- cwhois.cnnic.cn
+.中國 -- xn--fiqz9s -- country-code -- http://www.iana.org/domains/root/db/xn--fiqz9s.html -- http://www.cnnic.cn -- cwhois.cnnic.cn
+.భారత్ -- xn--fpcrj9c3d -- country-code -- http://www.iana.org/domains/root/db/xn--fpcrj9c3d.html --  -- 
+.ලංකා -- xn--fzc2c9e2c -- country-code -- http://www.iana.org/domains/root/db/xn--fzc2c9e2c.html -- http://www.nic.lk -- 
+.測試 -- xn--g6w251d -- test -- http://www.iana.org/domains/root/db/xn--g6w251d.html -- http://www.iana.org/domains/idn-test/ -- 
+.ભારત -- xn--gecrj9c -- country-code -- http://www.iana.org/domains/root/db/xn--gecrj9c.html --  -- 
+.भारत -- xn--h2brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--h2brj9c.html --  -- 
+.آزمایشی -- xn--hgbk6aj7f53bba -- test -- http://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html -- http://www.iana.org/domains/idn-test/ -- 
+.பரிட்சை -- xn--hlcj6aya9esc7a -- test -- http://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html -- http://www.iana.org/domains/idn-test/ -- 
+.संगठन -- xn--i1b6b1a6a2e -- generic -- http://www.iana.org/domains/root/db/xn--i1b6b1a6a2e.html -- http://www.pir.org -- whois.publicinterestregistry.net
+.网络 -- xn--io0a7i -- generic -- http://www.iana.org/domains/root/db/xn--io0a7i.html -- http://www.cnnic.cn -- whois.ngtld.cn
+.укр -- xn--j1a -- country-code -- http://www.iana.org/domains/root/db/xn--j1amh.html -- https://namestore.u-registry.com -- whois.dotukr.com
+.香港 -- xn--j6w193g -- country-code -- http://www.iana.org/domains/root/db/xn--j6w193g.html -- http://www.hkirc.hk -- whois.hkirc.hk
+.δοκιμή -- xn--jxalpdlp -- test -- http://www.iana.org/domains/root/db/xn--jxalpdlp.html -- http://www.iana.org/domains/idn-test/ -- 
+.إختبار -- xn--kgbechtv -- test -- http://www.iana.org/domains/root/db/xn--kgbechtv.html -- http://www.iana.org/domains/idn-test/ -- 
+.台湾 -- xn--kprw13d -- country-code -- http://www.iana.org/domains/root/db/xn--kprw13d.html -- http://rs.twnic.net.tw -- whois.twnic.net.tw
+.台灣 -- xn--kpry57d -- country-code -- http://www.iana.org/domains/root/db/xn--kpry57d.html -- http://rs.twnic.net.tw -- whois.twnic.net.tw
+.手机 -- xn--kput3i -- generic -- http://www.iana.org/domains/root/db/xn--kput3i.html -- http://www.rntd.cn -- whois.afilias-srs.net
+.мон -- xn--l1acc -- country-code -- http://www.iana.org/domains/root/db/xn--l1acc.html -- http://www.mon.mn/ -- 
+.الجزائر -- xn--lgbbat1ad8j -- country-code -- http://www.iana.org/domains/root/db/xn--lgbbat1ad8j.html -- http://www.nic.dz -- whois.nic.dz
+.عمان -- xn--mgb9awbf -- country-code -- http://www.iana.org/domains/root/db/xn--mgb9awbf.html -- http://www.omantel.net.om -- whois.registry.om
+.ایران -- xn--mgba3a4f16a -- country-code -- http://www.iana.org/domains/root/db/xn--mgba3a4f16a.html -- http://www.nic.ir -- whois.nic.ir
+.امارات -- xn--mgbaam7a8 -- country-code -- http://www.iana.org/domains/root/db/xn--mgbaam7a8h.html -- http://aeda.ae/ -- whois.aeda.net.ae
+.بازار -- xn--mgbab2bd -- generic -- http://www.iana.org/domains/root/db/xn--mgbab2bd.html -- http://corenic.org -- whois.bazaar.coreregistry.net
+.پاکستان -- xn--mgbai9azgqp6j -- country-code -- http://www.iana.org/domains/root/db/xn--mgbai9azgqp6j.html --  -- 
+.الاردن -- xn--mgbayh7gpa -- country-code -- http://www.iana.org/domains/root/db/xn--mgbayh7gpa.html -- http://www.idn.jo/ -- 
+.بھارت -- xn--mgbbh1a71e -- country-code -- http://www.iana.org/domains/root/db/xn--mgbbh1a71e.html --  -- 
+.المغرب -- xn--mgbc0a9azcg -- country-code -- http://www.iana.org/domains/root/db/xn--mgbc0a9azcg.html --  -- 
+.السعودية -- xn--mgberp4a5d4ar -- country-code -- http://www.iana.org/domains/root/db/xn--mgberp4a5d4ar.html -- http://www.nic.net.sa/ -- whois.nic.net.sa
+.سودان -- xn--mgbpl2f -- country-code -- http://www.iana.org/domains/root/db/xn--mgbpl2fh.html --  -- 
+.عراق -- xn--mgbtx2b -- country-code -- http://www.iana.org/domains/root/db/xn--mgbtx2b.html --  -- 
+.مليسيا -- xn--mgbx4cd0ab -- country-code -- http://www.iana.org/domains/root/db/xn--mgbx4cd0ab.html -- http://www.mynic.my -- whois.mynic.my
+.شبكة -- xn--ngbc5azd -- generic -- http://www.iana.org/domains/root/db/xn--ngbc5azd.html -- http://www.dotshabaka.com -- whois.nic.xn--ngbc5azd
+.გე -- xn--node -- country-code -- http://www.iana.org/domains/root/db/xn--node.html --  -- 
+.机构 -- xn--nqv7f -- generic -- http://www.iana.org/domains/root/db/xn--nqv7f.html -- http://www.pir.org -- whois.publicinterestregistry.net
+.组织机构 -- xn--nqv7fs00ema -- generic -- http://www.iana.org/domains/root/db/xn--nqv7fs00ema.html -- http://www.pir.org -- whois.publicinterestregistry.net
+.ไทย -- xn--o3cw4 -- country-code -- http://www.iana.org/domains/root/db/xn--o3cw4h.html -- http://www.thnic.co.th -- whois.thnic.co.th
+.سورية -- xn--ogbpf8f -- country-code -- http://www.iana.org/domains/root/db/xn--ogbpf8fl.html -- http://tld.sy -- whois.tld.sy
+.рус -- xn--p1acf -- generic -- http://www.iana.org/domains/root/db/xn--p1acf.html -- http://rusnames.ru/ -- whois.nic.xn--p1acf
+.рф -- xn--p1ai -- country-code -- http://www.iana.org/domains/root/db/xn--p1ai.html -- http://cctld.ru/ -- whois.tcinet.ru
+.تونس -- xn--pgbs0d -- country-code -- http://www.iana.org/domains/root/db/xn--pgbs0dh.html -- http://www.ati.tn -- 
+.みんな -- xn--q9jyb4c -- generic -- http://www.iana.org/domains/root/db/xn--q9jyb4c.html -- http://www.charlestonroadregistry.com/ -- domain-registry-whois.l.google.com
+.世界 -- xn--rhqv96g -- generic -- http://www.iana.org/domains/root/db/xn--rhqv96g.html -- http://www.stabletone.com -- 
+.ਭਾਰਤ -- xn--s9brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--s9brj9c.html --  -- 
+.网址 -- xn--ses554g -- generic -- http://www.iana.org/domains/root/db/xn--ses554g.html --  -- 
+.游戏 -- xn--unup4y -- generic -- http://www.iana.org/domains/root/db/xn--unup4y.html -- http://donuts.co -- whois.donuts.co
+.vermögensberater -- xn--vermgensberater-ctb -- generic -- http://www.iana.org/domains/root/db/xn--vermgensberater-ctb.html -- http://www.dvag-registry.de -- whois.ksregistry.net
+.vermögensberatung -- xn--vermgensberatung-pwb -- generic -- http://www.iana.org/domains/root/db/xn--vermgensberatung-pwb.html -- http://www.dvag-registry.de -- whois.ksregistry.net
+.企业 -- xn--vhquv -- generic -- http://www.iana.org/domains/root/db/xn--vhquv.html -- http://donuts.co/ -- whois.donuts.co
+.مصر -- xn--wgbh1c -- country-code -- http://www.iana.org/domains/root/db/xn--wgbh1c.html --  -- 
+.قطر -- xn--wgbl6a -- country-code -- http://www.iana.org/domains/root/db/xn--wgbl6a.html -- http://domains.qa -- whois.registry.qa
+.广东 -- xn--xhq521b -- generic -- http://www.iana.org/domains/root/db/xn--xhq521b.html -- http://www.yu-wei.cn/ -- whois.ngtld.cn
+.இலங்கை -- xn--xkc2al3hye2a -- country-code -- http://www.iana.org/domains/root/db/xn--xkc2al3hye2a.html -- http://www.nic.lk -- 
+.இந்தியா -- xn--xkc2dl3a5ee0 -- country-code -- http://www.iana.org/domains/root/db/xn--xkc2dl3a5ee0h.html --  -- 
+.新加坡 -- xn--yfro4i67o -- country-code -- http://www.iana.org/domains/root/db/xn--yfro4i67o.html -- http://www.sgnic.sg/ -- whois.sgnic.sg
+.فلسطين -- xn--ygbi2ammx -- country-code -- http://www.iana.org/domains/root/db/xn--ygbi2ammx.html -- http://www.pnina.ps -- whois.pnina.ps
+.テスト -- xn--zckza -- test -- http://www.iana.org/domains/root/db/xn--zckzah.html -- http://www.iana.org/domains/idn-test/ -- 
+.政务 -- xn--zfr164b -- generic -- http://www.iana.org/domains/root/db/xn--zfr164b.html -- http://www.conac.cn -- whois.conac.cn
+.xxx --  -- sponsored -- http://www.iana.org/domains/root/db/xxx.html -- http://www.icmregistry.com/ -- whois.nic.xxx
+.xyz --  -- generic -- http://www.iana.org/domains/root/db/xyz.html -- http://nic.xyz -- whois.nic.xyz
+.yachts --  -- generic -- http://www.iana.org/domains/root/db/yachts.html -- http://www.dominionenterprises.com -- whois.afilias-srs.net
+.yandex --  -- generic -- http://www.iana.org/domains/root/db/yandex.html -- http://www.yandex.ru/ -- 
+.ye --  -- country-code -- http://www.iana.org/domains/root/db/ye.html --  -- 
+.yokohama --  -- generic -- http://www.iana.org/domains/root/db/yokohama.html -- http://www.gmo-registry.com/en/ -- 
+.youtube --  -- generic -- http://www.iana.org/domains/root/db/youtube.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.yt --  -- country-code -- http://www.iana.org/domains/root/db/yt.html -- http://www.nic.yt/ -- whois.nic.yt
+.za --  -- country-code -- http://www.iana.org/domains/root/db/za.html -- http://www.zadna.org.za/ -- 
+.zip --  -- generic -- http://www.iana.org/domains/root/db/zip.html -- http://www.charlestonroadregistry.com -- domain-registry-whois.l.google.com
+.zm --  -- country-code -- http://www.iana.org/domains/root/db/zm.html -- https://registry.zicta.zm -- whois.nic.zm
+.zone --  -- generic -- http://www.iana.org/domains/root/db/zone.html -- http://donuts.co -- whois.donuts.co
+.zw --  -- country-code -- http://www.iana.org/domains/root/db/zw.html --  -- 

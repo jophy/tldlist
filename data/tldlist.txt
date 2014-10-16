@@ -1,0 +1,750 @@
+.ac --  -- country-code -- http://www.iana.org/domains/root/db/ac.html
+.academy --  -- generic -- http://www.iana.org/domains/root/db/academy.html
+.accountants --  -- generic -- http://www.iana.org/domains/root/db/accountants.html
+.active --  -- generic -- http://www.iana.org/domains/root/db/active.html
+.actor --  -- generic -- http://www.iana.org/domains/root/db/actor.html
+.ad --  -- country-code -- http://www.iana.org/domains/root/db/ad.html
+.ae --  -- country-code -- http://www.iana.org/domains/root/db/ae.html
+.aero --  -- sponsored -- http://www.iana.org/domains/root/db/aero.html
+.af --  -- country-code -- http://www.iana.org/domains/root/db/af.html
+.ag --  -- country-code -- http://www.iana.org/domains/root/db/ag.html
+.agency --  -- generic -- http://www.iana.org/domains/root/db/agency.html
+.ai --  -- country-code -- http://www.iana.org/domains/root/db/ai.html
+.airforce --  -- generic -- http://www.iana.org/domains/root/db/airforce.html
+.al --  -- country-code -- http://www.iana.org/domains/root/db/al.html
+.allfinanz --  -- generic -- http://www.iana.org/domains/root/db/allfinanz.html
+.alsace --  -- generic -- http://www.iana.org/domains/root/db/alsace.html
+.am --  -- country-code -- http://www.iana.org/domains/root/db/am.html
+.an --  -- country-code -- http://www.iana.org/domains/root/db/an.html
+.ao --  -- country-code -- http://www.iana.org/domains/root/db/ao.html
+.aq --  -- country-code -- http://www.iana.org/domains/root/db/aq.html
+.ar --  -- country-code -- http://www.iana.org/domains/root/db/ar.html
+.archi --  -- generic -- http://www.iana.org/domains/root/db/archi.html
+.army --  -- generic -- http://www.iana.org/domains/root/db/army.html
+.arpa --  -- infrastructure -- http://www.iana.org/domains/root/db/arpa.html
+.as --  -- country-code -- http://www.iana.org/domains/root/db/as.html
+.asia --  -- sponsored -- http://www.iana.org/domains/root/db/asia.html
+.associates --  -- generic -- http://www.iana.org/domains/root/db/associates.html
+.at --  -- country-code -- http://www.iana.org/domains/root/db/at.html
+.attorney --  -- generic -- http://www.iana.org/domains/root/db/attorney.html
+.au --  -- country-code -- http://www.iana.org/domains/root/db/au.html
+.auction --  -- generic -- http://www.iana.org/domains/root/db/auction.html
+.audio --  -- generic -- http://www.iana.org/domains/root/db/audio.html
+.autos --  -- generic -- http://www.iana.org/domains/root/db/autos.html
+.aw --  -- country-code -- http://www.iana.org/domains/root/db/aw.html
+.ax --  -- country-code -- http://www.iana.org/domains/root/db/ax.html
+.axa --  -- generic -- http://www.iana.org/domains/root/db/axa.html
+.az --  -- country-code -- http://www.iana.org/domains/root/db/az.html
+.ba --  -- country-code -- http://www.iana.org/domains/root/db/ba.html
+.bar --  -- generic -- http://www.iana.org/domains/root/db/bar.html
+.bargains --  -- generic -- http://www.iana.org/domains/root/db/bargains.html
+.bayern --  -- generic -- http://www.iana.org/domains/root/db/bayern.html
+.bb --  -- country-code -- http://www.iana.org/domains/root/db/bb.html
+.bd --  -- country-code -- http://www.iana.org/domains/root/db/bd.html
+.be --  -- country-code -- http://www.iana.org/domains/root/db/be.html
+.beer --  -- generic -- http://www.iana.org/domains/root/db/beer.html
+.berlin --  -- generic -- http://www.iana.org/domains/root/db/berlin.html
+.best --  -- generic -- http://www.iana.org/domains/root/db/best.html
+.bf --  -- country-code -- http://www.iana.org/domains/root/db/bf.html
+.bg --  -- country-code -- http://www.iana.org/domains/root/db/bg.html
+.bh --  -- country-code -- http://www.iana.org/domains/root/db/bh.html
+.bi --  -- country-code -- http://www.iana.org/domains/root/db/bi.html
+.bid --  -- generic -- http://www.iana.org/domains/root/db/bid.html
+.bike --  -- generic -- http://www.iana.org/domains/root/db/bike.html
+.bio --  -- generic -- http://www.iana.org/domains/root/db/bio.html
+.biz --  -- generic-restricted -- http://www.iana.org/domains/root/db/biz.html
+.bj --  -- country-code -- http://www.iana.org/domains/root/db/bj.html
+.bl --  -- country-code -- http://www.iana.org/domains/root/db/bl.html
+.black --  -- generic -- http://www.iana.org/domains/root/db/black.html
+.blackfriday --  -- generic -- http://www.iana.org/domains/root/db/blackfriday.html
+.blue --  -- generic -- http://www.iana.org/domains/root/db/blue.html
+.bm --  -- country-code -- http://www.iana.org/domains/root/db/bm.html
+.bmw --  -- generic -- http://www.iana.org/domains/root/db/bmw.html
+.bn --  -- country-code -- http://www.iana.org/domains/root/db/bn.html
+.bnpparibas --  -- generic -- http://www.iana.org/domains/root/db/bnpparibas.html
+.bo --  -- country-code -- http://www.iana.org/domains/root/db/bo.html
+.boo --  -- generic -- http://www.iana.org/domains/root/db/boo.html
+.boutique --  -- generic -- http://www.iana.org/domains/root/db/boutique.html
+.bq --  -- country-code -- http://www.iana.org/domains/root/db/bq.html
+.br --  -- country-code -- http://www.iana.org/domains/root/db/br.html
+.brussels --  -- generic -- http://www.iana.org/domains/root/db/brussels.html
+.bs --  -- country-code -- http://www.iana.org/domains/root/db/bs.html
+.bt --  -- country-code -- http://www.iana.org/domains/root/db/bt.html
+.budapest --  -- generic -- http://www.iana.org/domains/root/db/budapest.html
+.build --  -- generic -- http://www.iana.org/domains/root/db/build.html
+.builders --  -- generic -- http://www.iana.org/domains/root/db/builders.html
+.business --  -- generic -- http://www.iana.org/domains/root/db/business.html
+.buzz --  -- generic -- http://www.iana.org/domains/root/db/buzz.html
+.bv --  -- country-code -- http://www.iana.org/domains/root/db/bv.html
+.bw --  -- country-code -- http://www.iana.org/domains/root/db/bw.html
+.by --  -- country-code -- http://www.iana.org/domains/root/db/by.html
+.bz --  -- country-code -- http://www.iana.org/domains/root/db/bz.html
+.bzh --  -- generic -- http://www.iana.org/domains/root/db/bzh.html
+.ca --  -- country-code -- http://www.iana.org/domains/root/db/ca.html
+.cab --  -- generic -- http://www.iana.org/domains/root/db/cab.html
+.cal --  -- generic -- http://www.iana.org/domains/root/db/cal.html
+.camera --  -- generic -- http://www.iana.org/domains/root/db/camera.html
+.camp --  -- generic -- http://www.iana.org/domains/root/db/camp.html
+.cancerresearch --  -- generic -- http://www.iana.org/domains/root/db/cancerresearch.html
+.capetown --  -- generic -- http://www.iana.org/domains/root/db/capetown.html
+.capital --  -- generic -- http://www.iana.org/domains/root/db/capital.html
+.caravan --  -- generic -- http://www.iana.org/domains/root/db/caravan.html
+.cards --  -- generic -- http://www.iana.org/domains/root/db/cards.html
+.care --  -- generic -- http://www.iana.org/domains/root/db/care.html
+.career --  -- generic -- http://www.iana.org/domains/root/db/career.html
+.careers --  -- generic -- http://www.iana.org/domains/root/db/careers.html
+.casa --  -- generic -- http://www.iana.org/domains/root/db/casa.html
+.cash --  -- generic -- http://www.iana.org/domains/root/db/cash.html
+.cat --  -- sponsored -- http://www.iana.org/domains/root/db/cat.html
+.catering --  -- generic -- http://www.iana.org/domains/root/db/catering.html
+.cc --  -- country-code -- http://www.iana.org/domains/root/db/cc.html
+.cd --  -- country-code -- http://www.iana.org/domains/root/db/cd.html
+.center --  -- generic -- http://www.iana.org/domains/root/db/center.html
+.ceo --  -- generic -- http://www.iana.org/domains/root/db/ceo.html
+.cern --  -- generic -- http://www.iana.org/domains/root/db/cern.html
+.cf --  -- country-code -- http://www.iana.org/domains/root/db/cf.html
+.cg --  -- country-code -- http://www.iana.org/domains/root/db/cg.html
+.ch --  -- country-code -- http://www.iana.org/domains/root/db/ch.html
+.channel --  -- generic -- http://www.iana.org/domains/root/db/channel.html
+.cheap --  -- generic -- http://www.iana.org/domains/root/db/cheap.html
+.christmas --  -- generic -- http://www.iana.org/domains/root/db/christmas.html
+.chrome --  -- generic -- http://www.iana.org/domains/root/db/chrome.html
+.church --  -- generic -- http://www.iana.org/domains/root/db/church.html
+.ci --  -- country-code -- http://www.iana.org/domains/root/db/ci.html
+.citic --  -- generic -- http://www.iana.org/domains/root/db/citic.html
+.city --  -- generic -- http://www.iana.org/domains/root/db/city.html
+.ck --  -- country-code -- http://www.iana.org/domains/root/db/ck.html
+.cl --  -- country-code -- http://www.iana.org/domains/root/db/cl.html
+.claims --  -- generic -- http://www.iana.org/domains/root/db/claims.html
+.cleaning --  -- generic -- http://www.iana.org/domains/root/db/cleaning.html
+.click --  -- generic -- http://www.iana.org/domains/root/db/click.html
+.clinic --  -- generic -- http://www.iana.org/domains/root/db/clinic.html
+.clothing --  -- generic -- http://www.iana.org/domains/root/db/clothing.html
+.club --  -- generic -- http://www.iana.org/domains/root/db/club.html
+.cm --  -- country-code -- http://www.iana.org/domains/root/db/cm.html
+.cn --  -- country-code -- http://www.iana.org/domains/root/db/cn.html
+.co --  -- country-code -- http://www.iana.org/domains/root/db/co.html
+.codes --  -- generic -- http://www.iana.org/domains/root/db/codes.html
+.coffee --  -- generic -- http://www.iana.org/domains/root/db/coffee.html
+.college --  -- generic -- http://www.iana.org/domains/root/db/college.html
+.cologne --  -- generic -- http://www.iana.org/domains/root/db/cologne.html
+.com --  -- generic -- http://www.iana.org/domains/root/db/com.html
+.community --  -- generic -- http://www.iana.org/domains/root/db/community.html
+.company --  -- generic -- http://www.iana.org/domains/root/db/company.html
+.computer --  -- generic -- http://www.iana.org/domains/root/db/computer.html
+.condos --  -- generic -- http://www.iana.org/domains/root/db/condos.html
+.construction --  -- generic -- http://www.iana.org/domains/root/db/construction.html
+.consulting --  -- generic -- http://www.iana.org/domains/root/db/consulting.html
+.contractors --  -- generic -- http://www.iana.org/domains/root/db/contractors.html
+.cooking --  -- generic -- http://www.iana.org/domains/root/db/cooking.html
+.cool --  -- generic -- http://www.iana.org/domains/root/db/cool.html
+.coop --  -- sponsored -- http://www.iana.org/domains/root/db/coop.html
+.country --  -- generic -- http://www.iana.org/domains/root/db/country.html
+.cr --  -- country-code -- http://www.iana.org/domains/root/db/cr.html
+.credit --  -- generic -- http://www.iana.org/domains/root/db/credit.html
+.creditcard --  -- generic -- http://www.iana.org/domains/root/db/creditcard.html
+.cruises --  -- generic -- http://www.iana.org/domains/root/db/cruises.html
+.cu --  -- country-code -- http://www.iana.org/domains/root/db/cu.html
+.cuisinella --  -- generic -- http://www.iana.org/domains/root/db/cuisinella.html
+.cv --  -- country-code -- http://www.iana.org/domains/root/db/cv.html
+.cw --  -- country-code -- http://www.iana.org/domains/root/db/cw.html
+.cx --  -- country-code -- http://www.iana.org/domains/root/db/cx.html
+.cy --  -- country-code -- http://www.iana.org/domains/root/db/cy.html
+.cymru --  -- generic -- http://www.iana.org/domains/root/db/cymru.html
+.cz --  -- country-code -- http://www.iana.org/domains/root/db/cz.html
+.dad --  -- generic -- http://www.iana.org/domains/root/db/dad.html
+.dance --  -- generic -- http://www.iana.org/domains/root/db/dance.html
+.dating --  -- generic -- http://www.iana.org/domains/root/db/dating.html
+.day --  -- generic -- http://www.iana.org/domains/root/db/day.html
+.de --  -- country-code -- http://www.iana.org/domains/root/db/de.html
+.deals --  -- generic -- http://www.iana.org/domains/root/db/deals.html
+.degree --  -- generic -- http://www.iana.org/domains/root/db/degree.html
+.democrat --  -- generic -- http://www.iana.org/domains/root/db/democrat.html
+.dental --  -- generic -- http://www.iana.org/domains/root/db/dental.html
+.dentist --  -- generic -- http://www.iana.org/domains/root/db/dentist.html
+.desi --  -- generic -- http://www.iana.org/domains/root/db/desi.html
+.diamonds --  -- generic -- http://www.iana.org/domains/root/db/diamonds.html
+.diet --  -- generic -- http://www.iana.org/domains/root/db/diet.html
+.digital --  -- generic -- http://www.iana.org/domains/root/db/digital.html
+.direct --  -- generic -- http://www.iana.org/domains/root/db/direct.html
+.directory --  -- generic -- http://www.iana.org/domains/root/db/directory.html
+.discount --  -- generic -- http://www.iana.org/domains/root/db/discount.html
+.dj --  -- country-code -- http://www.iana.org/domains/root/db/dj.html
+.dk --  -- country-code -- http://www.iana.org/domains/root/db/dk.html
+.dm --  -- country-code -- http://www.iana.org/domains/root/db/dm.html
+.dnp --  -- generic -- http://www.iana.org/domains/root/db/dnp.html
+.do --  -- country-code -- http://www.iana.org/domains/root/db/do.html
+.domains --  -- generic -- http://www.iana.org/domains/root/db/domains.html
+.durban --  -- generic -- http://www.iana.org/domains/root/db/durban.html
+.dvag --  -- generic -- http://www.iana.org/domains/root/db/dvag.html
+.dz --  -- country-code -- http://www.iana.org/domains/root/db/dz.html
+.eat --  -- generic -- http://www.iana.org/domains/root/db/eat.html
+.ec --  -- country-code -- http://www.iana.org/domains/root/db/ec.html
+.edu --  -- sponsored -- http://www.iana.org/domains/root/db/edu.html
+.education --  -- generic -- http://www.iana.org/domains/root/db/education.html
+.ee --  -- country-code -- http://www.iana.org/domains/root/db/ee.html
+.eg --  -- country-code -- http://www.iana.org/domains/root/db/eg.html
+.eh --  -- country-code -- http://www.iana.org/domains/root/db/eh.html
+.email --  -- generic -- http://www.iana.org/domains/root/db/email.html
+.engineer --  -- generic -- http://www.iana.org/domains/root/db/engineer.html
+.engineering --  -- generic -- http://www.iana.org/domains/root/db/engineering.html
+.enterprises --  -- generic -- http://www.iana.org/domains/root/db/enterprises.html
+.equipment --  -- generic -- http://www.iana.org/domains/root/db/equipment.html
+.er --  -- country-code -- http://www.iana.org/domains/root/db/er.html
+.es --  -- country-code -- http://www.iana.org/domains/root/db/es.html
+.esq --  -- generic -- http://www.iana.org/domains/root/db/esq.html
+.estate --  -- generic -- http://www.iana.org/domains/root/db/estate.html
+.et --  -- country-code -- http://www.iana.org/domains/root/db/et.html
+.eu --  -- country-code -- http://www.iana.org/domains/root/db/eu.html
+.eus --  -- generic -- http://www.iana.org/domains/root/db/eus.html
+.events --  -- generic -- http://www.iana.org/domains/root/db/events.html
+.exchange --  -- generic -- http://www.iana.org/domains/root/db/exchange.html
+.expert --  -- generic -- http://www.iana.org/domains/root/db/expert.html
+.exposed --  -- generic -- http://www.iana.org/domains/root/db/exposed.html
+.fail --  -- generic -- http://www.iana.org/domains/root/db/fail.html
+.farm --  -- generic -- http://www.iana.org/domains/root/db/farm.html
+.feedback --  -- generic -- http://www.iana.org/domains/root/db/feedback.html
+.fi --  -- country-code -- http://www.iana.org/domains/root/db/fi.html
+.finance --  -- generic -- http://www.iana.org/domains/root/db/finance.html
+.financial --  -- generic -- http://www.iana.org/domains/root/db/financial.html
+.fish --  -- generic -- http://www.iana.org/domains/root/db/fish.html
+.fishing --  -- generic -- http://www.iana.org/domains/root/db/fishing.html
+.fitness --  -- generic -- http://www.iana.org/domains/root/db/fitness.html
+.fj --  -- country-code -- http://www.iana.org/domains/root/db/fj.html
+.fk --  -- country-code -- http://www.iana.org/domains/root/db/fk.html
+.flights --  -- generic -- http://www.iana.org/domains/root/db/flights.html
+.florist --  -- generic -- http://www.iana.org/domains/root/db/florist.html
+.fly --  -- generic -- http://www.iana.org/domains/root/db/fly.html
+.fm --  -- country-code -- http://www.iana.org/domains/root/db/fm.html
+.fo --  -- country-code -- http://www.iana.org/domains/root/db/fo.html
+.foo --  -- generic -- http://www.iana.org/domains/root/db/foo.html
+.forsale --  -- generic -- http://www.iana.org/domains/root/db/forsale.html
+.foundation --  -- generic -- http://www.iana.org/domains/root/db/foundation.html
+.fr --  -- country-code -- http://www.iana.org/domains/root/db/fr.html
+.frl --  -- generic -- http://www.iana.org/domains/root/db/frl.html
+.frogans --  -- generic -- http://www.iana.org/domains/root/db/frogans.html
+.fund --  -- generic -- http://www.iana.org/domains/root/db/fund.html
+.furniture --  -- generic -- http://www.iana.org/domains/root/db/furniture.html
+.futbol --  -- generic -- http://www.iana.org/domains/root/db/futbol.html
+.ga --  -- country-code -- http://www.iana.org/domains/root/db/ga.html
+.gal --  -- generic -- http://www.iana.org/domains/root/db/gal.html
+.gallery --  -- generic -- http://www.iana.org/domains/root/db/gallery.html
+.gb --  -- country-code -- http://www.iana.org/domains/root/db/gb.html
+.gbiz --  -- generic -- http://www.iana.org/domains/root/db/gbiz.html
+.gd --  -- country-code -- http://www.iana.org/domains/root/db/gd.html
+.ge --  -- country-code -- http://www.iana.org/domains/root/db/ge.html
+.gent --  -- generic -- http://www.iana.org/domains/root/db/gent.html
+.gf --  -- country-code -- http://www.iana.org/domains/root/db/gf.html
+.gg --  -- country-code -- http://www.iana.org/domains/root/db/gg.html
+.gh --  -- country-code -- http://www.iana.org/domains/root/db/gh.html
+.gi --  -- country-code -- http://www.iana.org/domains/root/db/gi.html
+.gift --  -- generic -- http://www.iana.org/domains/root/db/gift.html
+.gifts --  -- generic -- http://www.iana.org/domains/root/db/gifts.html
+.gives --  -- generic -- http://www.iana.org/domains/root/db/gives.html
+.gl --  -- country-code -- http://www.iana.org/domains/root/db/gl.html
+.glass --  -- generic -- http://www.iana.org/domains/root/db/glass.html
+.gle --  -- generic -- http://www.iana.org/domains/root/db/gle.html
+.global --  -- generic -- http://www.iana.org/domains/root/db/global.html
+.globo --  -- generic -- http://www.iana.org/domains/root/db/globo.html
+.gm --  -- country-code -- http://www.iana.org/domains/root/db/gm.html
+.gmail --  -- generic -- http://www.iana.org/domains/root/db/gmail.html
+.gmo --  -- generic -- http://www.iana.org/domains/root/db/gmo.html
+.gmx --  -- generic -- http://www.iana.org/domains/root/db/gmx.html
+.gn --  -- country-code -- http://www.iana.org/domains/root/db/gn.html
+.google --  -- generic -- http://www.iana.org/domains/root/db/google.html
+.gop --  -- generic -- http://www.iana.org/domains/root/db/gop.html
+.gov --  -- sponsored -- http://www.iana.org/domains/root/db/gov.html
+.gp --  -- country-code -- http://www.iana.org/domains/root/db/gp.html
+.gq --  -- country-code -- http://www.iana.org/domains/root/db/gq.html
+.gr --  -- country-code -- http://www.iana.org/domains/root/db/gr.html
+.graphics --  -- generic -- http://www.iana.org/domains/root/db/graphics.html
+.gratis --  -- generic -- http://www.iana.org/domains/root/db/gratis.html
+.green --  -- generic -- http://www.iana.org/domains/root/db/green.html
+.gripe --  -- generic -- http://www.iana.org/domains/root/db/gripe.html
+.gs --  -- country-code -- http://www.iana.org/domains/root/db/gs.html
+.gt --  -- country-code -- http://www.iana.org/domains/root/db/gt.html
+.gu --  -- country-code -- http://www.iana.org/domains/root/db/gu.html
+.guide --  -- generic -- http://www.iana.org/domains/root/db/guide.html
+.guitars --  -- generic -- http://www.iana.org/domains/root/db/guitars.html
+.guru --  -- generic -- http://www.iana.org/domains/root/db/guru.html
+.gw --  -- country-code -- http://www.iana.org/domains/root/db/gw.html
+.gy --  -- country-code -- http://www.iana.org/domains/root/db/gy.html
+.hamburg --  -- generic -- http://www.iana.org/domains/root/db/hamburg.html
+.haus --  -- generic -- http://www.iana.org/domains/root/db/haus.html
+.healthcare --  -- generic -- http://www.iana.org/domains/root/db/healthcare.html
+.help --  -- generic -- http://www.iana.org/domains/root/db/help.html
+.here --  -- generic -- http://www.iana.org/domains/root/db/here.html
+.hiphop --  -- generic -- http://www.iana.org/domains/root/db/hiphop.html
+.hiv --  -- generic -- http://www.iana.org/domains/root/db/hiv.html
+.hk --  -- country-code -- http://www.iana.org/domains/root/db/hk.html
+.hm --  -- country-code -- http://www.iana.org/domains/root/db/hm.html
+.hn --  -- country-code -- http://www.iana.org/domains/root/db/hn.html
+.holdings --  -- generic -- http://www.iana.org/domains/root/db/holdings.html
+.holiday --  -- generic -- http://www.iana.org/domains/root/db/holiday.html
+.homes --  -- generic -- http://www.iana.org/domains/root/db/homes.html
+.horse --  -- generic -- http://www.iana.org/domains/root/db/horse.html
+.host --  -- generic -- http://www.iana.org/domains/root/db/host.html
+.hosting --  -- generic -- http://www.iana.org/domains/root/db/hosting.html
+.house --  -- generic -- http://www.iana.org/domains/root/db/house.html
+.how --  -- generic -- http://www.iana.org/domains/root/db/how.html
+.hr --  -- country-code -- http://www.iana.org/domains/root/db/hr.html
+.ht --  -- country-code -- http://www.iana.org/domains/root/db/ht.html
+.hu --  -- country-code -- http://www.iana.org/domains/root/db/hu.html
+.ibm --  -- generic -- http://www.iana.org/domains/root/db/ibm.html
+.id --  -- country-code -- http://www.iana.org/domains/root/db/id.html
+.ie --  -- country-code -- http://www.iana.org/domains/root/db/ie.html
+.il --  -- country-code -- http://www.iana.org/domains/root/db/il.html
+.im --  -- country-code -- http://www.iana.org/domains/root/db/im.html
+.immo --  -- generic -- http://www.iana.org/domains/root/db/immo.html
+.immobilien --  -- generic -- http://www.iana.org/domains/root/db/immobilien.html
+.in --  -- country-code -- http://www.iana.org/domains/root/db/in.html
+.industries --  -- generic -- http://www.iana.org/domains/root/db/industries.html
+.info --  -- generic -- http://www.iana.org/domains/root/db/info.html
+.ing --  -- generic -- http://www.iana.org/domains/root/db/ing.html
+.ink --  -- generic -- http://www.iana.org/domains/root/db/ink.html
+.institute --  -- generic -- http://www.iana.org/domains/root/db/institute.html
+.insure --  -- generic -- http://www.iana.org/domains/root/db/insure.html
+.int --  -- sponsored -- http://www.iana.org/domains/root/db/int.html
+.international --  -- generic -- http://www.iana.org/domains/root/db/international.html
+.investments --  -- generic -- http://www.iana.org/domains/root/db/investments.html
+.io --  -- country-code -- http://www.iana.org/domains/root/db/io.html
+.iq --  -- country-code -- http://www.iana.org/domains/root/db/iq.html
+.ir --  -- country-code -- http://www.iana.org/domains/root/db/ir.html
+.is --  -- country-code -- http://www.iana.org/domains/root/db/is.html
+.it --  -- country-code -- http://www.iana.org/domains/root/db/it.html
+.je --  -- country-code -- http://www.iana.org/domains/root/db/je.html
+.jetzt --  -- generic -- http://www.iana.org/domains/root/db/jetzt.html
+.jm --  -- country-code -- http://www.iana.org/domains/root/db/jm.html
+.jo --  -- country-code -- http://www.iana.org/domains/root/db/jo.html
+.jobs --  -- sponsored -- http://www.iana.org/domains/root/db/jobs.html
+.joburg --  -- generic -- http://www.iana.org/domains/root/db/joburg.html
+.jp --  -- country-code -- http://www.iana.org/domains/root/db/jp.html
+.juegos --  -- generic -- http://www.iana.org/domains/root/db/juegos.html
+.kaufen --  -- generic -- http://www.iana.org/domains/root/db/kaufen.html
+.ke --  -- country-code -- http://www.iana.org/domains/root/db/ke.html
+.kg --  -- country-code -- http://www.iana.org/domains/root/db/kg.html
+.kh --  -- country-code -- http://www.iana.org/domains/root/db/kh.html
+.ki --  -- country-code -- http://www.iana.org/domains/root/db/ki.html
+.kim --  -- generic -- http://www.iana.org/domains/root/db/kim.html
+.kitchen --  -- generic -- http://www.iana.org/domains/root/db/kitchen.html
+.kiwi --  -- generic -- http://www.iana.org/domains/root/db/kiwi.html
+.km --  -- country-code -- http://www.iana.org/domains/root/db/km.html
+.kn --  -- country-code -- http://www.iana.org/domains/root/db/kn.html
+.koeln --  -- generic -- http://www.iana.org/domains/root/db/koeln.html
+.kp --  -- country-code -- http://www.iana.org/domains/root/db/kp.html
+.kr --  -- country-code -- http://www.iana.org/domains/root/db/kr.html
+.krd --  -- generic -- http://www.iana.org/domains/root/db/krd.html
+.kred --  -- generic -- http://www.iana.org/domains/root/db/kred.html
+.kw --  -- country-code -- http://www.iana.org/domains/root/db/kw.html
+.ky --  -- country-code -- http://www.iana.org/domains/root/db/ky.html
+.kz --  -- country-code -- http://www.iana.org/domains/root/db/kz.html
+.la --  -- country-code -- http://www.iana.org/domains/root/db/la.html
+.lacaixa --  -- generic -- http://www.iana.org/domains/root/db/lacaixa.html
+.land --  -- generic -- http://www.iana.org/domains/root/db/land.html
+.lawyer --  -- generic -- http://www.iana.org/domains/root/db/lawyer.html
+.lb --  -- country-code -- http://www.iana.org/domains/root/db/lb.html
+.lc --  -- country-code -- http://www.iana.org/domains/root/db/lc.html
+.lease --  -- generic -- http://www.iana.org/domains/root/db/lease.html
+.lgbt --  -- generic -- http://www.iana.org/domains/root/db/lgbt.html
+.li --  -- country-code -- http://www.iana.org/domains/root/db/li.html
+.life --  -- generic -- http://www.iana.org/domains/root/db/life.html
+.lighting --  -- generic -- http://www.iana.org/domains/root/db/lighting.html
+.limited --  -- generic -- http://www.iana.org/domains/root/db/limited.html
+.limo --  -- generic -- http://www.iana.org/domains/root/db/limo.html
+.link --  -- generic -- http://www.iana.org/domains/root/db/link.html
+.lk --  -- country-code -- http://www.iana.org/domains/root/db/lk.html
+.loans --  -- generic -- http://www.iana.org/domains/root/db/loans.html
+.london --  -- generic -- http://www.iana.org/domains/root/db/london.html
+.lotto --  -- generic -- http://www.iana.org/domains/root/db/lotto.html
+.lr --  -- country-code -- http://www.iana.org/domains/root/db/lr.html
+.ls --  -- country-code -- http://www.iana.org/domains/root/db/ls.html
+.lt --  -- country-code -- http://www.iana.org/domains/root/db/lt.html
+.ltda --  -- generic -- http://www.iana.org/domains/root/db/ltda.html
+.lu --  -- country-code -- http://www.iana.org/domains/root/db/lu.html
+.luxe --  -- generic -- http://www.iana.org/domains/root/db/luxe.html
+.luxury --  -- generic -- http://www.iana.org/domains/root/db/luxury.html
+.lv --  -- country-code -- http://www.iana.org/domains/root/db/lv.html
+.ly --  -- country-code -- http://www.iana.org/domains/root/db/ly.html
+.ma --  -- country-code -- http://www.iana.org/domains/root/db/ma.html
+.maison --  -- generic -- http://www.iana.org/domains/root/db/maison.html
+.management --  -- generic -- http://www.iana.org/domains/root/db/management.html
+.mango --  -- generic -- http://www.iana.org/domains/root/db/mango.html
+.market --  -- generic -- http://www.iana.org/domains/root/db/market.html
+.marketing --  -- generic -- http://www.iana.org/domains/root/db/marketing.html
+.mc --  -- country-code -- http://www.iana.org/domains/root/db/mc.html
+.md --  -- country-code -- http://www.iana.org/domains/root/db/md.html
+.me --  -- country-code -- http://www.iana.org/domains/root/db/me.html
+.media --  -- generic -- http://www.iana.org/domains/root/db/media.html
+.meet --  -- generic -- http://www.iana.org/domains/root/db/meet.html
+.melbourne --  -- generic -- http://www.iana.org/domains/root/db/melbourne.html
+.meme --  -- generic -- http://www.iana.org/domains/root/db/meme.html
+.menu --  -- generic -- http://www.iana.org/domains/root/db/menu.html
+.mf --  -- country-code -- http://www.iana.org/domains/root/db/mf.html
+.mg --  -- country-code -- http://www.iana.org/domains/root/db/mg.html
+.mh --  -- country-code -- http://www.iana.org/domains/root/db/mh.html
+.miami --  -- generic -- http://www.iana.org/domains/root/db/miami.html
+.mil --  -- sponsored -- http://www.iana.org/domains/root/db/mil.html
+.mini --  -- generic -- http://www.iana.org/domains/root/db/mini.html
+.mk --  -- country-code -- http://www.iana.org/domains/root/db/mk.html
+.ml --  -- country-code -- http://www.iana.org/domains/root/db/ml.html
+.mm --  -- country-code -- http://www.iana.org/domains/root/db/mm.html
+.mn --  -- country-code -- http://www.iana.org/domains/root/db/mn.html
+.mo --  -- country-code -- http://www.iana.org/domains/root/db/mo.html
+.mobi --  -- sponsored -- http://www.iana.org/domains/root/db/mobi.html
+.moda --  -- generic -- http://www.iana.org/domains/root/db/moda.html
+.moe --  -- generic -- http://www.iana.org/domains/root/db/moe.html
+.monash --  -- generic -- http://www.iana.org/domains/root/db/monash.html
+.mortgage --  -- generic -- http://www.iana.org/domains/root/db/mortgage.html
+.moscow --  -- generic -- http://www.iana.org/domains/root/db/moscow.html
+.motorcycles --  -- generic -- http://www.iana.org/domains/root/db/motorcycles.html
+.mov --  -- generic -- http://www.iana.org/domains/root/db/mov.html
+.mp --  -- country-code -- http://www.iana.org/domains/root/db/mp.html
+.mq --  -- country-code -- http://www.iana.org/domains/root/db/mq.html
+.mr --  -- country-code -- http://www.iana.org/domains/root/db/mr.html
+.ms --  -- country-code -- http://www.iana.org/domains/root/db/ms.html
+.mt --  -- country-code -- http://www.iana.org/domains/root/db/mt.html
+.mu --  -- country-code -- http://www.iana.org/domains/root/db/mu.html
+.museum --  -- sponsored -- http://www.iana.org/domains/root/db/museum.html
+.mv --  -- country-code -- http://www.iana.org/domains/root/db/mv.html
+.mw --  -- country-code -- http://www.iana.org/domains/root/db/mw.html
+.mx --  -- country-code -- http://www.iana.org/domains/root/db/mx.html
+.my --  -- country-code -- http://www.iana.org/domains/root/db/my.html
+.mz --  -- country-code -- http://www.iana.org/domains/root/db/mz.html
+.na --  -- country-code -- http://www.iana.org/domains/root/db/na.html
+.nagoya --  -- generic -- http://www.iana.org/domains/root/db/nagoya.html
+.name --  -- generic-restricted -- http://www.iana.org/domains/root/db/name.html
+.navy --  -- generic -- http://www.iana.org/domains/root/db/navy.html
+.nc --  -- country-code -- http://www.iana.org/domains/root/db/nc.html
+.ne --  -- country-code -- http://www.iana.org/domains/root/db/ne.html
+.net --  -- generic -- http://www.iana.org/domains/root/db/net.html
+.network --  -- generic -- http://www.iana.org/domains/root/db/network.html
+.neustar --  -- generic -- http://www.iana.org/domains/root/db/neustar.html
+.new --  -- generic -- http://www.iana.org/domains/root/db/new.html
+.nexus --  -- generic -- http://www.iana.org/domains/root/db/nexus.html
+.nf --  -- country-code -- http://www.iana.org/domains/root/db/nf.html
+.ng --  -- country-code -- http://www.iana.org/domains/root/db/ng.html
+.ngo --  -- generic -- http://www.iana.org/domains/root/db/ngo.html
+.nhk --  -- generic -- http://www.iana.org/domains/root/db/nhk.html
+.ni --  -- country-code -- http://www.iana.org/domains/root/db/ni.html
+.ninja --  -- generic -- http://www.iana.org/domains/root/db/ninja.html
+.nl --  -- country-code -- http://www.iana.org/domains/root/db/nl.html
+.no --  -- country-code -- http://www.iana.org/domains/root/db/no.html
+.np --  -- country-code -- http://www.iana.org/domains/root/db/np.html
+.nr --  -- country-code -- http://www.iana.org/domains/root/db/nr.html
+.nra --  -- generic -- http://www.iana.org/domains/root/db/nra.html
+.nrw --  -- generic -- http://www.iana.org/domains/root/db/nrw.html
+.nu --  -- country-code -- http://www.iana.org/domains/root/db/nu.html
+.nyc --  -- generic -- http://www.iana.org/domains/root/db/nyc.html
+.nz --  -- country-code -- http://www.iana.org/domains/root/db/nz.html
+.okinawa --  -- generic -- http://www.iana.org/domains/root/db/okinawa.html
+.om --  -- country-code -- http://www.iana.org/domains/root/db/om.html
+.ong --  -- generic -- http://www.iana.org/domains/root/db/ong.html
+.onl --  -- generic -- http://www.iana.org/domains/root/db/onl.html
+.ooo --  -- generic -- http://www.iana.org/domains/root/db/ooo.html
+.org --  -- generic -- http://www.iana.org/domains/root/db/org.html
+.organic --  -- generic -- http://www.iana.org/domains/root/db/organic.html
+.otsuka --  -- generic -- http://www.iana.org/domains/root/db/otsuka.html
+.ovh --  -- generic -- http://www.iana.org/domains/root/db/ovh.html
+.pa --  -- country-code -- http://www.iana.org/domains/root/db/pa.html
+.paris --  -- generic -- http://www.iana.org/domains/root/db/paris.html
+.partners --  -- generic -- http://www.iana.org/domains/root/db/partners.html
+.parts --  -- generic -- http://www.iana.org/domains/root/db/parts.html
+.pe --  -- country-code -- http://www.iana.org/domains/root/db/pe.html
+.pf --  -- country-code -- http://www.iana.org/domains/root/db/pf.html
+.pg --  -- country-code -- http://www.iana.org/domains/root/db/pg.html
+.ph --  -- country-code -- http://www.iana.org/domains/root/db/ph.html
+.pharmacy --  -- generic -- http://www.iana.org/domains/root/db/pharmacy.html
+.photo --  -- generic -- http://www.iana.org/domains/root/db/photo.html
+.photography --  -- generic -- http://www.iana.org/domains/root/db/photography.html
+.photos --  -- generic -- http://www.iana.org/domains/root/db/photos.html
+.physio --  -- generic -- http://www.iana.org/domains/root/db/physio.html
+.pics --  -- generic -- http://www.iana.org/domains/root/db/pics.html
+.pictures --  -- generic -- http://www.iana.org/domains/root/db/pictures.html
+.pink --  -- generic -- http://www.iana.org/domains/root/db/pink.html
+.pizza --  -- generic -- http://www.iana.org/domains/root/db/pizza.html
+.pk --  -- country-code -- http://www.iana.org/domains/root/db/pk.html
+.pl --  -- country-code -- http://www.iana.org/domains/root/db/pl.html
+.place --  -- generic -- http://www.iana.org/domains/root/db/place.html
+.plumbing --  -- generic -- http://www.iana.org/domains/root/db/plumbing.html
+.pm --  -- country-code -- http://www.iana.org/domains/root/db/pm.html
+.pn --  -- country-code -- http://www.iana.org/domains/root/db/pn.html
+.pohl --  -- generic -- http://www.iana.org/domains/root/db/pohl.html
+.post --  -- sponsored -- http://www.iana.org/domains/root/db/post.html
+.pr --  -- country-code -- http://www.iana.org/domains/root/db/pr.html
+.praxi --  -- generic -- http://www.iana.org/domains/root/db/praxi.html
+.press --  -- generic -- http://www.iana.org/domains/root/db/press.html
+.pro --  -- generic-restricted -- http://www.iana.org/domains/root/db/pro.html
+.prod --  -- generic -- http://www.iana.org/domains/root/db/prod.html
+.productions --  -- generic -- http://www.iana.org/domains/root/db/productions.html
+.prof --  -- generic -- http://www.iana.org/domains/root/db/prof.html
+.properties --  -- generic -- http://www.iana.org/domains/root/db/properties.html
+.property --  -- generic -- http://www.iana.org/domains/root/db/property.html
+.ps --  -- country-code -- http://www.iana.org/domains/root/db/ps.html
+.pt --  -- country-code -- http://www.iana.org/domains/root/db/pt.html
+.pub --  -- generic -- http://www.iana.org/domains/root/db/pub.html
+.pw --  -- country-code -- http://www.iana.org/domains/root/db/pw.html
+.py --  -- country-code -- http://www.iana.org/domains/root/db/py.html
+.qa --  -- country-code -- http://www.iana.org/domains/root/db/qa.html
+.qpon --  -- generic -- http://www.iana.org/domains/root/db/qpon.html
+.quebec --  -- generic -- http://www.iana.org/domains/root/db/quebec.html
+.re --  -- country-code -- http://www.iana.org/domains/root/db/re.html
+.realtor --  -- generic -- http://www.iana.org/domains/root/db/realtor.html
+.recipes --  -- generic -- http://www.iana.org/domains/root/db/recipes.html
+.red --  -- generic -- http://www.iana.org/domains/root/db/red.html
+.rehab --  -- generic -- http://www.iana.org/domains/root/db/rehab.html
+.reise --  -- generic -- http://www.iana.org/domains/root/db/reise.html
+.reisen --  -- generic -- http://www.iana.org/domains/root/db/reisen.html
+.ren --  -- generic -- http://www.iana.org/domains/root/db/ren.html
+.rentals --  -- generic -- http://www.iana.org/domains/root/db/rentals.html
+.repair --  -- generic -- http://www.iana.org/domains/root/db/repair.html
+.report --  -- generic -- http://www.iana.org/domains/root/db/report.html
+.republican --  -- generic -- http://www.iana.org/domains/root/db/republican.html
+.rest --  -- generic -- http://www.iana.org/domains/root/db/rest.html
+.restaurant --  -- generic -- http://www.iana.org/domains/root/db/restaurant.html
+.reviews --  -- generic -- http://www.iana.org/domains/root/db/reviews.html
+.rich --  -- generic -- http://www.iana.org/domains/root/db/rich.html
+.rio --  -- generic -- http://www.iana.org/domains/root/db/rio.html
+.ro --  -- country-code -- http://www.iana.org/domains/root/db/ro.html
+.rocks --  -- generic -- http://www.iana.org/domains/root/db/rocks.html
+.rodeo --  -- generic -- http://www.iana.org/domains/root/db/rodeo.html
+.rs --  -- country-code -- http://www.iana.org/domains/root/db/rs.html
+.rsvp --  -- generic -- http://www.iana.org/domains/root/db/rsvp.html
+.ru --  -- country-code -- http://www.iana.org/domains/root/db/ru.html
+.ruhr --  -- generic -- http://www.iana.org/domains/root/db/ruhr.html
+.rw --  -- country-code -- http://www.iana.org/domains/root/db/rw.html
+.ryukyu --  -- generic -- http://www.iana.org/domains/root/db/ryukyu.html
+.sa --  -- country-code -- http://www.iana.org/domains/root/db/sa.html
+.saarland --  -- generic -- http://www.iana.org/domains/root/db/saarland.html
+.sarl --  -- generic -- http://www.iana.org/domains/root/db/sarl.html
+.sb --  -- country-code -- http://www.iana.org/domains/root/db/sb.html
+.sc --  -- country-code -- http://www.iana.org/domains/root/db/sc.html
+.sca --  -- generic -- http://www.iana.org/domains/root/db/sca.html
+.scb --  -- generic -- http://www.iana.org/domains/root/db/scb.html
+.schmidt --  -- generic -- http://www.iana.org/domains/root/db/schmidt.html
+.schule --  -- generic -- http://www.iana.org/domains/root/db/schule.html
+.scot --  -- generic -- http://www.iana.org/domains/root/db/scot.html
+.sd --  -- country-code -- http://www.iana.org/domains/root/db/sd.html
+.se --  -- country-code -- http://www.iana.org/domains/root/db/se.html
+.services --  -- generic -- http://www.iana.org/domains/root/db/services.html
+.sexy --  -- generic -- http://www.iana.org/domains/root/db/sexy.html
+.sg --  -- country-code -- http://www.iana.org/domains/root/db/sg.html
+.sh --  -- country-code -- http://www.iana.org/domains/root/db/sh.html
+.shiksha --  -- generic -- http://www.iana.org/domains/root/db/shiksha.html
+.shoes --  -- generic -- http://www.iana.org/domains/root/db/shoes.html
+.si --  -- country-code -- http://www.iana.org/domains/root/db/si.html
+.singles --  -- generic -- http://www.iana.org/domains/root/db/singles.html
+.sj --  -- country-code -- http://www.iana.org/domains/root/db/sj.html
+.sk --  -- country-code -- http://www.iana.org/domains/root/db/sk.html
+.sl --  -- country-code -- http://www.iana.org/domains/root/db/sl.html
+.sm --  -- country-code -- http://www.iana.org/domains/root/db/sm.html
+.sn --  -- country-code -- http://www.iana.org/domains/root/db/sn.html
+.so --  -- country-code -- http://www.iana.org/domains/root/db/so.html
+.social --  -- generic -- http://www.iana.org/domains/root/db/social.html
+.software --  -- generic -- http://www.iana.org/domains/root/db/software.html
+.sohu --  -- generic -- http://www.iana.org/domains/root/db/sohu.html
+.solar --  -- generic -- http://www.iana.org/domains/root/db/solar.html
+.solutions --  -- generic -- http://www.iana.org/domains/root/db/solutions.html
+.soy --  -- generic -- http://www.iana.org/domains/root/db/soy.html
+.space --  -- generic -- http://www.iana.org/domains/root/db/space.html
+.spiegel --  -- generic -- http://www.iana.org/domains/root/db/spiegel.html
+.sr --  -- country-code -- http://www.iana.org/domains/root/db/sr.html
+.ss --  -- country-code -- http://www.iana.org/domains/root/db/ss.html
+.st --  -- country-code -- http://www.iana.org/domains/root/db/st.html
+.su --  -- country-code -- http://www.iana.org/domains/root/db/su.html
+.supplies --  -- generic -- http://www.iana.org/domains/root/db/supplies.html
+.supply --  -- generic -- http://www.iana.org/domains/root/db/supply.html
+.support --  -- generic -- http://www.iana.org/domains/root/db/support.html
+.surf --  -- generic -- http://www.iana.org/domains/root/db/surf.html
+.surgery --  -- generic -- http://www.iana.org/domains/root/db/surgery.html
+.suzuki --  -- generic -- http://www.iana.org/domains/root/db/suzuki.html
+.sv --  -- country-code -- http://www.iana.org/domains/root/db/sv.html
+.sx --  -- country-code -- http://www.iana.org/domains/root/db/sx.html
+.sy --  -- country-code -- http://www.iana.org/domains/root/db/sy.html
+.systems --  -- generic -- http://www.iana.org/domains/root/db/systems.html
+.sz --  -- country-code -- http://www.iana.org/domains/root/db/sz.html
+.tatar --  -- generic -- http://www.iana.org/domains/root/db/tatar.html
+.tattoo --  -- generic -- http://www.iana.org/domains/root/db/tattoo.html
+.tax --  -- generic -- http://www.iana.org/domains/root/db/tax.html
+.tc --  -- country-code -- http://www.iana.org/domains/root/db/tc.html
+.td --  -- country-code -- http://www.iana.org/domains/root/db/td.html
+.technology --  -- generic -- http://www.iana.org/domains/root/db/technology.html
+.tel --  -- sponsored -- http://www.iana.org/domains/root/db/tel.html
+.tf --  -- country-code -- http://www.iana.org/domains/root/db/tf.html
+.tg --  -- country-code -- http://www.iana.org/domains/root/db/tg.html
+.th --  -- country-code -- http://www.iana.org/domains/root/db/th.html
+.tienda --  -- generic -- http://www.iana.org/domains/root/db/tienda.html
+.tips --  -- generic -- http://www.iana.org/domains/root/db/tips.html
+.tirol --  -- generic -- http://www.iana.org/domains/root/db/tirol.html
+.tj --  -- country-code -- http://www.iana.org/domains/root/db/tj.html
+.tk --  -- country-code -- http://www.iana.org/domains/root/db/tk.html
+.tl --  -- country-code -- http://www.iana.org/domains/root/db/tl.html
+.tm --  -- country-code -- http://www.iana.org/domains/root/db/tm.html
+.tn --  -- country-code -- http://www.iana.org/domains/root/db/tn.html
+.to --  -- country-code -- http://www.iana.org/domains/root/db/to.html
+.today --  -- generic -- http://www.iana.org/domains/root/db/today.html
+.tokyo --  -- generic -- http://www.iana.org/domains/root/db/tokyo.html
+.tools --  -- generic -- http://www.iana.org/domains/root/db/tools.html
+.top --  -- generic -- http://www.iana.org/domains/root/db/top.html
+.town --  -- generic -- http://www.iana.org/domains/root/db/town.html
+.toys --  -- generic -- http://www.iana.org/domains/root/db/toys.html
+.tp --  -- country-code -- http://www.iana.org/domains/root/db/tp.html
+.tr --  -- country-code -- http://www.iana.org/domains/root/db/tr.html
+.trade --  -- generic -- http://www.iana.org/domains/root/db/trade.html
+.training --  -- generic -- http://www.iana.org/domains/root/db/training.html
+.travel --  -- sponsored -- http://www.iana.org/domains/root/db/travel.html
+.tt --  -- country-code -- http://www.iana.org/domains/root/db/tt.html
+.tui --  -- generic -- http://www.iana.org/domains/root/db/tui.html
+.tv --  -- country-code -- http://www.iana.org/domains/root/db/tv.html
+.tw --  -- country-code -- http://www.iana.org/domains/root/db/tw.html
+.tz --  -- country-code -- http://www.iana.org/domains/root/db/tz.html
+.ua --  -- country-code -- http://www.iana.org/domains/root/db/ua.html
+.ug --  -- country-code -- http://www.iana.org/domains/root/db/ug.html
+.uk --  -- country-code -- http://www.iana.org/domains/root/db/uk.html
+.um --  -- country-code -- http://www.iana.org/domains/root/db/um.html
+.university --  -- generic -- http://www.iana.org/domains/root/db/university.html
+.uno --  -- generic -- http://www.iana.org/domains/root/db/uno.html
+.uol --  -- generic -- http://www.iana.org/domains/root/db/uol.html
+.us --  -- country-code -- http://www.iana.org/domains/root/db/us.html
+.uy --  -- country-code -- http://www.iana.org/domains/root/db/uy.html
+.uz --  -- country-code -- http://www.iana.org/domains/root/db/uz.html
+.va --  -- country-code -- http://www.iana.org/domains/root/db/va.html
+.vacations --  -- generic -- http://www.iana.org/domains/root/db/vacations.html
+.vc --  -- country-code -- http://www.iana.org/domains/root/db/vc.html
+.ve --  -- country-code -- http://www.iana.org/domains/root/db/ve.html
+.vegas --  -- generic -- http://www.iana.org/domains/root/db/vegas.html
+.ventures --  -- generic -- http://www.iana.org/domains/root/db/ventures.html
+.versicherung --  -- generic -- http://www.iana.org/domains/root/db/versicherung.html
+.vet --  -- generic -- http://www.iana.org/domains/root/db/vet.html
+.vg --  -- country-code -- http://www.iana.org/domains/root/db/vg.html
+.vi --  -- country-code -- http://www.iana.org/domains/root/db/vi.html
+.viajes --  -- generic -- http://www.iana.org/domains/root/db/viajes.html
+.villas --  -- generic -- http://www.iana.org/domains/root/db/villas.html
+.vision --  -- generic -- http://www.iana.org/domains/root/db/vision.html
+.vlaanderen --  -- generic -- http://www.iana.org/domains/root/db/vlaanderen.html
+.vn --  -- country-code -- http://www.iana.org/domains/root/db/vn.html
+.vodka --  -- generic -- http://www.iana.org/domains/root/db/vodka.html
+.vote --  -- generic -- http://www.iana.org/domains/root/db/vote.html
+.voting --  -- generic -- http://www.iana.org/domains/root/db/voting.html
+.voto --  -- generic -- http://www.iana.org/domains/root/db/voto.html
+.voyage --  -- generic -- http://www.iana.org/domains/root/db/voyage.html
+.vu --  -- country-code -- http://www.iana.org/domains/root/db/vu.html
+.wales --  -- generic -- http://www.iana.org/domains/root/db/wales.html
+.wang --  -- generic -- http://www.iana.org/domains/root/db/wang.html
+.watch --  -- generic -- http://www.iana.org/domains/root/db/watch.html
+.webcam --  -- generic -- http://www.iana.org/domains/root/db/webcam.html
+.website --  -- generic -- http://www.iana.org/domains/root/db/website.html
+.wed --  -- generic -- http://www.iana.org/domains/root/db/wed.html
+.wf --  -- country-code -- http://www.iana.org/domains/root/db/wf.html
+.whoswho --  -- generic -- http://www.iana.org/domains/root/db/whoswho.html
+.wien --  -- generic -- http://www.iana.org/domains/root/db/wien.html
+.wiki --  -- generic -- http://www.iana.org/domains/root/db/wiki.html
+.williamhill --  -- generic -- http://www.iana.org/domains/root/db/williamhill.html
+.wme --  -- generic -- http://www.iana.org/domains/root/db/wme.html
+.work --  -- generic -- http://www.iana.org/domains/root/db/work.html
+.works --  -- generic -- http://www.iana.org/domains/root/db/works.html
+.world --  -- generic -- http://www.iana.org/domains/root/db/world.html
+.ws --  -- country-code -- http://www.iana.org/domains/root/db/ws.html
+.wtc --  -- generic -- http://www.iana.org/domains/root/db/wtc.html
+.wtf --  -- generic -- http://www.iana.org/domains/root/db/wtf.html
+.测试 -- xn--0zwm56d -- test -- http://www.iana.org/domains/root/db/xn--0zwm56d.html
+.परीक्षा -- xn--11b5bs3a9aj6g -- test -- http://www.iana.org/domains/root/db/xn--11b5bs3a9aj6g.html
+.佛山 -- xn--1qqw23a -- generic -- http://www.iana.org/domains/root/db/xn--1qqw23a.html
+.集团 -- xn--3bst00 -- generic -- http://www.iana.org/domains/root/db/xn--3bst00m.html
+.在线 -- xn--3ds443g -- generic -- http://www.iana.org/domains/root/db/xn--3ds443g.html
+.한국 -- xn--3e0b707e -- country-code -- http://www.iana.org/domains/root/db/xn--3e0b707e.html
+.ভারত -- xn--45brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--45brj9c.html
+.موقع -- xn--4gbri -- generic -- http://www.iana.org/domains/root/db/xn--4gbrim.html
+.বাংলা -- xn--54b7fta0cc -- country-code -- http://www.iana.org/domains/root/db/xn--54b7fta0cc.html
+.公益 -- xn--55qw42g -- generic -- http://www.iana.org/domains/root/db/xn--55qw42g.html
+.公司 -- xn--55qx5d -- generic -- http://www.iana.org/domains/root/db/xn--55qx5d.html
+.移动 -- xn--6frz82g -- generic -- http://www.iana.org/domains/root/db/xn--6frz82g.html
+.我爱你 -- xn--6qq986b3x -- generic -- http://www.iana.org/domains/root/db/xn--6qq986b3xl.html
+.москва -- xn--80adxhks -- generic -- http://www.iana.org/domains/root/db/xn--80adxhks.html
+.испытание -- xn--80akhbyknj4f -- test -- http://www.iana.org/domains/root/db/xn--80akhbyknj4f.html
+.қаз -- xn--80ao21a -- country-code -- http://www.iana.org/domains/root/db/xn--80ao21a.html
+.онлайн -- xn--80asehdb -- generic -- http://www.iana.org/domains/root/db/xn--80asehdb.html
+.сайт -- xn--80aswg -- generic -- http://www.iana.org/domains/root/db/xn--80aswg.html
+.срб -- xn--90a3ac -- country-code -- http://www.iana.org/domains/root/db/xn--90a3ac.html
+.бел -- xn--90ais -- country-code -- http://www.iana.org/domains/root/db/xn--90ais.html
+.테스트 -- xn--9t4b11yi5a -- test -- http://www.iana.org/domains/root/db/xn--9t4b11yi5a.html
+.орг -- xn--c1avg -- generic -- http://www.iana.org/domains/root/db/xn--c1avg.html
+.삼성 -- xn--cg4bki -- generic -- http://www.iana.org/domains/root/db/xn--cg4bki.html
+.சிங்கப்பூர் -- xn--clchc0ea0b2g2a9gcd -- country-code -- http://www.iana.org/domains/root/db/xn--clchc0ea0b2g2a9gcd.html
+.商标 -- xn--czr694b -- generic -- http://www.iana.org/domains/root/db/xn--czr694b.html
+.商城 -- xn--czru2d -- generic -- http://www.iana.org/domains/root/db/xn--czru2d.html
+.дети -- xn--d1acj3b -- generic -- http://www.iana.org/domains/root/db/xn--d1acj3b.html
+.мкд -- xn--d1alf -- country-code -- http://www.iana.org/domains/root/db/xn--d1alf.html
+.טעסט -- xn--deba0ad -- test -- http://www.iana.org/domains/root/db/xn--deba0ad.html
+.中文网 -- xn--fiq228c5hs -- generic -- http://www.iana.org/domains/root/db/xn--fiq228c5hs.html
+.中信 -- xn--fiq64b -- generic -- http://www.iana.org/domains/root/db/xn--fiq64b.html
+.中国 -- xn--fiqs8s -- country-code -- http://www.iana.org/domains/root/db/xn--fiqs8s.html
+.中國 -- xn--fiqz9s -- country-code -- http://www.iana.org/domains/root/db/xn--fiqz9s.html
+.భారత్ -- xn--fpcrj9c3d -- country-code -- http://www.iana.org/domains/root/db/xn--fpcrj9c3d.html
+.ලංකා -- xn--fzc2c9e2c -- country-code -- http://www.iana.org/domains/root/db/xn--fzc2c9e2c.html
+.測試 -- xn--g6w251d -- test -- http://www.iana.org/domains/root/db/xn--g6w251d.html
+.ભારત -- xn--gecrj9c -- country-code -- http://www.iana.org/domains/root/db/xn--gecrj9c.html
+.भारत -- xn--h2brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--h2brj9c.html
+.آزمایشی -- xn--hgbk6aj7f53bba -- test -- http://www.iana.org/domains/root/db/xn--hgbk6aj7f53bba.html
+.பரிட்சை -- xn--hlcj6aya9esc7a -- test -- http://www.iana.org/domains/root/db/xn--hlcj6aya9esc7a.html
+.संगठन -- xn--i1b6b1a6a2e -- generic -- http://www.iana.org/domains/root/db/xn--i1b6b1a6a2e.html
+.网络 -- xn--io0a7i -- generic -- http://www.iana.org/domains/root/db/xn--io0a7i.html
+.укр -- xn--j1a -- country-code -- http://www.iana.org/domains/root/db/xn--j1amh.html
+.香港 -- xn--j6w193g -- country-code -- http://www.iana.org/domains/root/db/xn--j6w193g.html
+.δοκιμή -- xn--jxalpdlp -- test -- http://www.iana.org/domains/root/db/xn--jxalpdlp.html
+.إختبار -- xn--kgbechtv -- test -- http://www.iana.org/domains/root/db/xn--kgbechtv.html
+.台湾 -- xn--kprw13d -- country-code -- http://www.iana.org/domains/root/db/xn--kprw13d.html
+.台灣 -- xn--kpry57d -- country-code -- http://www.iana.org/domains/root/db/xn--kpry57d.html
+.手机 -- xn--kput3i -- generic -- http://www.iana.org/domains/root/db/xn--kput3i.html
+.мон -- xn--l1acc -- country-code -- http://www.iana.org/domains/root/db/xn--l1acc.html
+.الجزائر -- xn--lgbbat1ad8j -- country-code -- http://www.iana.org/domains/root/db/xn--lgbbat1ad8j.html
+.عمان -- xn--mgb9awbf -- country-code -- http://www.iana.org/domains/root/db/xn--mgb9awbf.html
+.ایران -- xn--mgba3a4f16a -- country-code -- http://www.iana.org/domains/root/db/xn--mgba3a4f16a.html
+.امارات -- xn--mgbaam7a8 -- country-code -- http://www.iana.org/domains/root/db/xn--mgbaam7a8h.html
+.بازار -- xn--mgbab2bd -- generic -- http://www.iana.org/domains/root/db/xn--mgbab2bd.html
+.پاکستان -- xn--mgbai9azgqp6j -- country-code -- http://www.iana.org/domains/root/db/xn--mgbai9azgqp6j.html
+.الاردن -- xn--mgbayh7gpa -- country-code -- http://www.iana.org/domains/root/db/xn--mgbayh7gpa.html
+.بھارت -- xn--mgbbh1a71e -- country-code -- http://www.iana.org/domains/root/db/xn--mgbbh1a71e.html
+.المغرب -- xn--mgbc0a9azcg -- country-code -- http://www.iana.org/domains/root/db/xn--mgbc0a9azcg.html
+.السعودية -- xn--mgberp4a5d4ar -- country-code -- http://www.iana.org/domains/root/db/xn--mgberp4a5d4ar.html
+.سودان -- xn--mgbpl2f -- country-code -- http://www.iana.org/domains/root/db/xn--mgbpl2fh.html
+.عراق -- xn--mgbtx2b -- country-code -- http://www.iana.org/domains/root/db/xn--mgbtx2b.html
+.مليسيا -- xn--mgbx4cd0ab -- country-code -- http://www.iana.org/domains/root/db/xn--mgbx4cd0ab.html
+.شبكة -- xn--ngbc5azd -- generic -- http://www.iana.org/domains/root/db/xn--ngbc5azd.html
+.გე -- xn--node -- country-code -- http://www.iana.org/domains/root/db/xn--node.html
+.机构 -- xn--nqv7f -- generic -- http://www.iana.org/domains/root/db/xn--nqv7f.html
+.组织机构 -- xn--nqv7fs00ema -- generic -- http://www.iana.org/domains/root/db/xn--nqv7fs00ema.html
+.ไทย -- xn--o3cw4 -- country-code -- http://www.iana.org/domains/root/db/xn--o3cw4h.html
+.سورية -- xn--ogbpf8f -- country-code -- http://www.iana.org/domains/root/db/xn--ogbpf8fl.html
+.рус -- xn--p1acf -- generic -- http://www.iana.org/domains/root/db/xn--p1acf.html
+.рф -- xn--p1ai -- country-code -- http://www.iana.org/domains/root/db/xn--p1ai.html
+.تونس -- xn--pgbs0d -- country-code -- http://www.iana.org/domains/root/db/xn--pgbs0dh.html
+.みんな -- xn--q9jyb4c -- generic -- http://www.iana.org/domains/root/db/xn--q9jyb4c.html
+.世界 -- xn--rhqv96g -- generic -- http://www.iana.org/domains/root/db/xn--rhqv96g.html
+.ਭਾਰਤ -- xn--s9brj9c -- country-code -- http://www.iana.org/domains/root/db/xn--s9brj9c.html
+.网址 -- xn--ses554g -- generic -- http://www.iana.org/domains/root/db/xn--ses554g.html
+.游戏 -- xn--unup4y -- generic -- http://www.iana.org/domains/root/db/xn--unup4y.html
+.vermögensberater -- xn--vermgensberater-ctb -- generic -- http://www.iana.org/domains/root/db/xn--vermgensberater-ctb.html
+.vermögensberatung -- xn--vermgensberatung-pwb -- generic -- http://www.iana.org/domains/root/db/xn--vermgensberatung-pwb.html
+.企业 -- xn--vhquv -- generic -- http://www.iana.org/domains/root/db/xn--vhquv.html
+.مصر -- xn--wgbh1c -- country-code -- http://www.iana.org/domains/root/db/xn--wgbh1c.html
+.قطر -- xn--wgbl6a -- country-code -- http://www.iana.org/domains/root/db/xn--wgbl6a.html
+.广东 -- xn--xhq521b -- generic -- http://www.iana.org/domains/root/db/xn--xhq521b.html
+.இலங்கை -- xn--xkc2al3hye2a -- country-code -- http://www.iana.org/domains/root/db/xn--xkc2al3hye2a.html
+.இந்தியா -- xn--xkc2dl3a5ee0 -- country-code -- http://www.iana.org/domains/root/db/xn--xkc2dl3a5ee0h.html
+.新加坡 -- xn--yfro4i67o -- country-code -- http://www.iana.org/domains/root/db/xn--yfro4i67o.html
+.فلسطين -- xn--ygbi2ammx -- country-code -- http://www.iana.org/domains/root/db/xn--ygbi2ammx.html
+.テスト -- xn--zckza -- test -- http://www.iana.org/domains/root/db/xn--zckzah.html
+.政务 -- xn--zfr164b -- generic -- http://www.iana.org/domains/root/db/xn--zfr164b.html
+.xxx --  -- sponsored -- http://www.iana.org/domains/root/db/xxx.html
+.xyz --  -- generic -- http://www.iana.org/domains/root/db/xyz.html
+.yachts --  -- generic -- http://www.iana.org/domains/root/db/yachts.html
+.yandex --  -- generic -- http://www.iana.org/domains/root/db/yandex.html
+.ye --  -- country-code -- http://www.iana.org/domains/root/db/ye.html
+.yokohama --  -- generic -- http://www.iana.org/domains/root/db/yokohama.html
+.youtube --  -- generic -- http://www.iana.org/domains/root/db/youtube.html
+.yt --  -- country-code -- http://www.iana.org/domains/root/db/yt.html
+.za --  -- country-code -- http://www.iana.org/domains/root/db/za.html
+.zip --  -- generic -- http://www.iana.org/domains/root/db/zip.html
+.zm --  -- country-code -- http://www.iana.org/domains/root/db/zm.html
+.zone --  -- generic -- http://www.iana.org/domains/root/db/zone.html
+.zw --  -- country-code -- http://www.iana.org/domains/root/db/zw.html
