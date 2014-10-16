@@ -125,25 +125,25 @@ def create_xml():
     xml.close()
 
 if __name__ == '__main__':
-	'''
-	
-	Due to some unpredictable errors (Mostly Network Errors),
-	
-	I recommend you to run ONE function each time.
-	
-	You could also use my results directly .
-	
-	'''
-	#First step : run tld_list() function , get tld list in brief
-	#create tldlist.txt
-	tld_list()
-	
-	#second step : run tld_parser() function , get tld information in details
-	#create tldall.txt
+    '''
+
+    Due to some unpredictable errors (Mostly Network Errors),
+
+    I recommend you to run ONE function each time.
+
+    You could also use my results directly .
+
+    '''
+    #First step : run tld_list() function , get tld list in brief
+    #create tldlist.txt
+    tld_list()
+
+    #second step : run tld_parser() function , get tld information in details
+    #create tldall.txt
     tld_parser()
-	
-	#third step : run following codes , get a xml file. 
-	#create tldlist.xml
+
+    #third step : run following codes , get a xml file.
+    #create tldlist.xml
     doc = minidom.Document()
     tldlist = doc.createElement('tldlist')
     create_xml()
