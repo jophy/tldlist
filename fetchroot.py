@@ -127,7 +127,7 @@ def create_xml():
 if __name__ == '__main__':
 	'''
 	
-	Due to some unpredictable errors (Mostly Network Error),
+	Due to some unpredictable errors (Mostly Network Errors),
 	
 	I recommend you to run ONE function each time.
 	
@@ -142,7 +142,7 @@ if __name__ == '__main__':
 	#create tldall.txt
     tld_parser()
 	
-	#third step : run following codes , get create a xml file. 
+	#third step : run following codes , get a xml file. 
 	#create tldlist.xml
     doc = minidom.Document()
     tldlist = doc.createElement('tldlist')
